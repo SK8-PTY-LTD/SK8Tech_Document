@@ -37,7 +37,7 @@ Got great idea? Our industry professionals can help you validate the idea, selec
 1. [Brand Website](#brand-website)
 1. [App Development](#app-development)
 1. [WeChat](#wechat)
-1. [Testing](#testing)
+1. [Testing](#e-commerce)
 
 ## Brand Website
 
@@ -47,4 +47,6 @@ Got great idea? Our industry professionals can help you validate the idea, selec
 
 Do you know Chinese spend over 80% of spare time browsing Wechat content? 
 
-## Testing
+## E-Commerce
+
+An online presence is already a must have for modern brands. Expand your business by opening an E-Commerce store! Accept payment using Credit cards, PayPal and more.

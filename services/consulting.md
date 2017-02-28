@@ -54,8 +54,15 @@ So if you're building a companies, but you have no idea how, get in touch. We ju
 
 Technology promotes efficiency. As tech experts, we can help you run your business more efficiently by integrating information system into your daily operations. 
 
+---
+# Backup
+
+## IT Consulting
+
 Having problem with your IT? Let us handle it. Professionals at SK8Tech handles all sorts of new IT problems daily, ranging from hardware to software.
 Chances are the problem you are having had already been solved long time ago. Let the best help you with IT, so you can be at your best at what you do. 
+
+Having IT problem? Our IT consulting service ranges from hardware repair to software solutions. Let IT work for you, so you can focus on what’s important.
 
 
 
