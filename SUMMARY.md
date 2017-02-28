@@ -6,7 +6,7 @@
 
 * [History](introduction/history.md)
 * [About](introduction/README.md)
-* Vision
+* [Vision](introduction/vision.md)
 * [Team](introduction/team.md)
 
 ## Services
