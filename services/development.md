@@ -42,5 +42,6 @@
 ## App Development
 
 ## Wechat
+Do you know Chinese spend over 80% of spare time browsing Wechat content? 
 
 ## Testing
