@@ -1,8 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-  * [Team](team.md)
 * [History](history.md)
+* Vision
+* [Team](team.md)
 
 ## Services
 
