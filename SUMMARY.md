@@ -4,10 +4,10 @@
 
 ## Inroduction
 
-* [History](history.md)
-* [Introduction](README.md)
+* [History](introduction/history.md)
+* [About](introduction/README.md)
 * Vision
-* [Team](team.md)
+* [Team](introduction/team.md)
 
 ## Services
 
