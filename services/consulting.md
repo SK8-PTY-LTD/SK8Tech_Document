@@ -11,6 +11,7 @@ What creates a successful StartUp?
 1. Idea Research
 1. Business Registration
     1. Name
+    1. Constitution
     1. ACN
     1. ABN
     1. GST
