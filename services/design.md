@@ -64,6 +64,8 @@ Building a new brand? We offer a full branding package, including logo, website,
 
 ## Graphics
 
+Looking to get some Graphic or Motion Design done? Whatever idea you might have in mind, we can get it done for you. Poster, Flyer, Gif, Motion Picture, and more.
+
 ## Animations
 
 ## UI & UX
