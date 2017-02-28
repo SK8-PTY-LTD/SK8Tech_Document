@@ -44,7 +44,8 @@ Focus on your core services, and leave the tedious management to us. We can help
 
 ## Business Consulting
 
-What makes a company great?  
+Having problem with your IT? Let us handle it. Professionals at SK8Tech handles all sorts of new IT problems daily, ranging from hardware to software. 
+Chances are the problem you are having had already been solved long time ago. Let the best help you with IT, so you can be at your best at what you do. 
 
 ## Business Infomation System
 
