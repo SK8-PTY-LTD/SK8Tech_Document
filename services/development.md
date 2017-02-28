@@ -32,6 +32,8 @@
 
 #Services
 
+Got great idea? Our industry professionals can help you validate the idea, select the most optimal strategy, design, develop and test the product, so you can focus on your idea.
+
 1. [Brand Website](#brand-website)
 1. [App Development](#app-development)
 1. [WeChat](#wechat)

@@ -23,6 +23,9 @@
 1. [Social Media Marketing](#social-media-marketing)
 
 ## SEO 
+
+Does your website/app show up on the first page of related search? Our online marketing team specialises in SEO, SEM, and more. Boost your ranking today!
+
 1. Techincal Optimisation
 1. SEO monitoring
 1. Pricing: (440+220/m)

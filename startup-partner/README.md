@@ -1,0 +1,1 @@
+Starting up is hard. It happens at the right time, right place and with the right people. StartUp Partner is your all-rounder partner who shares your vision and value.
