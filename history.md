@@ -1,12 +1,12 @@
-Timeline
-
 # 2013
+
 ## Founded
 We started to develop our first app - iKardz, a name card sharing app. 
 
 ---
 
 # 2014
+
 ## March
 First iOS App released in Apple App Store. It only took us 3 months to design, learn, develop our first app from scratch. Android version took another month to release on Google Play Store.
 
