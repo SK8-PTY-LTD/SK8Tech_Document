@@ -20,6 +20,8 @@ Initial run of intern program, providing practical training of App development f
 ## August
 Relocated to Sydney due to business expansion. Serving customers from China and Singapore. 
 
+---
+
 # 2016
 
 ## January
