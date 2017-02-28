@@ -10,6 +10,7 @@ Building a new brand? We offer a full branding package, including logo, website,
 1. E-Name Card
 1. Email Signature
 1. QR Code
+1. Menu
 
 ### Cliparts & Animations
 1. Animated Logo
