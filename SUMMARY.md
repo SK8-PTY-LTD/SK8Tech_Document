@@ -1,9 +1,10 @@
 # Summary
+* [Introduction](README.md)
 
 ## Inroduction
 
-* [Introduction](README.md)
 * [History](history.md)
+* [Introduction](README.md)
 * Vision
 * [Team](team.md)
 
