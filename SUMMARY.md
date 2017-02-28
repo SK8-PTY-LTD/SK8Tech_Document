@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+  * [Team](team.md)
 * [History](history.md)
 
 ## Services
