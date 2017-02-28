@@ -11,5 +11,3 @@
 
 ## Acadamy
 
-* [Test title](acadamy/test-title-article.md)
-
