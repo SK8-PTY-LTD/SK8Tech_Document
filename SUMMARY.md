@@ -12,5 +12,5 @@
 
 ## Acadamy
 
-* [Introduction](introduction.md)
+* [Introduction](acadamy/README.md)
 
