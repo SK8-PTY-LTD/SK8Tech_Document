@@ -1,6 +1,6 @@
 # 2013
 
-## November - Founded
+## November - Foundation
 We started to develop our first app - iKardz, a name card sharing app. 
 
 ---
