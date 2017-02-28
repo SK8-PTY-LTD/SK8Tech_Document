@@ -29,3 +29,7 @@ Joined TradeMyBusiness.com as its IT partner, providing R&D and technical suppor
 
 ## July
 Opened branch in China, Shanghai AoYang Network Technology Limited. 
+
+--- 
+
+# 2017
