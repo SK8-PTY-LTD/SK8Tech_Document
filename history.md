@@ -29,7 +29,3 @@ Joined TradeMyBusiness.com as its IT partner, providing R&D and technical suppor
 
 ## July
 Opened branch in China, Shanghai AoYang Network Technology Limited. 
-
-Classes
-
-https://localhost/SK8Tech_WP/wp-content/uploads/2017/02/SK8Tech-Company-Portfoliointeractive.pdf
