@@ -11,5 +11,5 @@
 
 ## Acadamy
 
-* [Test title article](acadamy/test-title-article.md)
+* [Test title](acadamy/test-title-article.md)
 
