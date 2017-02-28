@@ -9,6 +9,10 @@
 * [Vision](introduction/vision.md)
 * [Team](introduction/team.md)
 
+## Testimonial
+
+## Portfolio
+
 ## Services
 
 * [Consulting](services/consulting.md)
