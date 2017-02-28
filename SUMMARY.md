@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* test
 
 ## Services
 
@@ -11,4 +10,6 @@
 * [Marketing](services/marketing.md)
 
 ## Acadamy
+
+* [Test title article](acadamy/test-title-article.md)
 
