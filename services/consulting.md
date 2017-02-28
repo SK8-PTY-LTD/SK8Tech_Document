@@ -9,7 +9,11 @@ What creates a successful StartUp?
 # Skills
 
 1. Idea Research
-1. Business Registration (ABN)
+1. Business Registration
+    1. Name
+    1. ACN
+    1. ABN
+    1. GST
 1. Book Keeping
 1. Recruiting
 1. Business Consulting
