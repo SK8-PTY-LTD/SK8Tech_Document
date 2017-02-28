@@ -18,7 +18,6 @@ What creates a successful StartUp?
 1. Accounting
     1. Book Keeping
     1. Financial Statements
-1. Book Keeping
 1. Recruiting
 1. Business Consulting
 1. IT Consulting
