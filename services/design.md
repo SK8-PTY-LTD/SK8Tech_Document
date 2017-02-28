@@ -11,6 +11,13 @@ Building a new brand? We offer a full branding package, including logo, website,
 1. Email Signature
 1. QR Code
 1. Menu
+1. Broucher
+1. Mugs
+1. Coffee Cups
+1. Coffee Holders
+1. Bottled Water
+1. Branded iRing
+1. Packaging
 
 ### Cliparts & Animations
 1. Animated Logo
