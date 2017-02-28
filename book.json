@@ -4,7 +4,7 @@
     "description": "This book contains the text content for SK8Tech",
     "author": "Jacktator",
     "plugins": [
-    "styles-less"
+        "styles-less"
     ],
     "styles": {
         "pdf": "./styles/pdf.less"
