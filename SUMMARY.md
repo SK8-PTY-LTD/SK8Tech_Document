@@ -4,10 +4,10 @@
 
 ## Inroduction
 
-* [History](introduction/history.md)
-* [About](introduction/README.md)
-* [Vision](introduction/vision.md)
-* [Team](introduction/team.md)
+* [History](en/introduction/history.md)
+* [About](en/introduction/README.md)
+* [Vision](en/introduction/vision.md)
+* [Team](en/introduction/team.md)
 
 ## Testimonial
 
@@ -15,16 +15,16 @@
 
 ## Services
 
-* [Consulting](services/consulting.md)
-* [Design](services/design.md)
-* [Development](services/development.md)
-* [Marketing](services/marketing.md)
+* [Consulting](en/services/consulting.md)
+* [Design](en/services/design.md)
+* [Development](en/services/development.md)
+* [Marketing](en/services/marketing.md)
 
 ## Acadamy
 
-* [Introduction](acadamy/README.md)
+* [Introduction](en/acadamy/README.md)
 
 ## StartUp Partner
 
-* [Introduction](startup-partner/README.md)
+* [Introduction](en/startup-partner/README.md)
 
