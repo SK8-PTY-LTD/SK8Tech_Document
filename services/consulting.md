@@ -44,12 +44,16 @@ Focus on your core services, and leave the tedious management to us. We can help
 
 ## Business Consulting
 
-Having problem with your IT? Let us handle it. Professionals at SK8Tech handles all sorts of new IT problems daily, ranging from hardware to software. 
-Chances are the problem you are having had already been solved long time ago. Let the best help you with IT, so you can be at your best at what you do. 
+What makes a business great? We might have some idea. During our long-term partnership with many companies, we made lots of obserations and acquired lots of experiences. 
+
+So if you're building a companies, but you have no idea how, get in touch. We just might have some tips for you.
 
 ## Business Infomation System
 
 Technology promotes efficiency. As tech experts, we can help you run your business more efficiently by integrating information system into your daily operations. 
+
+Having problem with your IT? Let us handle it. Professionals at SK8Tech handles all sorts of new IT problems daily, ranging from hardware to software.
+Chances are the problem you are having had already been solved long time ago. Let the best help you with IT, so you can be at your best at what you do. 
 
 
 
