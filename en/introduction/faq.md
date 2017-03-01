@@ -18,3 +18,9 @@ Have a look at our services page for more detail. Tell us the kind of website or
 > It depends on the time it takes to complete the project. In other words, it highly depends on what the website or app does.
 While each project needs to be quoted individually, an easy way to get a close estimate would be to take a close look at close similar app.
 Tell us the kind of website or app you like, and we’ll send you a free proposal within 48 hours.
+
+## How long does it take to make a website or app?
+
+> Again, it depends on the scope of the project.
+Generally speaking, from design to finish, a 10-page company website takes 2~3 weeks to finish. A E-Commerce website takes 4~6 weeks. A more customised website or app can take longer, up to 3 months to finish.
+Tell us the kind of website or app you like, and we’ll send you a free proposal within 48 hours
