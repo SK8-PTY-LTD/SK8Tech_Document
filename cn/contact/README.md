@@ -1,4 +1,7 @@
-以下是大中华地区所有联系方式，[澳洲版](en/README.md)请见此
+以下是大中华地区所有联系方式，[澳洲版](en/README.md)
+---
+
+Having a bright idea? Let’s make it happen! Whether you’re looking to start an E-Commerce business, build an app, or simply looking to build a website for your company, we can make it happen. 
 
 # 直接联系
 
