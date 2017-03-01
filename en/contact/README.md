@@ -10,7 +10,11 @@ Here we keep a list of our contacts.
 # Website
 
 [SK8Tech](https://sk8.tech), https://sk8.tech
-[SK8Tech](), Google Business, pending
+
+# Map
+
+Foursquare
+Google Business
 
 # WeChat
 
