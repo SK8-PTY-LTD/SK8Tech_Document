@@ -1,4 +1,10 @@
-# Problem
+# 问题起因
+
+因营销媒体需要，最近开始写各类原创文章。经调查，一片好文章需要经过3个步骤
+1. 文案策划
+2. 文字编写
+3. 配图排版
+MarkDown为最高效纯文本编辑方式之一，所以，需要一个
 
 As we start writing usimg MarkDown, we need an editor.
 
