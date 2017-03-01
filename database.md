@@ -32,6 +32,7 @@ Address为用户保存的“收货地址”，键名解释如下：
 | providence| true | String|省份|
 | status| true | Number|状态|
 | district| true | String|区域|
+| owner| true | [_User](#user)|地址的拥有人|
 | location| | GeoPoint |位置坐标，[iOS](https://leancloud.cn/docs/leanstorage_guide-objc.html#地理位置), [Android](https://leancloud.cn/docs/leanstorage_guide-android.html#地理位置)|
 
 以下为数据样例
