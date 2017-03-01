@@ -104,6 +104,13 @@ If you’re looking for more branded merchandises, please visit our shop.
 
 Looking to get some Graphic or Motion Design done? Whatever idea you might have in mind, we can get it done for you. Poster, Flyer, Gif, Motion Picture, and more.
 
+Since 2016, we’ve also partnered with printing. You just need to say what you want, and we got the rest.
+
+
 ## Animations
+
+If you’re looking for fancier presentation, a gif, or motion images might just be right for you.
+
+New in 2017, we can now design gifs and motion images. Have a look at the sample below.
 
 ## UI & UX
