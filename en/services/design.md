@@ -35,9 +35,9 @@ Building a new brand? We offer a full branding package, including logo, website,
 # Services
 
 1. [Branding](##branding)
-    1. Logo Design
-    1. Visual Identity
-    1. Digital Identity
+    1. [Logo Design](#logo-design)
+    1. [Visual Identity](#visual-dentity)
+    1. [Digital Identity](#digital-identity)
 
 1. [Graphics](#graphics)
     1. Event Poster
@@ -61,6 +61,23 @@ Building a new brand? We offer a full branding package, including logo, website,
 ## Branding
 
 Building a new brand? We offer a full branding package, including logo, website, name card, email signature, letter head, and anything else you’ll need to build your brand.
+
+### Logo Design
+
+Whether it’s on a website, on a promotional object, or for a physical store, a logo is one of the first thing your customers will see. Use the expertise of our graphic team to get a unique and personalised logo that will stand out.
+
+A good design requires time and craftsmanship. Typically, it takes us one week to conceptualise and prepare 3 proposals. Once a proposal is accepted, it takes us another week to refine the logo. After the second review, we will finalise the logo, and design other elements.
+
+Logo & Visual Identity provides you with the essential elements to start a new brand, whether you’re building a new company, or simply starting a new brand. The pricing starts from AUD$2,980, you’ll get the following：
+    
+* A professional logo
+* Branded name card, and 200 of printed copies
+* Email Signature
+* Letter head & Envelope
+* Presentation Folder
+    
+### Visual Identity
+### Digital Identity
 
 ## Graphics
 
