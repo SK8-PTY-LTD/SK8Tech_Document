@@ -2,7 +2,7 @@
 
 # 数据类型
 
-数据库包括了一下“类”
+数据库包括了以下“类”
 
   1. [Address](#Address)
   1. Comment 
@@ -28,7 +28,7 @@ Address为用户保存的“收货地址”，键名解释如下：
 |   providence|   true | String|省份|
 |   status|  true |    Number|状态|
 |   district|    true |  String|区域|
-|   location|      | GeoPoint|位置坐标|
+|   location|      | [GeoPoint](https://leancloud.cn/docs/leanstorage_guide-android.html#地理位置) |位置坐标|
 
 以下为样例地址
 
