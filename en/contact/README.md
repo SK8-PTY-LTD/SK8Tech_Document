@@ -2,10 +2,11 @@ Here we keep a list of our contacts.
 
 # Direct
 
-1. Phone
-1. Email
-1. Address
-1. QQ
+|Method|Content
+|-|-
+|Phone|+61 449 843 149
+|Email|hi@sk8.tech
+|Address| 330 Wattle St, Ultimo, NSW 2007, Australia
 
 # Website
 
