@@ -25,4 +25,3 @@ Here we keep a list of our contacts.
 |Pinterest|pending
 |LinkedIn|pending
 |Youtube|https://www.youtube.com/c/Sk8Asia
-1. Instagram
