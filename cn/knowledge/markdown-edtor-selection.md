@@ -43,9 +43,9 @@ SublimeText是一个免费开源的编辑器，它有着庞大的开发者社区
   注意：**[OmniMarkdownPreviewer](https://github.com/timonwong/OmniMarkupPreviewer)**带来的**实时预览**是在**浏览器**中查看的。也就是说编辑时，至少需要开2个窗口，强迫症渗入。
 
 
-# Solution & Reason
+# 结论
 
-We end up going for [Gitbook](https://gitbook.com) in the end, because:
+我们最终决定使用 [Gitbook](https://gitbook.com) 作为官方编辑器，原因如下:
 
 1. It's the most friendly editor, suitable for both developers, designers, even everyday users.
 1. It has a wide range of functions, and can be used to generate Website/Ebook/PDF
