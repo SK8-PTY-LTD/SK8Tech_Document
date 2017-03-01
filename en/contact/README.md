@@ -16,9 +16,21 @@ Here we keep a list of our contacts.
 
 # Social Media
 
-|Platform|Link|
-|-|-|
+|Platform|Link
+|-|-
 |Facebook|https://facebook.com/sk8tech
+|Twitter|https://twiter.com/sk8techs
+|Google+|https://plus.google.com/+Sk8Asia
+|Instagram|https://facebook.com/sk8tech
+|Pinterest|pending
+|LinkedIn|pending
+|Youtube|https://www.youtube.com/c/Sk8Asia
+
+# 社交媒体
+
+|媒体|链接|
+|-|-|
+|[WeChat](#wechat)|https://facebook.com/sk8tech
 |Twitter|https://twiter.com/sk8techs
 |Google+|https://plus.google.com/+Sk8Asia
 |Instagram|https://facebook.com/sk8tech
