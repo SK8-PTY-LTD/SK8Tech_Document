@@ -1,8 +1,9 @@
 # Recruitment
 
-
+We are constantly on the look out for talents. If you looking for a challenging, yet rewarding experience, Why not join us? Visit our team page to find out more.
 
 ---
+
 # Current 
 
 ## Jack Song
@@ -72,4 +73,5 @@ pending
 pending
 
 ---
+
 # Retired
