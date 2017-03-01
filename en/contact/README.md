@@ -2,8 +2,6 @@ Here're our official contact for Australia Business. For China Mainland version 
 
 ---
 
-Having a bright idea? Let’s make it happen! Whether you’re looking to start an E-Commerce business, build an app, or simply looking to build a website for your company, we can make it happen. 
-
 We'd love to hear from you! Have any question? Find us on the following social networks, or simply drop us a line!
 
 Having a bright idea? Let’s make it happen! Whether you’re looking to start an E-Commerce business, build an app, or simply looking to build a website for your company, we can make it happen. 
