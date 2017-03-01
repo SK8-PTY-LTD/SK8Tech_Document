@@ -4,11 +4,11 @@ As we start writing usimg MarkDown, we need an editor.
 
 # Requirement
 
-1. ***Version Control**, preferrably intergration with [Github](https://github.com)
-1. ***Live** Preview
-1. ***Offline** Editing, so Win10/Mac/Linux application only
-1. ***Customisable **Themes** and **Styles**
-1. ***Exportable** HTML Source Code
+1. **Version Control**, preferrably intergration with [Github](https://github.com)
+1. **Live** Preview
+1. **Offline** Editing, so Win10/Mac/Linux application only
+1. **Customisable **Themes** and **Styles**
+1. **Exportable** HTML Source Code
 1. User friendly for **everyone**
 1. Elegant File management
 1. Website/Ebook/PDF generation
