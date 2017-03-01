@@ -17,10 +17,6 @@ Here we keep a list of our contacts.
 Foursquare
 Google Business
 
-# WeChat
-
-![](/assets/公众号.jpg)
-
 # Social Media
 
 |Platform|Link
@@ -32,6 +28,22 @@ Google Business
 |Pinterest|pending
 |LinkedIn|pending
 |Youtube|https://www.youtube.com/c/Sk8Asia
+
+# 直接联系
+
+|Method|Content
+|-|-
+|电话|+86 15800 407 454
+|邮件|hi@sk8.tech
+|微信|![](/assets/公众号.jpg)
+|QQ| 331358762
+|微信|![](/assets/公众号.jpg)
+
+
+
+# Website
+
+[SK8科技](https://sk8.tech/zh), https://sk8.tech/zh
 
 # 社交媒体
 
