@@ -47,9 +47,9 @@ SublimeText是一个免费开源的编辑器，它有着庞大的开发者社区
 
 我们最终决定使用 [Gitbook](https://gitbook.com) 作为官方编辑器，原因如下:
 
-1. It's the most friendly editor, suitable for both developers, designers, even everyday users.
-1. It has a wide range of functions, and can be used to generate Website/Ebook/PDF
-1. It's one install to use, in comparison to sublime+plugins
+1. 除简书外，它是最容易使用的编辑器，适合男女老少。开发和设计终于可以一起玩耍了
+1. 它功能很全，甚至可以导出 文档网页/电子书/PDF
+1. 它只要安装一次，而Sublime需要安装后在安装插件，嫌烦
 
 # Author
 [Jacktator](https://jacktator.com)
