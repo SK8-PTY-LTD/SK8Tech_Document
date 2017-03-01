@@ -22,11 +22,11 @@
 # Research
 
 1. [简书](https://jianshu.com)
-简书 is the least technical solution. It is by far the most elegant solution for most everyday users.
-    1. **Warm color schema** while editing
-    1. Good file management with **AutoSave**
-    1. Powerful, yet simple editor options
-    1. Live Preview, with **Optimisation for Chinese fonts**
+简书是使用最简单，不需要技术流就能使用的编辑器。他是市面上最优雅的MarkDown编辑器，碾压同行，望尘莫及。
+    1. **暖色调**的编辑环境
+    1. **自动保存**文字，极好的文件管理
+    1. **强大**，却**优雅**的编辑器
+    1. **实时预览**，并且对**中文字体**有着非常好的优化
 
   It fits almost all requirement, except for 3. While 简书 Provides mobile app which allows for **mobile** offline editing, it would be a pain in the ass and **inefficient** to write long texts on **small screens**. And since 简书 does not have a offline PC version, it's a deal breaker for us.
  
