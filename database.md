@@ -10,9 +10,9 @@
   1. [Recommendation](#recommendation)
   1. [Quest](#quest)
   1. [Order](#order)
-  1. Product 
-  1. Transaction 
-  1. _User
+  1. [Product](#product)
+  1. [Transaction](#transaction) 
+  1. [_User](#user)
   
 ## Address
 
@@ -30,7 +30,9 @@ Address为用户保存的“收货地址”，键名解释如下：
 | district| true | String|区域|
 | location| | GeoPoint |位置坐标，[iOS](https://leancloud.cn/docs/leanstorage_guide-objc.html#地理位置), [Android](https://leancloud.cn/docs/leanstorage_guide-android.html#地理位置)|
 
-以下为样例地址
+以下为数据样例
+
+
 
 ```JSON
 {
@@ -67,7 +69,9 @@ Comment为用户发布的“评论”，其中包括对[“瞬间”](#moment), 
 | recommendation| | [_Recommendation](#Recommendation)|[“推荐”](recommendation)指针
 | quest| | [_Quest](#quest)|[“需求”](#Quest)指针|
 
-以下为样例地址
+以下为数据样例
+
+
 
 ```JSON
 {
@@ -109,7 +113,9 @@ Moment 为用户发布的“瞬间”。键名解释如下：
 | location| true |Object| 瞬间发布时候的地理位置json，见百度地图[Place详情检索服务](http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi)|
 
 
-以下为样例地址
+以下为数据样例
+
+
 
 ```JSON
  {
@@ -160,7 +166,9 @@ Recommendation 为用户发布的“瞬间”。键名解释如下：
 | location| true |Object| 瞬间发布时候的地理位置json，见百度地图[Place详情检索服务](http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi)|
 
 
-以下为样例地址
+以下为数据样例
+
+
 
 ```JSON
 {
@@ -210,7 +218,8 @@ Quest为用户发布的“瞬间”。键名解释如下：
 | location| true |Object| 瞬间发布时候的地理位置json，见百度地图[Place详情检索服务](http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi)|
 
 
-以下为样例地址
+以下为数据样例
+
 
 ```JSON
 {
@@ -244,7 +253,7 @@ Quest为用户发布的“瞬间”。键名解释如下：
 
 ## Order
 
-Order 为卖家（买手）发布的“订单”。键名解释如下：| 键名 | 必填 |类型| 注释 |
+Order 为卖家（买手）发布的“订单”。键名解释如下：
 
 | 键名 | 必填 |类型| 注释 |
 |------|------|------|--|
@@ -255,10 +264,12 @@ Order 为卖家（买手）发布的“订单”。键名解释如下：| 键名
 |quantity|true|Number| 商品代购数量，默认0|
 |totalPriceInCent|true|Number|  订单总价，已分为单位的**整数**，如12.35元，存为1235|
 |status|true|Number|状态码，0=买手出价，100=买家支付，200=买手买到，300=已发货，400=交易完成（已确认收货），详情见图|
+|note||String|订单备注，最多200字|
 | location| true |Object| 瞬间发布时候的地理位置json，见百度地图[Place详情检索服务](http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi)|
 
 
-以下为样例地址
+以下为数据样例
+
 
 ```JSON
 {
@@ -266,13 +277,14 @@ Order 为卖家（买手）发布的“订单”。键名解释如下：| 键名
         "createdAt": "auto_date",
         "updatedAt": "auto_date",
         "ACL": "auto_ACL",
-        "*conversation": "_Conversation",
-        "*buyer": "_User",
-        "*seller": "_User",
-        "*product": "_Product",
-        "*quantity": 0,
-        "*totalPriceInCent": 0,
-        "*status": 0,
+        "conversation": "_Conversation",
+        "buyer": "_User",
+        "seller": "_User",
+        "product": "_Product",
+        "quantity": 0,
+        "totalPriceInCent": 0,
+        "status": 0,
+        “note": "max_200_char",
         "location": {
           "fullname": "朝阳区",
           "country": "China",
@@ -286,4 +298,93 @@ Order 为卖家（买手）发布的“订单”。键名解释如下：| 键名
           }
         }
 }
+```
+
+## Product
+
+Product 为卖家（买手）发布的“订单”。键名解释如下：
+
+| 键名 | 必填 |类型| 注释 |
+|------|------|------|--|
+|owner|true|[_User](#user)|发布人（买手）|
+|name|true|String|产品名字|
+|type|true|String|产品尺寸|
+|imageArray|true|Array|产品照片，第一张默认封面|
+|note||String|产品描述，最多200字|
+
+以下数据样例
+
+```JSON
+{
+        "_id": "auto_id",
+        "createdAt": "auto_date",
+        "updatedAt": "auto_date",
+        "ACL": "auto_ACL",
+        "owner": "_User",
+        "name": "UGG靴子",
+        "type": "",
+        "imageArray": ["_File", "_File", "_File"],
+        "note": "max_200_char",
+    }
+```
+
+## Transaction
+
+Transaction罗列了平台上**所有**的交易记录，包括充值，退款，订单付款，等。
+
+| 键名 | 必填 |类型| 注释 |
+|------|------|------|--|
+|paymentInfo||Object|付款凭证|
+|payer|true|[_User](#user)|付款人|
+|payee|true|[_User](#user)|收款人|
+|order|true|[_Order](#order)|订单指针|
+
+以下数据样例
+
+```JSON
+{
+"_id": "auto_id",
+"createdAt": "auto_date",
+"updatedAt": "auto_date",
+"ACL": "auto_ACL",
+"paymentInfo": {},
+"payer": "_User",
+"payee": "_User",
+"order": "_Order",
+}
+```
+
+
+## User
+
+User为旅淘淘的所有用户列表。请见文档：[iOS](https://leancloud.cn/docs/leanstorage_guide-objc.html), [Android](https://leancloud.cn/docs/leanstorage_guide-android.html)
+
+| 键名 | 必填 |类型| 注释 |
+|------|------|------|--|
+|username|true|String|用户的登录名，现在为手机号|
+|payer|true|[_User](#user)|付款人|
+|payee|true|[_User](#user)|收款人|
+|order|true|[_Order](#order)|订单指针|
+
+以下数据样例
+
+```JSON
+ {
+        "_id": "auto_id",
+        "createdAt": "auto_date",
+        "updatedAt": "auto_date",
+        "ACL": "auto_ACL",
+        "*username": "1300xxxxxx",
+        "nickname": "",
+        "status": "",
+        "*bannerImage": "_File",
+        "*profileImage": "_File",
+        "*password": "xxx",
+        "officialName": "",
+        "*mobileNumber": "1300xxxxxx",
+        "*authToken": [],
+        "idNumber": "310109xxxxxxxxxxxx", //身份照号码，买手认证
+        "*dailyReward": 0,
+        "*accumulatedReward": 0,
+    }
 ```
