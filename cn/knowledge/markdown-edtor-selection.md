@@ -6,9 +6,7 @@
 2. 文字编写
 3. 配图排版
 
-MarkDown为最高效纯文本编辑方式之一，所以，需要一个
-
-As we start writing usimg MarkDown, we need an editor.
+而**文字编写**中，MarkDown为最高效纯编辑方式之一，所以，需要一个适合的MarkDown编辑器。
 
 # Requirement
 
