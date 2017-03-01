@@ -1,5 +1,9 @@
 Here're our official contact for Australia Business. For China Mainland version please [click here](cn/README.md).
 
+---
+
+Having a bright idea? Let’s make it happen! Whether you’re looking to start an E-Commerce business, build an app, or simply looking to build a website for your company, we can make it happen. 
+
 # Direct
 
 |Method|Content
