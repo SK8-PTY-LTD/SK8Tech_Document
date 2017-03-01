@@ -362,9 +362,15 @@ User为旅淘淘的所有用户列表。请见文档：[iOS](https://leancloud.c
 | 键名 | 必填 |类型| 注释 |
 |------|------|------|--|
 |username|true|String|用户的登录名，现在为手机号|
-|payer|true|[_User](#user)|付款人|
-|payee|true|[_User](#user)|收款人|
-|order|true|[_Order](#order)|订单指针|
+|nickname||String|昵称，非必填|
+|status|true|Number|状态，默认0|
+|bannerImage|true|_File|文件指针|
+|profileImage|true|_File|文件指针|
+|password|true|String|密码|
+|officialName||String|真名，若真名或身份证号码则用户未认证|
+|idNumber||String|身份证号码，若真名或身份证号码则用户未认证|
+|dailyReward|true|Number|当天已获得的积分（盘缠），默认0|
+|accumulatedReward|true|Number|用户已获得的总积分（盘缠），默认0|
 
 以下数据样例
 
@@ -374,17 +380,16 @@ User为旅淘淘的所有用户列表。请见文档：[iOS](https://leancloud.c
         "createdAt": "auto_date",
         "updatedAt": "auto_date",
         "ACL": "auto_ACL",
-        "*username": "1300xxxxxx",
+        "username": "1300xxxxxx",
         "nickname": "",
         "status": "",
-        "*bannerImage": "_File",
-        "*profileImage": "_File",
-        "*password": "xxx",
+        "bannerImage": "_File",
+        "profileImage": "_File",
+        "password": "xxx",
         "officialName": "",
-        "*mobileNumber": "1300xxxxxx",
-        "*authToken": [],
+        "mobileNumber": "1300xxxxxx",
         "idNumber": "310109xxxxxxxxxxxx", //身份照号码，买手认证
-        "*dailyReward": 0,
-        "*accumulatedReward": 0,
+        "dailyReward": 0,
+        "accumulatedReward": 0,
     }
 ```
