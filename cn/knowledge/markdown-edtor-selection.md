@@ -28,7 +28,7 @@
     1. **强大**，却**优雅**的编辑器
     1. **实时预览**，并且对**中文字体**有着非常好的优化
 
-  除了离线编辑，他几乎满足了我们所有的需求。虽然简书推出了App，让作者可以在**移动**环境下**离线**码子，但是长时间盯着**小屏幕**码子真的很蛋疼，以及**低效**。既然简书并没有一个PC端可以使用的离线版本，只好Pass。
+  除了离线编辑，他几乎满足了我们所有的需求。虽然简书推出了App，让作者可以在**移动**环境下**离线**码子，但是长时间盯着**小屏幕**码子真的很蛋疼，以及**低效**。既然简书并没有一个PC端可以使用的离线版本，只好无奈Pass。
  
 1. [Gitbook](https://gitbook.com)
 Gitbook fits all requirements above. It even supports **AutoExport** to Website/Ebook/PDF. Its Chinese font support is poor, but this can be overcome by writing custom **CSS/SASS/LESS**, and yes, it does support the later two.
