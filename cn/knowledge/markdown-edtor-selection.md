@@ -31,7 +31,9 @@
   除了离线编辑，他几乎满足了我们所有的需求。虽然简书推出了App，让作者可以在**移动**环境下**离线**码子，但是长时间盯着**小屏幕**码子真的很蛋疼，以及**低效**。既然简书并没有一个PC端可以使用的离线版本，只好无奈Pass。
  
 1. [Gitbook](https://gitbook.com)
-Gitbook fits all requirements above. It even supports **AutoExport** to Website/Ebook/PDF. Its Chinese font support is poor, but this can be overcome by writing custom **CSS/SASS/LESS**, and yes, it does support the later two.
+  顾名思义，Gitbook是国外出的一款与Git深度相连的MarkDown编辑器。它满足我们所有需求的同时，甚至还有“自动导出”文档网站/电子书/PDF的功能。简直吊炸天。唯一缺点是它的中文字体显示不是很友好，不过这个可以通过自定义**CSS/SASS/LESS**来解决。没错，你没看错，它还支持SASS和LESS。
+
+  注意：Gitbook还在高速发展阶段，所以整个工具都是英文的，暂时也没找到汉化版，所以对英文有点要求。不过会写MarkDown的你，这点点问题应该是小Case啦~
 
 1. [SublineText3](sublimetext.com) + [OmniMarkdownPreviewer](https://github.com/timonwong/OmniMarkupPreviewer)
 SublimeText is well known for its openess. Its developer communitiy also developed many plugins to extend its capabilities. For editing Markdown, **MarkdownEditing**, **MarkdownPreview**, **OmniMarkdownPreviewer** are the most popular ones in use. 
