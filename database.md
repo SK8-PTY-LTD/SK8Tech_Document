@@ -1,5 +1,9 @@
 旅淘淘新版数据库以及后台使用了[LeanCloud](https://leancloud.cn)作为后端解决方案，本文档详细介绍了数据类型，以及使用方法。
 
+# 使用方法
+
+请结合本文档以及[LeanCloud REST API指南](https://leancloud.cn/docs/rest_api.html#API_版本)。
+
 # 数据类型
 
 数据库包括了以下“类”
