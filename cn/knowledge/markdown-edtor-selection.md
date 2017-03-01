@@ -10,14 +10,14 @@
 
 # 需求限制
 
-1. **Version Control**, preferrably intergration with [Github](https://github.com)
-1. **Live** Preview
-1. **Offline** Editing, so Win10/Mac/Linux application only
-1. **Customisable **Themes** and **Styles**
-1. **Exportable** HTML Source Code
-1. User friendly for **everyone**
-1. Elegant File management
-1. Website/Ebook/PDF generation
+1. **版本控制**, 最好是能够和[Github](https://github.com)相连接,
+1. **实时预览**，也就是编辑的时候可以瞬间看到变化,
+1. **离线编辑**, 并且需要Win10/Mac/Linux平台都能够支持,
+1. **自定义**的**样式**和**主题**
+1. **导出** HTML 源码
+1. 方便使用，要普通用户（非码农）也可以习惯使用
+1. 精简的文件管理
+1. 自动生成网页/电子书/PDF
 
 # Research
 
