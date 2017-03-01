@@ -5,6 +5,7 @@ Here we keep a list of our contacts.
 1. Phone
 1. Email
 1. Address
+1. QQ
 
 # Website
 
@@ -28,12 +29,11 @@ Here we keep a list of our contacts.
 
 # 社交媒体
 
-|媒体|链接|
-|-|-|
-|[WeChat](#wechat)|https://facebook.com/sk8tech
-|Twitter|https://twiter.com/sk8techs
-|Google+|https://plus.google.com/+Sk8Asia
-|Instagram|https://facebook.com/sk8tech
-|Pinterest|pending
-|LinkedIn|pending
-|Youtube|https://www.youtube.com/c/Sk8Asia
+|媒体|链接
+|-|-
+|微博|https://weibo.com/sk8tech
+|简书|pending
+|今日头条|pending
+|新浪博客|pending
+|QQ|331358762
+|Youku|pending
