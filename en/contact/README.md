@@ -52,4 +52,4 @@ Google Business
 |今日头条|pending
 |新浪博客|pending
 |QQ|331358762
-|Youku|pending
+|优酷|pending
