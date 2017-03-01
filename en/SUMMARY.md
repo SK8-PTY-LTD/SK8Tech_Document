@@ -9,6 +9,10 @@
 * [Vision](introduction/vision.md)
 * [Team](introduction/team.md)
 
+## Contact
+
+* [Contact Info](contact/README.md)
+
 ## Testimonial
 
 * [Google Business Reviews](testimonial/google-business-reviews.md)
