@@ -13,6 +13,7 @@
   1. Product 
   1. Transaction 
   1. _User
+  
 ## Address
 
 Address为用户保存的“收货地址”，键名解释如下：
@@ -52,7 +53,7 @@ Address为用户保存的“收货地址”，键名解释如下：
 ```
 ## Comment 
 
-Comment为用户发布的“评论”，其中包括对[“瞬间”](#Moment)，[“需求”](#Quest)，和[“推荐”](Recommendation)的评论。键名解释如下
+Comment为用户发布的“评论”，其中包括对[“瞬间”](#Moment)，[“需求”](#Quest)，和[“推荐”](Recommendation)的评论。键名解释如下:
 
 | 键名 | 必填 |类型| 注释 |
 |------|------|------|
