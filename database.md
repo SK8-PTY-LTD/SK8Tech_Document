@@ -53,6 +53,7 @@ Address为用户保存的“收货地址”，键名解释如下：
 "providence": "上海",
 "status": 0,
 "district": "杨浦",
+"owner": "_User",
 "objectId": "58b520d81b69e600587ad9d4",
 "createdAt": "2017-02-28T07:03:52.625Z",
 "updatedAt": "2017-02-28T07:22:40.863Z"
