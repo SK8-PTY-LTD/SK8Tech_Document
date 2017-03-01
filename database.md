@@ -258,7 +258,6 @@ Order 为卖家（买手）发布的“订单”。键名解释如下：| 键名
 | location| true |Object| 瞬间发布时候的地理位置json，见百度地图[Place详情检索服务](http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi)|
 
 
-
 以下为样例地址
 
 ```JSON
