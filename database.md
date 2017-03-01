@@ -86,8 +86,8 @@ Comment为用户发布的“评论”，其中包括对[“瞬间”](#moment), 
   },
   "owner": "_User",
   "content": "max_200_char",
-  "type": 1, //1: Moment, 2: Recommendation, 3, Quest
-  "status": 0, //Initialized: 0, Saved: 100, Reported: 400, Delisted: 800, Deleted: 900
+  "type": 1,
+  "status": 0,
   "replyTo": "_Comment",
   "moment": "_Moment",
   "recommendation": "_Recommendation",
