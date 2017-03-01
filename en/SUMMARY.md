@@ -20,6 +20,18 @@
 
 ## Portfolio
 
+* TaraTours
+* ALYC
+* AuraLiving
+* Unichi
+* SpecEvent
+* Sundale
+* Ericon
+* YundaLogistics
+* RoyalBazal
+* NoodleZero
+* FreshJourney
+
 ## Services
 
 * [Consulting](services/consulting.md)
