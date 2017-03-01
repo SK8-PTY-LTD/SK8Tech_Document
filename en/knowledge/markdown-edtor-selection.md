@@ -36,6 +36,7 @@ SublimeText is well known for its openess. Its developer communitiy also develop
 # Solution & Reason
 
 We end up going for [Gitbook](https://gitbook.com) in the end, because:
+
 1. It's the most friendly editor, suitable for both developers, designers, even everyday users.
 1. It has a wide range of functions, and can be used to generate Website/Ebook/PDF
 1. It's one install to use, in comparison to sublime+plugins
