@@ -1,9 +1,9 @@
-# Problem
+# 问题起因
 
-# Research
+# 需求限制
 
-# Related
+# 搜索调查
 
-# Solution & Reason
+# 解法原因
 
-# Author
+# 作者
