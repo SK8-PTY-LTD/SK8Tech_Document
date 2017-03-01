@@ -1,66 +1,72 @@
-# Jack Song
+
+---
+# Current 
+
+## Jack Song
 
 > Founder
 
 Enteprenuer, Tech enthusiast. Co-founded SK8Tech, TMB Global, and 3 other companies.
 
-# Beatrix Jin
+## Beatrix Jin
 
 > Design Director
 
 Your response for your design will be YES & Wow~
 
-# Wesley Wang
+## Wesley Wang
 
 > Pending
 
 pending
 
-# James Zhan
+## James Zhan
 
 > Pending
 
 pending
 
-# Yulan Huang
+## Yulan Huang
 
 > Pending
 
 pending
 
-# Noelle
+## Noelle
 
 > Pending
 
 pending
 
-# Yitta
+## Yitta
 
 > Pending
 
 pending
 
-# Jessica Jiang
+## Jessica Jiang
 
 > Pending
 
 pending
 
-# Kevin Su
+## Kevin Su
 
 > Pending
 
 pending
 
-# Miley Liu
+## Miley Liu
 
 > Pending
 
 pending
 
-# Hao Wang
+## Hao Wang
 
 > Pending
 
 pending
 
+---
+# Retired

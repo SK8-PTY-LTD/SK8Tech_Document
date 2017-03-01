@@ -20,17 +20,17 @@
 
 ## Portfolio
 
-* TaraTours
-* ALYC
-* AuraLiving
-* Unichi
-* SpecEvent
-* Sundale
-* Ericon
-* YundaLogistics
-* RoyalBazal
-* NoodleZero
-* FreshJourney
+* [TaraTours](portfolio/taratours.md)
+* [ALYC](portfolio/alyc.md)
+* [AuraLiving](portfolio/auraliving.md)
+* [Unichi](portfolio/unichi.md)
+* [SpecEvent](portfolio/specevent.md)
+* [Sundale](portfolio/sundale.md)
+* [Ericon](portfolio/ericon.md)
+* [YundaLogistics](portfolio/yundalogistics.md)
+* [RoyalBazal](portfolio/royalbazal.md)
+* [NoodleZero](portfolio/noodlezero.md)
+* [FreshJourney](portfolio/freshjourney.md)
 
 ## Services
 
