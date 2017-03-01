@@ -8,7 +8,7 @@
 
 而**文字编写**中，MarkDown为最高效纯编辑方式之一，所以，需要一个适合的MarkDown编辑器。
 
-# Requirement
+# 需求限制
 
 1. **Version Control**, preferrably intergration with [Github](https://github.com)
 1. **Live** Preview
