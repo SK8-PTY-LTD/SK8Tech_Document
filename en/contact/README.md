@@ -37,7 +37,6 @@ Google Business
 |邮件|hi@sk8.tech
 |微信|![](/assets/公众号.jpg)
 |QQ| 331358762
-|微信|![](/assets/公众号.jpg)
 
 
 
