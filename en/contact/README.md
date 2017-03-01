@@ -1,1 +1,1 @@
-Contact
+Here we keep a list of our contacts.
