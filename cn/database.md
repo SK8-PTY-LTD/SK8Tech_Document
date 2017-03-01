@@ -28,7 +28,7 @@ Address为用户保存的“收货地址”，键名解释如下：
 |   providence|   true | String|省份|
 |   status|  true |    Number|状态|
 |   district|    true |  String|区域|
-|   location|      | [GeoPoint](https://leancloud.cn/docs/leanstorage_guide-android.html#地理位置) |位置坐标|
+|   location|      | GeoPoint |位置坐标，[iOS](https://leancloud.cn/docs/leanstorage_guide-objc.html#地理位置), [Android](https://leancloud.cn/docs/leanstorage_guide-android.html#地理位置)|
 
 以下为样例地址
 
