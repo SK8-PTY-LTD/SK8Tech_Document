@@ -8,6 +8,7 @@
 * [About](introduction/README.md)
 * [Vision](introduction/vision.md)
 * [Team](introduction/team.md)
+* [FAQ](introduction/faq.md)
 
 ## Contact
 
