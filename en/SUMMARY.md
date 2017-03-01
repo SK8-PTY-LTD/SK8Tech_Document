@@ -34,4 +34,8 @@
 ## StartUp Partner
 
 * [Introduction](startup-partner/README.md)
+* [TMB Global](startup-partner/tmb-global.md)
+* [LeaseRent](startup-partner/leaserent.md)
+* [AlphaBaby](startup-partner/alphababy.md)
+* [LvTaoTao](startup-partner/lvtaotao.md)
 
