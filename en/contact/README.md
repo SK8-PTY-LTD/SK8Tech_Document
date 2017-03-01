@@ -31,6 +31,6 @@ Google Business
 |Twitter|https://twiter.com/sk8techs
 |Google+|https://plus.google.com/+Sk8Asia
 |Instagram|https://facebook.com/sk8tech
-|Pinterest|pending
+|Pinterest|https://www.pinterest.com/sk8tech/
 |LinkedIn|pending
 |Youtube|https://www.youtube.com/c/Sk8Asia
