@@ -1,2 +1,3 @@
-
 We wish to bring out the very best talents from individual with potential, because we believe that a team grows only if every member grows. By the end of 2016, we have provided training to over 80 students. We are continuously updating and improving our cirreculum to adapt the ever-changing IT industry. 
+
+Looking to develop new skills? SK8Tech provides various skill training courses, with applications practices . Interest is the best teacher, and practice makes perfect.
