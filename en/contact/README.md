@@ -39,7 +39,7 @@ Google Business
 |QQ| 331358762
 
 
-# 网站
+# 官方网页
 
 [SK8科技](https://sk8.tech/zh), https://sk8.tech/zh
 
