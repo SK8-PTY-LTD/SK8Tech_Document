@@ -1,4 +1,8 @@
-Building a new brand? We offer a full branding package, including logo, website, name card, email signature, letter head, and anything else you’ll need to build your brand.
+A good design requires time and craftsmanship. Our designers continuously push themselves to create better visuals. For every logo we design, we promise
+
+1. No template, every logo is original and crafted for you and you only
+1. Open source, once a case is closed, source files will be delivered
+1. User friendly, we’ll ensure you know how to use everything
 
 # Skills
 
