@@ -1,1 +1,1 @@
-This folder contains texts for consulting
+This folder contains texts for consulting.
