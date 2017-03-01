@@ -40,7 +40,7 @@ SublimeText是一个免费开源的编辑器，它有着庞大的开发者社区
 
   亲测后，我们最喜欢**[OmniMarkdownPreviewer](https://github.com/timonwong/OmniMarkupPreviewer)** 给我们带来的编辑流程。爽就一个字，我只说一次。
   
-    注意：**[OmniMarkdownPreviewer](https://github.com/timonwong/OmniMarkupPreviewer)**带来的**实时预览**是在**浏览器**中查看的。也就是说编辑时，至少需要开2个窗口，强迫症渗入。
+  注意：**[OmniMarkdownPreviewer](https://github.com/timonwong/OmniMarkupPreviewer)**带来的**实时预览**是在**浏览器**中查看的。也就是说编辑时，至少需要开2个窗口，强迫症渗入。
 
 
 # Solution & Reason
