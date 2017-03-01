@@ -9,7 +9,7 @@
   1. [Moment](#moment)
   1. [Recommendation](#recommendation)
   1. [Quest](#quest)
-  1. Order 
+  1. [Order](#order)
   1. Product 
   1. Transaction 
   1. _User
@@ -174,7 +174,7 @@ Recommendation 为用户发布的“瞬间”。键名解释如下：
 "viewNumber": 0,
 "likeNumber": 0,
 "commentNumber": 0,
-"status": 0, //Initialized: 0, Saved: 100, Reported: 400, Delisted: 800, Deleted: 900
+"status": 0,
 "pastView": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0],
 "pastViewTotal": 28
 "purchase": true,
@@ -214,30 +214,77 @@ Quest为用户发布的“瞬间”。键名解释如下：
 
 ```JSON
 {
-"_id": "auto_id",
-"createdAt": "auto_date",
-"updatedAt": "auto_date",
-"ACL": "auto_ACL",
-"owner": "_User",
-"content": "max_200_char",
-"imageArray": ["_File", "_File", "_File"],
-"viewNumber": 0,
-"likeNumber": 0,
-"commentNumber": 0,
-"status": 0,
-"pastView": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0],
-"pastViewTotal": 28,
-"location": {
-"fullname": "朝阳区",
-"country": "China",
-"location": {
-"name": "百度大厦员工食堂",
-"location": {
-"lng": 116.308022,
-"lat": 40.056892
-},
-"address": "海淀区上地十街10号(近辉煌国际)"
+  "_id": "auto_id",
+  "createdAt": "auto_date",
+  "updatedAt": "auto_date",
+  "ACL": "auto_ACL",
+  "owner": "_User",
+  "content": "max_200_char",
+  "imageArray": ["_File", "_File", "_File"],
+  "viewNumber": 0,
+  "likeNumber": 0,
+  "commentNumber": 0,
+  "status": 0,
+  "pastView": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,   1, 1, 1, 1, 1, 0],
+  "pastViewTotal": 28,
+  "location": {
+    "fullname": "朝阳区",
+    "country": "China",
+    "location": {
+      "name": "百度大厦员工食堂",
+      "location": {
+        "lng": 116.308022,
+        "lat": 40.056892
+      },
+      "address": "海淀区上地十街10号(近辉煌国际)"
+    }
+  }
 }
-}
+```
+
+## Order
+
+Order 为卖家（买手）发布的“订单”。键名解释如下：| 键名 | 必填 |类型| 注释 |
+
+| 键名 | 必填 |类型| 注释 |
+|------|------|------|--|
+| conversation| true |[_Conversation](https://leancloud.cn/docs/realtime_v2.html)| 该订单发起的订单|
+| buyer| true |[_User](#user)| 订单的买家|
+| seller| true |[_User](#user)| 订单的卖家|
+| product|true|[_Product](#product)| 订单中的产品 |
+|quantity|true|Number| 商品代购数量，默认0|
+|totalPriceInCent|true|Number|  订单总价，已分为单位的**整数**，如12.35元，存为1235|
+|status|true|Number|状态码，0=买手出价，100=买家支付，200=买手买到，300=已发货，400=交易完成（已确认收货），详情见图|
+| location| true |Object| 瞬间发布时候的地理位置json，见百度地图[Place详情检索服务](http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi)|
+
+
+
+以下为样例地址
+
+```JSON
+{
+        "_id": "auto_id",
+        "createdAt": "auto_date",
+        "updatedAt": "auto_date",
+        "ACL": "auto_ACL",
+        "*conversation": "_Conversation",
+        "*buyer": "_User",
+        "*seller": "_User",
+        "*product": "_Product",
+        "*quantity": 0,
+        "*totalPriceInCent": 0,
+        "*status": 0,
+        "location": {
+          "fullname": "朝阳区",
+          "country": "China",
+          "location": {
+            "name": "百度大厦员工食堂",
+            "location": {
+              "lng": 116.308022,
+              "lat": 40.056892
+            },
+            "address": "海淀区上地十街10号(近辉煌国际)"
+          }
+        }
 }
 ```
