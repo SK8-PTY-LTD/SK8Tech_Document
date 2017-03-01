@@ -11,6 +11,8 @@
 
 ## Testimonial
 
+* [Google Business Reviews](testimonial/google-business-reviews.md)
+
 ## Portfolio
 
 ## Services
