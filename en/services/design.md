@@ -81,6 +81,21 @@ Contact us if you're looking for If you’re looking for more branded merchandis
 ### Visual Identity
 ### Digital Identity
 
+A premium brand tells a story of its own. While Logo & Visual Identity might be enough for basic needs, a Premium Branding would convey much more credibility to your customers.
+
+When a new brand is introduced, customers tends to search for information online. Is your business listed on Google Search and Google Maps? How easily can people find your contacts? A professional digital appearance brings credibility and customers, and vice versa. 
+
+Premium Branding equips you with everything you’ll possibly need when facing your customers. Starting from AUD$4,950, our Premium Branding provides the following
+
+* Everything in Logo & Visual Identity
+* Digital Name Card
+* Branded QR Code
+* Company Website
+* Google Map Listing
+* More merchandises upon enquiry
+
+If you’re looking for more branded merchandises, please visit our shop.
+
 ## Graphics
 
 Looking to get some Graphic or Motion Design done? Whatever idea you might have in mind, we can get it done for you. Poster, Flyer, Gif, Motion Picture, and more.
