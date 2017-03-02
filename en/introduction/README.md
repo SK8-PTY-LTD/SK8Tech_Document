@@ -1,14 +1,6 @@
 
 > One-stop Digital Solution to small to medium business.
 
-# About 
-
-We provide one-stop Digital Solutions to small to medium business. Transform your culture and operations to execute more efficiently.
-
-For eligible StartUps, we incubate the company, and provide necessary business, marketing, design, and technology skills. 
-
-For students, we provide most up-to-date technology education. With practical skills and hands-on training, our students thrive in the ever-changing.
-
 ## Who are we
 
 We are Groot! 
@@ -25,7 +17,13 @@ It's all about you and your idea, beacause we believe in wininng together.
 
 ## Why we exist
 
-## What can we do
+## What do we do
+
+We provide one-stop Digital Solutions to small to medium business. Transform your culture and operations to execute more efficiently.
+
+For eligible StartUps, we incubate the company, and provide necessary business, marketing, design, and technology skills.
+
+For students, we provide most up-to-date technology education. With practical skills and hands-on training, our students thrive in the ever-changing.
 
 ## What's so special
 
