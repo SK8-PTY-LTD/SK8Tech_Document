@@ -2,6 +2,8 @@ Here're our official contact for Australia Business. For China Mainland version 
 
 ---
 
+Since 2013, we have partnered with the founders of StartUp companies that now have an aggregate, public market value of over $3 million AUD. If you’re looking for A StartUp Partner, come and meet us at our Offices.
+
 We'd love to hear from you! Have any question? Find us on the following social networks, or simply drop us a line!
 
 Having a bright idea? Let’s make it happen! Whether you’re looking to start an E-Commerce business, build an app, or simply looking to build a website for your company, we can make it happen. 
