@@ -29,3 +29,10 @@ Having a bright idea? Let’s make it happen! Whether you’re looking to start 
 |LinkedIn|https://www.linkedin.com/company/sk8-pty-ltd
 |FourSquare|https://foursquare.com/v/sk8-tech/560529f8498e93e8549d8438
 |Youtube|https://www.youtube.com/c/Sk8Asia
+
+# Content Platform
+|Website|https://sk8.tech
+|Tumblr|https://sk8tech.tumblr.com/
+
+# Video Platform
+|Youtube|https://www.youtube.com/c/Sk8Asia
