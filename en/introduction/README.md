@@ -28,6 +28,7 @@ For students, we provide most up-to-date technology education. With practical sk
 ## What's so special
 
 ## A StartUp Partner
+
 One-Stop IT solutions to small to medium business. Transform your culture and operations to execute more efficiently.
 
 Since 2013, we have partnered with the founders of StartUp companies that now have an aggregate, public market value of over $3 million AUD. If you’re looking for A StartUp Partner, come and meet us at our Offices.
