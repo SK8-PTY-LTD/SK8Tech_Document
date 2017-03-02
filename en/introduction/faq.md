@@ -25,6 +25,19 @@ Tell us the kind of website or app you like, and we’ll send you a free proposa
 Generally speaking, from design to finish, a 10-page company website takes 2~3 weeks to finish. A E-Commerce website takes 4~6 weeks. A more customised website or app can take longer, up to 3 months to finish.
 Tell us the kind of website or app you like, and we’ll send you a free proposal within 48 hours
 
+## How We Develop A Website/App
+
+1. Enquiry
+Upon enquiry, we will analyse your requirements and give you a strategy proposal.
+
+1. Design
+We will draft, refine and finalise the design according to your requirements.
+1. Development
+After design confirmation, we will develop the website/app accordingly. Afterwards, a variety of testing follows.
+
+1. Results
+Voila! There's your website/app, designed, developed, tested and ready for production!
+
 ## Why SK8Tech
 
 ## What makes you special
