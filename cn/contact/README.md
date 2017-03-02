@@ -23,7 +23,7 @@ Having a bright idea? Let’s make it happen! Whether you’re looking to start 
 
 |媒体|链接
 |-|-
-|微信|![](/assets/公众号.jpg)
+|公众号|sk8tech
 |简书|pending
 |知乎|pending
 |今日头条|pending
