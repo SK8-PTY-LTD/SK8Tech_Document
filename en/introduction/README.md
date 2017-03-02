@@ -29,8 +29,6 @@ It's all about you and your idea, beacause we believe in wininng together.
 
 ## What's so special
 
-##
-
 ## A StartUp Partner
 One-Stop IT solutions to small to medium business. Transform your culture and operations to execute more efficiently.
 
