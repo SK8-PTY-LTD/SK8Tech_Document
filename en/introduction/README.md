@@ -8,7 +8,7 @@ Based in Sydney and Shanghai, SK8Tech is an innovative Digital Solution company 
 
 We provide one-stop Digital Solutions to small to medium business. Transform your culture and operations to execute more efficiently.
 
-For eligible StartUps, we incubate the company, and provide necessary business, marketing, design, and technology skills. Because we believe in winning together.
+For eligible StartUps, we incubate the company, and provide necessary business, marketing, design, and technology skills. If we win, we win together.
 
 We provide the technical support to tech StartUps
 
