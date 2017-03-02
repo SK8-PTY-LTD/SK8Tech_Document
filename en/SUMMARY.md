@@ -9,10 +9,7 @@
 * [Vision](introduction/vision.md)
 * [Team](introduction/team.md)
 * [FAQ](introduction/faq.md)
-
-## Contact
-
-* [Contact Info](contact/README.md)
+* [Contact](introduction/contact.md)
 
 ## Testimonial
 
