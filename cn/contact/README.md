@@ -20,10 +20,16 @@ Having a bright idea? Let’s make it happen! Whether you’re looking to start 
 |微博|https://weibo.com/sk8tech
 
 # 内容系统
+
+|媒体|链接
+|-|-
 |简书|pending
 |今日头条|pending
 |微博|https://weibo.com/sk8tech
 |QQ空间|pending
 
 # 视频网站
+
+|媒体|链接
+|-|-
 |优酷|http://i.youku.com/sk8tech
