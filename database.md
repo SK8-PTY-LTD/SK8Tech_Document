@@ -377,6 +377,7 @@ User为旅淘淘的所有用户列表。请见文档：[iOS](https://leancloud.c
 |idNumber||String|身份证号码，若真名或身份证号码则用户未认证|
 |dailyReward|true|Number|当天已获得的积分（盘缠），默认0|
 |accumulatedReward|true|Number|用户已获得的总积分（盘缠），默认0|
+|defaultAddress||[_Address](#Address)|用户的默认地址|
 
 以下数据样例
 
@@ -397,5 +398,6 @@ User为旅淘淘的所有用户列表。请见文档：[iOS](https://leancloud.c
         "idNumber": "310109xxxxxxxxxxxx", //身份照号码，买手认证
         "dailyReward": 0,
         "accumulatedReward": 0,
+        "defaultAddress": "_Address"
     }
 ```
