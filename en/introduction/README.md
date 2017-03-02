@@ -1,9 +1,7 @@
 
 > One-stop Digital Solution to small to medium business.
 
-# About
-
-Based in Sydney and Shanghai, SK8Tech is an innovative Digital Solution company with entrepreneurship spirits mounted deep in its root. 
+# About 
 
 We provide one-stop Digital Solutions to small to medium business. Transform your culture and operations to execute more efficiently.
 
@@ -15,9 +13,13 @@ For students, we provide most up-to-date technology education. With practical sk
 
 We are Groot! 
 
-No no
+![](/assets/maxresdefault.jpg)
+
+Based in Sydney and Shanghai, SK8Tech is an innovative Digital Solution company with craftman and entrepreneur spirits mounted deep in its root.
 
 ## What is our vision
+
+We see a better world
 
 ## Why we exist
 
