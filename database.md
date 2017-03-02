@@ -116,7 +116,9 @@ Moment 为用户发布的“瞬间”。键名解释如下：
 | status| true | Number|状态码，0=临时保存，100=已发布，400=已举报，800=官方下线，900=自主删除|
 | pastView | true|Array|过去30天浏览量，过去一天就是第一个数字，默认[0,0...0]，30个0|
 | pastViewTotal | true | Number| 过去30天浏览量总数，虽pastView更新|
-| location| true |Object| 瞬间发布时候的地理位置json，见百度地图[Place详情检索服务](http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi)|
+| location||GeoPoint |位置坐标，[iOS](https://leancloud.cn/docs/leanstorage_guide-objc.html#地理位置), [Android](https://leancloud.cn/docs/leanstorage_guide-android.html#地理位置)|
+|locationName||String| 位置名字|
+
 
 
 以下为数据样例
@@ -138,17 +140,10 @@ Moment 为用户发布的“瞬间”。键名解释如下：
         "status": 0,
         "pastView": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0],
     "pastViewTotal": 28,
+        “locationName": "地址名字",
         "location": {
-            "fullname": "朝阳区",
-            "country": "China",
-            "location": {
-              "name": "百度大厦员工食堂",
-              "location": {
-                "lng": 116.308022,
-                "lat": 40.056892
-              },
-              "address": "海淀区上地十街10号(近辉煌国际)"
-            }
+          "lng": 116.308022,
+          "lat": 40.056892            
         }
     }
 ```
@@ -169,7 +164,8 @@ Recommendation 为用户发布的“推荐”。键名解释如下：
 | pastView | true|Array|过去30天浏览量，过去一天就是第一个数字，默认[0,0...0]，30个0|
 | pastViewTotal | true | Number| 过去30天浏览量总数，虽pastView更新|
 | purchase| true | Boolean | 该推荐买手是否能够代购，详细描述[请见任务](https://www.teambition.com/project/587f23e78ea93ee9012bb448/tasks/scrum/587f23e7b9724a7664692c10/task/589d3bb43f59cac118855850) | 
-| location| true |Object| 瞬间发布时候的地理位置json，见百度地图[Place详情检索服务](http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi)|
+| location||GeoPoint |位置坐标，[iOS](https://leancloud.cn/docs/leanstorage_guide-objc.html#地理位置), [Android](https://leancloud.cn/docs/leanstorage_guide-android.html#地理位置)|
+|locationName||String| 位置名字|
 
 
 以下为数据样例
@@ -196,13 +192,10 @@ Recommendation 为用户发布的“推荐”。键名解释如下：
 "fullname": "朝阳区",
 "country": "China",
 "location": {
-"name": "百度大厦员工食堂",
+"name": "百度大厦员工食堂",“locationName": "地址名字",
 "location": {
 "lng": 116.308022,
 "lat": 40.056892
-},
-"address": "海淀区上地十街10号(近辉煌国际)"
-}
 }
 }
 ```
@@ -221,7 +214,8 @@ Quest为用户发布的“需求”。键名解释如下：
 | status| true | Number|状态码，0=临时保存，100=已发布，400=已举报，800=官方下线，900=自主删除|
 | pastView | true|Array|过去30天浏览量，过去一天就是第一个数字，默认[0,0...0]，30个0|
 | pastViewTotal | true | Number| 过去30天浏览量总数，虽pastView更新|
-| location| true |Object| 瞬间发布时候的地理位置json，见百度地图[Place详情检索服务](http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi)|
+| location||GeoPoint |位置坐标，[iOS](https://leancloud.cn/docs/leanstorage_guide-objc.html#地理位置), [Android](https://leancloud.cn/docs/leanstorage_guide-android.html#地理位置)|
+|locationName||String| 位置名字|
 
 
 以下为数据样例
@@ -245,14 +239,11 @@ Quest为用户发布的“需求”。键名解释如下：
   "location": {
     "fullname": "朝阳区",
     "country": "China",
-    "location": {
-      "name": "百度大厦员工食堂",
-      "location": {
-        "lng": 116.308022,
-        "lat": 40.056892
-      },
-      "address": "海淀区上地十街10号(近辉煌国际)"
-    }
+    “locationName": "地址名字",
+"location": {
+"lng": 116.308022,
+"lat": 40.056892
+}
   }
 }
 ```
@@ -271,7 +262,8 @@ Order 为卖家（买手）发布的“订单”。键名解释如下：
 |totalPriceInCent|true|Number|  订单总价，已分为单位的**整数**，如12.35元，存为1235|
 |status|true|Number|状态码，0=买手出价，100=买家支付，200=买手买到，300=已发货，400=交易完成（已确认收货），详情见图|
 |note||String|订单备注，最多200字|
-| location| true |Object| 瞬间发布时候的地理位置json，见百度地图[Place详情检索服务](http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi)|
+| location||GeoPoint |位置坐标，[iOS](https://leancloud.cn/docs/leanstorage_guide-objc.html#地理位置), [Android](https://leancloud.cn/docs/leanstorage_guide-android.html#地理位置)|
+|locationName||String| 位置名字|
 
 
 以下为数据样例
@@ -291,18 +283,11 @@ Order 为卖家（买手）发布的“订单”。键名解释如下：
         "totalPriceInCent": 0,
         "status": 0,
         “note": "max_200_char",
-        "location": {
-          "fullname": "朝阳区",
-          "country": "China",
-          "location": {
-            "name": "百度大厦员工食堂",
-            "location": {
-              "lng": 116.308022,
-              "lat": 40.056892
-            },
-            "address": "海淀区上地十街10号(近辉煌国际)"
-          }
-        }
+        “locationName": "地址名字",
+"location": {
+"lng": 116.308022,
+"lat": 40.056892
+}
 }
 ```
 
