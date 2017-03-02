@@ -5,7 +5,7 @@
 
 We provide one-stop Digital Solutions to small to medium business. Transform your culture and operations to execute more efficiently.
 
-For eligible StartUps, we incubate the company, and provide necessary business, marketing, design, and technology skills. If we win, we win together.
+For eligible StartUps, we incubate the company, and provide necessary business, marketing, design, and technology skills. 
 
 For students, we provide most up-to-date technology education. With practical skills and hands-on training, our students thrive in the ever-changing.
 
@@ -19,7 +19,9 @@ Based in Sydney and Shanghai, SK8Tech is an innovative Digital Solution company 
 
 ## What is our vision
 
-We see a better world
+We seek to develop a smarter future by dedicating our technical expertise to analyze, design, develop and deliver what our customers truly require. 
+
+It's all about you and your idea, beacause we believe in wininng together.
 
 ## Why we exist
 
