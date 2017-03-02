@@ -28,15 +28,16 @@ Tell us the kind of website or app you like, and we’ll send you a free proposa
 ## How We Develop A Website/App
 
 
-1. Enquiry
+> ### 1. Enquiry
 Upon enquiry, we will analyse your requirements and give you a strategy proposal.
 
-1. Design
+> ### 2. Design
 We will draft, refine and finalise the design according to your requirements.
-1. Development
+
+> ### 3. Development
 After design confirmation, we will develop the website/app accordingly. Afterwards, a variety of testing follows.
 
-1. Results
+> ### 4. Results
 Voila! There's your website/app, designed, developed, tested and ready for production!
 
 ## Why SK8Tech
