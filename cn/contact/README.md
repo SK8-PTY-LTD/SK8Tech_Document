@@ -9,9 +9,9 @@ Having a bright idea? Let’s make it happen! Whether you’re looking to start 
 |-|-
 |电话|+86 15800 407 454
 |邮件|hi@sk8.tech
-|微信|![](/assets/公众号.jpg)
 |QQ| 331358762
 |官网|https://sk8.tech/zh
+|微信|![](/assets/公众号.jpg)
 
 # 社交媒体
 
@@ -23,9 +23,16 @@ Having a bright idea? Let’s make it happen! Whether you’re looking to start 
 
 |媒体|链接
 |-|-
+|微信|![](/assets/公众号.jpg)
 |简书|pending
+|知乎|pending
 |今日头条|pending
 |微博|https://weibo.com/sk8tech
+|QQ空间|pending
+|一点咨询|pending
+|搜狐自媒体|pending
+|新浪博客|pending
+|天涯博客|pending
 |QQ空间|pending
 
 # 视频网站
