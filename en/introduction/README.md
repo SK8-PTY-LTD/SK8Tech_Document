@@ -28,6 +28,8 @@ For students, we provide most up-to-date technology education. With practical sk
 
 [SK8Tech](https://sk8.tech) is an all-star digital solution team with wide range of expertise in design and development. 
 
+## What's it like to be a part of SK8Tech
+
 In order to build the best team possible, we invested a lot on your internal training programs. In result, our best students are now working at Google, Facebook, and many other companies.
 
 ## A StartUp Partner
