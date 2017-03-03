@@ -22,15 +22,21 @@ For eligible StartUps, we incubate the company, and provide necessary business, 
 
 For students, we provide most up-to-date technology education. With practical skills and hands-on training, our students thrive in the ever-changing.
 
-## What's so special
+## Why is the team so special
 
 > Innovation distinguishes between a leader and a follower.
 
 [SK8Tech](https://sk8.tech) is an all-star digital solution team with wide range of expertise in design and development. 
 
-## What's it like to be a part of SK8Tech
-
 In order to build the best team possible, we invested a lot on your internal training programs. In result, our best students are now working at Google, Facebook, and many other companies.
+
+## What's the experience like working at SK8Tech
+
+It's very intensive and rewarding. We are extremely result-driven. In this ever-changing industry, to stay on top means to update our knowledge base daily.
+
+Typically, we spend 40% of our time on learning, 40% on better understanding objectives, and only 20% on working. Yet, the 20% highly efficient effort allows us to deliver the product better, faster, yet with less cost.
+
+
 
 ## A StartUp Partner
 
