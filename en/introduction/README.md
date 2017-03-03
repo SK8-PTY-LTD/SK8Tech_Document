@@ -1,4 +1,3 @@
-
 > One-stop Digital Solution to small to medium business.
 
 ## Who are we
@@ -15,8 +14,6 @@ We seek to develop a smarter future by dedicating our technical expertise to ana
 
 It's all about you and your idea, beacause we believe in wininng together.
 
-## Why we exist
-
 ## What do we do
 
 We provide one-stop Digital Solutions to small to medium business. Transform your culture and operations to execute more efficiently.
@@ -27,8 +24,12 @@ For students, we provide most up-to-date technology education. With practical sk
 
 ## What's so special
 
-## A StartUp Partner
+> Innovation distinguishes between a leader and a follower.
 
-One-Stop IT solutions to small to medium business. Transform your culture and operations to execute more efficiently.
+[SK8Tech](https://sk8.tech) is an all-star digital solution team with wide range of expertise in design and development. 
+
+In order to build the best team possible, we invested a lot on your internal training programs. In result, our best students are now working at Google, Facebook, and many other companies.
+
+## A StartUp Partner
 
 Since 2013, we have partnered with the founders of StartUp companies that now have an aggregate, public market value of over $3 million AUD. If you’re looking for A StartUp Partner, come and meet us at our Offices.

@@ -30,7 +30,7 @@ Address为用户保存的“收货地址”，键名解释如下：
 | recipient| true | String|收件人|
 | contactNumber | true | String |手机号|
 | providence| true | String|省份|
-| status| true | Number|状态|
+| status| true | Number|0=临时保存，100=已发布，400=已举报，800=官方下线，900=自主删除|
 | district| true | String|区域|
 | owner| true | [_User](#user)|地址的拥有人|
 | location| | GeoPoint |位置坐标，[iOS](https://leancloud.cn/docs/leanstorage_guide-objc.html#地理位置), [Android](https://leancloud.cn/docs/leanstorage_guide-android.html#地理位置)|
