@@ -1,4 +1,4 @@
-Here're our official contact for Australia Business. For China Mainland version please [click here](cn/introduction/contact.md).
+Here're our official contact for Australia Business. For China Mainland version please [click here](/cn/introduction/contact.md).
 
 ---
 
