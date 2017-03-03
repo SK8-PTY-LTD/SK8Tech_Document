@@ -10,31 +10,37 @@ Having a bright idea? Let’s make it happen! Whether you’re looking to start 
 
 # Direct
 
-|Method|Content
-|-|-
-|Website|https://sk8.tech
-|Phone|+61 449 843 149
-|Email|hi@sk8.tech
-|Address| 330 Wattle St, Ultimo, NSW 2007, Australia
-|Map|https://goo.gl/maps/i7jhYWduJKy
+|Method|Content|
+|-|-|
+|Website|https://sk8.tech|
+|Phone|+61 449 843 149|
+|Email|hi@sk8.tech|
+|Address| 330 Wattle St, Ultimo, NSW 2007, Australia|
+|Map|https://goo.gl/maps/i7jhYWduJKy|
 
 # Social Media
 
-|Platform|Link
-|-|-
-|Facebook|https://facebook.com/sk8tech
-|Twitter|https://twiter.com/sk8techs
-|Google+|https://plus.google.com/+Sk8Asia
-|Instagram|https://facebook.com/sk8tech
-|Pinterest|https://www.pinterest.com/sk8tech/
-|Tumblr|https://sk8tech.tumblr.com/
-|LinkedIn|https://www.linkedin.com/company/sk8-pty-ltd
-|FourSquare|https://foursquare.com/v/sk8-tech/560529f8498e93e8549d8438
-|Youtube|https://www.youtube.com/c/Sk8Asia
+|Platform|Link|
+|-|-|
+|Facebook|https://facebook.com/sk8tech|
+|Twitter|https://twiter.com/sk8techs|
+|Google+|https://plus.google.com/+Sk8Asia|
+|Instagram|https://facebook.com/sk8tech|
+|Pinterest|https://www.pinterest.com/sk8tech/|
+|Tumblr|https://sk8tech.tumblr.com/|
+|LinkedIn|https://www.linkedin.com/company/sk8-pty-ltd|
+|FourSquare|https://foursquare.com/v/sk8-tech/560529f8498e93e8549d8438|
+|Youtube|https://www.youtube.com/c/Sk8Asia|
 
 # Content Platform
-|Website|https://sk8.tech
-|Tumblr|https://sk8tech.tumblr.com/
+
+|Platform|Link|
+|-|-|
+|Website|https://sk8.tech|
+|Tumblr|https://sk8tech.tumblr.com/|
 
 # Video Platform
-|Youtube|https://www.youtube.com/c/Sk8Asia
+
+|Platform|Link|
+|-|-|
+|Youtube|https://www.youtube.com/c/Sk8Asia|
