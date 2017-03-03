@@ -11,7 +11,7 @@ Having a bright idea? Let’s make it happen! Whether you’re looking to start 
 # Direct
 
 |Method|Content|
-|-|-|
+|---|---|
 |Website|https://sk8.tech|
 |Phone|+61 449 843 149|
 |Email|hi@sk8.tech|
@@ -21,7 +21,7 @@ Having a bright idea? Let’s make it happen! Whether you’re looking to start 
 # Social Media
 
 |Platform|Link|
-|-|-|
+|---|---|
 |Facebook|https://facebook.com/sk8tech|
 |Twitter|https://twiter.com/sk8techs|
 |Google+|https://plus.google.com/+Sk8Asia|
@@ -35,12 +35,12 @@ Having a bright idea? Let’s make it happen! Whether you’re looking to start 
 # Content Platform
 
 |Platform|Link|
-|-|-|
+|---|---|
 |Website|https://sk8.tech|
 |Tumblr|https://sk8tech.tumblr.com/|
 
 # Video Platform
 
 |Platform|Link|
-|-|-|
+|---|---|
 |Youtube|https://www.youtube.com/c/Sk8Asia|
