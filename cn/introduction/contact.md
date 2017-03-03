@@ -39,5 +39,5 @@ Having a bright idea? Let’s make it happen! Whether you’re looking to start 
 # 视频网站
 
 |媒体|链接|
-|-|-|
+|--|--|
 |优酷|http://i.youku.com/sk8tech|
