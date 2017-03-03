@@ -32,10 +32,9 @@ In order to build the best team possible, we invested a lot on your internal tra
 
 ## What's the experience like working at SK8Tech
 
-It's very intensive and rewarding. We are extremely result-driven. In this ever-changing industry, to stay on top means to update our knowledge base daily.
+It's very intensive and rewarding. We are extremely result-driven and fast to adopt. In this ever-changing industry, to stay on top means to update our knowledge base daily.
 
 Typically, we spend 40% of our time on learning, 40% on better understanding objectives, and only 20% on working. Yet, the 20% highly efficient effort allows us to deliver the product better, faster, yet with less cost.
-
 
 
 ## A StartUp Partner
