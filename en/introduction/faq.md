@@ -40,10 +40,6 @@ After design confirmation, we will develop the website/app accordingly. Afterwar
 > ### 4. Results
 Voila! There's your website/app, designed, developed, tested and ready for production!
 
-## Why SK8Tech
+## Do you have any case study?
 
-## What makes you special
-
-## Do you have any case studies?
-
-## 
+> You bet we do! Check out portfolio page for more

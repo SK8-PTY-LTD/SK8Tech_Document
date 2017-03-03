@@ -1,35 +1,41 @@
-# 2013
+# Timeline
 
-## November - Foundation
-We started to develop our first app - iKardz, a name card sharing app. 
+Here's a timeline of significant events.
 
 ---
 
-# 2014
+## 2013
 
-## March
+### November - Foundation
+We started to develop our first app - iKardz, a near-field name card sharing app. 
+
+---
+
+## 2014
+
+### March
 First iOS App released in Apple App Store. It only took us 3 months to design, learn, develop our first app from scratch. Android version took another month to release on Google Play Store.
 
-## September
+### September
 Initial run of intern program, providing practical training of App development for people of all backgrounds. 
 
 ---
 
-# 2015
+## 2015
 
-## August
+### August
 Relocated to Sydney due to business expansion. Serving customers from China and Singapore. 
 
 ---
 
-# 2016
+## 2016
 
-## January
+### January
 Joined TradeMyBusiness.com as its IT partner, providing R&D and technical support.  
 
-## July
+### July
 Opened branch in China, Shanghai AoYang Network Technology Limited. 
 
 --- 
 
-# 2017
+## 2017

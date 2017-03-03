@@ -32,4 +32,4 @@ In order to build the best team possible, we invested a lot on your internal tra
 
 ## A StartUp Partner
 
-Since 2013, we have partnered with the founders of StartUp companies that now have an aggregate, public market value of over $3 million AUD. If you’re looking for A StartUp Partner, come and meet us at our Offices.
+Since 2013, we have partnered with many founders of StartUp companies from all industries. Now have an aggregate, public market value of over $3 million AUD. If you’re looking for A StartUp Partner, contact us.
