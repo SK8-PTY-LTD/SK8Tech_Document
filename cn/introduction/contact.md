@@ -7,7 +7,7 @@ Having a bright idea? Let’s make it happen! Whether you’re looking to start 
 # 直接联系
 
 |Method|Content|
-|-|-|
+|--|--|
 |电话|+86 15800 407 454|
 |邮件|hi@sk8.tech[](en/contact)|
 |QQ| 331358762|
@@ -17,13 +17,13 @@ Having a bright idea? Let’s make it happen! Whether you’re looking to start 
 # 社交媒体
 
 |媒体|链接|
-|-|-|
+|--|--|
 |微博|https://weibo.com/sk8tech|
 
 # 内容系统
 
 |媒体|链接|
-|-|-|
+|--|--|
 |公众号|sk8tech|
 |简书|pending|
 |知乎|pending|
