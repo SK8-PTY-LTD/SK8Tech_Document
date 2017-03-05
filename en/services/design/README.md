@@ -98,6 +98,14 @@ Premium Branding equips you with everything you’ll possibly need when facing y
 * Google Map Listing
 * More merchandises upon enquiry
 
+Standard and Deluxe Business Cards
+Brilliant Finish Business Cards
+Invitations & Announcements
+Letterhead & Envelope
+Flyers
+Magnet
+Brochure
+
 If you’re looking for more branded merchandises, please visit our shop.
 
 ## Graphics
