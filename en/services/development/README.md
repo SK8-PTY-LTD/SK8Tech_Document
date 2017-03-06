@@ -39,5 +39,5 @@ Got great idea? Our industry professionals can help you validate the idea, selec
 1. [App Development](app-development.md)
 1. [WeChat](wechat.md)
 1. [E-Commerce](e-commerce.md)
-1. [Testing](#e-commerce)
+1. [Testing](testing.md)
 
