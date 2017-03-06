@@ -36,6 +36,6 @@ Premium Branding equips you with everything you’ll possibly need when facing y
 1. Digital Name Card
 1. Branded QR Code
 1. Company Website
-1. Google Map Listin
+1. Google Map Listing
 
 If you’re looking for more branded merchandises, please visit our shop.
