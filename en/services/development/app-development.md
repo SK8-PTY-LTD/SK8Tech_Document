@@ -9,4 +9,4 @@ Alternatively, for the best user experience and performance, we recommend develo
 
 If you’re targeting Chinese Customers, we recommend Wechat Offical Account and Wechat App. For more information, please have a look at ‘Wechat Development’
 
-Tell us the kind of website or app you like, and we’ll send you a free proposal within 48 hours.
+Contact us to find out more.
