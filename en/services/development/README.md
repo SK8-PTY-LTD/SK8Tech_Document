@@ -33,7 +33,7 @@
 
 #Services
 
-Got great idea? Our industry professionals can help you validate the idea, select the most optimal strategy, design, develop and test the product, so you can focus on your idea.
+Got a great idea? Our industry professionals can help you validate the idea, select the most optimal strategy, design, develop and test the product, so you can focus on your idea.
 
 1. [Company Website](company-website.md)
 1. [App Development](app-development.md)
