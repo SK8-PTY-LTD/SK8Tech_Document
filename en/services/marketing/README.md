@@ -19,12 +19,10 @@
 
 # Services
 
-Does your website/app show up on the first page of related search? Our online marketing team specialises in SEO, SEM, and more. Boost your ranking today!
+Does your website/app show up on the first page of related search? Our online marketing team specializes in SEO, SEM, ASO and more. Boost your ranking today!
 
 1. [SEO](seo.md)
 1. [SEM](sem.md)
 1. [Social Media Marketing](social-media-marketing.md)
 1. [WeChat Content Writing](wechat-content-writing.md)
 1. [ASO](aso.md)
-
-Does your website/app show up on the first page of related search? Our online marketing team specialises in SEO, SEM, and more. Boost your ranking today!
