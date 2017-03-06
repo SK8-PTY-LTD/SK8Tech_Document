@@ -21,4 +21,4 @@ If it’s one-time marketing website, e.g. a page for real estate sales, we reco
 
 If you’re looking to build a more customised web apps, we recommend using Dynamic Web Frameworks, e.g. JQuery/Angular/React.
 
-Tell us the kind of website or app you like, and we’ll send you a free proposal within 48 hours.
+Contact us to find out more.
