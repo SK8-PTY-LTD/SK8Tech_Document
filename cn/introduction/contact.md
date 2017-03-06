@@ -13,6 +13,7 @@ Having a bright idea? Let’s make it happen! Whether you’re looking to start 
 |QQ| 331358762|
 |官网|https://sk8.tech/zh|
 |微信|![](/assets/公众号.jpg)|
+|百度百科|pending|
 
 # 社交媒体
 

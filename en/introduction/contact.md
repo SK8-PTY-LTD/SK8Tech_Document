@@ -17,6 +17,7 @@ Having a bright idea? Let’s make it happen! Whether you’re looking to start 
 |Email|hi@sk8.tech|
 |Address| 330 Wattle St, Ultimo, NSW 2007, Australia|
 |Map|https://goo.gl/maps/i7jhYWduJKy|
+|Wikipedia|pending|
 
 # Social Media
 
