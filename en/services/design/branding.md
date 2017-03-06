@@ -19,8 +19,6 @@ Your brand is what your customer remembers you by. Visual Identity provides you 
 1. Presentation Folder
 1. Brochure
 1. Flyers
-1. Magnet
-1. Invitations & Announcements
 1. More merchandises upon enquiry
 
 Contact us if you're looking for If you’re looking for more branded merchandises, our Premium Branding could be a great choice for you. Check it out.
@@ -33,19 +31,11 @@ When a new brand is introduced, customers tends to search for information online
 
 Premium Branding equips you with everything you’ll possibly need when facing your customers. Starting from AUD$4,950, our Premium Branding provides the following
 
-* Everything in Logo Design & Visual Identity
-* Digital Name Card
-* Branded QR Code
-* Company Website
-* Google Map Listing
+1. Everything in Logo Design & Visual Identity
 1. Email Signature
-
-Standard and Deluxe Business Cards
-Brilliant Finish Business Cards
-Invitations & Announcements
-Letterhead & Envelope
-Flyers
-Magnet
-Brochure
+1. Digital Name Card
+1. Branded QR Code
+1. Company Website
+1. Google Map Listin
 
 If you’re looking for more branded merchandises, please visit our shop.
