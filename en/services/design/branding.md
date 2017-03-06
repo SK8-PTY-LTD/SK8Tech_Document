@@ -37,5 +37,6 @@ Premium Branding equips you with everything you’ll possibly need when facing y
 1. Branded QR Code
 1. Company Website
 1. Google Map Listing
+1. Social Media Accounts
 
 If you’re looking for more branded merchandises, please visit our shop.
