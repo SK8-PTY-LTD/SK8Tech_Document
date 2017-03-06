@@ -9,15 +9,22 @@ Logo is the very first thing your customer will see, whether on your website, pr
 
 A good design requires time and craftsmanship. Typically, it takes us one week to conceptualise and prepare 3 proposals. Once a proposal is accepted, it takes us another week to refine the logo. After the second review, we will finalise the logo, and design other elements.
 
-Logo & Visual Identity provides you with the essential elements to start a new brand, whether you’re building a new company, or simply starting a new brand. The pricing starts from AUD$2,980, you’ll get the following：
-* A professional logo
-* Branded name card, and 200 of printed copies
-* Email Signature
-* Letter head & Envelope
-* Presentation Folder
+### Visual Identity
+
+Your brand is what your customer remembers you by. Visual Identity provides you with all the essential elements for a stunning brand, whether you’re building a new company, or simply starting a new brand. For a Visual Identity Kit, you’ll get the following：
+
+1. A Logo Design
+1. Standard and Deluxe Business Cards
+1. Letterhead & Envelope
+1. Presentation Folder
+1. Brochure
+
+1. Invitations & Announcements
+1. Brochure
+1. More merchandises upon enquiry
 
 Contact us if you're looking for If you’re looking for more branded merchandises, our Premium Branding could be a great choice for you. Check it out.
-### Visual Identity
+
 ### Digital Identity
 
 A premium brand tells a story of its own. While Logo & Visual Identity might be enough for basic needs, a Premium Branding would convey much more credibility to your customers.
@@ -26,12 +33,12 @@ When a new brand is introduced, customers tends to search for information online
 
 Premium Branding equips you with everything you’ll possibly need when facing your customers. Starting from AUD$4,950, our Premium Branding provides the following
 
-* Everything in Logo & Visual Identity
+* Everything in Logo Design & Visual Identity
 * Digital Name Card
 * Branded QR Code
 * Company Website
 * Google Map Listing
-* More merchandises upon enquiry
+1. Email Signature
 
 Standard and Deluxe Business Cards
 Brilliant Finish Business Cards
