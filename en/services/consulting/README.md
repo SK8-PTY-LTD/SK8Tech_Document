@@ -29,10 +29,10 @@ What creates a successful StartUp?
 
 1. StartUp
     1. [Consulting](startup-consulting.md)
-    1. [Management](#startup-management)
+    1. [Management](startup-management.md)
 1. Business
-    1. [Management](#business-management)
-    1. [Information System](#business-information-system)
+    1. [Management](business-management.md)
+    1. [Information System](business-information-system.md)
 
 ---
 
