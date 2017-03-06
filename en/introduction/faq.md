@@ -46,6 +46,6 @@ Tell us the kind of website or app you like, and we’ll send you a free proposa
 
 ## What happens after we built an website/app?
 
-> Let's put your website/app to work. To increase exposure, we recommend our [SEO](../services/marketing/seo.md)/[ASO](../services/marketing/aso.md) services. 
+> Let's put your website/app to work. To increase exposure for your customers, we recommend our [SEO](../services/marketing/seo.md)/[ASO](../services/marketing/aso.md) services. 
 
 > 
