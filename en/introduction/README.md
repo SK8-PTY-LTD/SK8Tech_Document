@@ -8,12 +8,6 @@ We are Groot!
 
 Based in Sydney and Shanghai, SK8Tech is an innovative Digital Solution company with craftman and entrepreneur spirits mounted deep in its root.
 
-## What is our vision
-
-We seek to develop a smarter future by dedicating our technical expertise to analyze, design, develop and deliver what our customers truly require. 
-
-It's all about you and your idea, beacause we believe in wininng together.
-
 ## What do we do
 
 We provide one-stop Digital Solutions to small to medium business. Transform your culture and operations to execute more efficiently.
@@ -21,22 +15,6 @@ We provide one-stop Digital Solutions to small to medium business. Transform you
 For eligible StartUps, we incubate the company, and provide necessary business, marketing, design, and technology skills.
 
 For students, we provide most up-to-date technology education. With practical skills and hands-on training, our students thrive in the ever-changing.
-
-## Why is the team so special
-
-> Innovation distinguishes between a leader and a follower.
-
-[SK8Tech](https://sk8.tech) is an all-star digital solution team with wide range of expertise in design and development. 
-
-In order to build the best team possible, we invested a lot on your internal training programs. In result, our best students are now working at Google, Facebook, and many other companies.
-
-## What's the experience like working at SK8Tech
-
-It's very intensive and rewarding. We are extremely adaptive and result-driven. In this ever-changing industry, to stay on top means to update our knowledge base daily.
-
-Typically, we spend 40% of our time on learning, 40% on better understanding objectives, and only 20% on working. Yet, the 20% highly efficient effort allows us to deliver the product better, faster, yet with less cost.
-
-Working in [SK8Tech](https://sk8.tech) pushes you to become a better you, everyday.
 
 ## A StartUp Partner
 
