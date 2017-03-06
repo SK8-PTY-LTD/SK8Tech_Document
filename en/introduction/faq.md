@@ -28,17 +28,17 @@ Tell us the kind of website or app you like, and we’ll send you a free proposa
 ## How We Develop A Website/App
 
 
-> ### 1. Enquiry
-Upon enquiry, we will analyse your requirements and give you a strategy proposal.
+> 1. Enquiry
+  Upon enquiry, we will analyse your requirements and give you a strategy proposal.
 
-> ### 2. Design
-We will draft, refine and finalise the design according to your requirements.
+> 1. Design
+  We will draft, refine and finalise the design according to your requirements.
 
-> ### 3. Development
-After design confirmation, we will develop the website/app accordingly. Afterwards, a variety of testing follows.
+> 1. Development
+  After design confirmation, we will develop the website/app accordingly. Afterwards, a variety of testing follows.
 
-> ### 4. Results
-Voila! There's your website/app, designed, developed, tested and ready for production!
+> 1. Results
+  Voila! There's your website/app, designed, developed, tested and ready for production!
 
 ## Do you have any case study?
 
