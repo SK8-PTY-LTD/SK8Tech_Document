@@ -28,33 +28,14 @@ What creates a successful StartUp?
 # Services
 
 1. StartUp
-    1. [Consulting](#startup-consulting)
+    1. [Consulting](startup-consulting.md)
     1. [Management](#startup-management)
 1. Business
     1. [Management](#business-management)
     1. [Information System](#business-information-system)
-    
-## StartUp Consulting
-
-Business Analysis validates the idea, and identifies the project goal,  requirements, milestones and to-do items. It provides guidance every step of the way through out the project.
-
-Ready to StartUp? Let's get your company registered, and your idea validated. As a StartUp Partner, experts at SK8Tech can help you get your company registered and ready for market. We can also help you to get your idea validated, so you know exactly what you're going for. 
-
-## StartUp Management
-
-Focus on your core services, and leave the tedious management to us. We can help you do book-keeping and financials. 
-
-## Business Consulting
-
-What makes a business great? We might have some idea. During our long-term partnership with many companies, we made lots of obserations and acquired lots of experiences. 
-
-So if you're building a companies, but you have no idea how, get in touch. We just might have some tips for you.
-
-## Business Infomation System
-
-Technology promotes efficiency. As tech experts, we can help you run your business more efficiently by integrating information system into your daily operations. 
 
 ---
+
 # Backup
 
 ## IT Consulting
