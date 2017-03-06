@@ -7,4 +7,4 @@ We find Social Marketing particular rewarding. By maintaining an active profile 
 
 However, it can be tedious and time consuming to produce and publish quality content, and maintain an active social profile on various platforms. This is precisely what we offer.
 
-1. Facebook, Twitter, Google+
+Contact us to find out more.
