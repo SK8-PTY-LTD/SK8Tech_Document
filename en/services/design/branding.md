@@ -21,7 +21,7 @@ Your brand is what your customer remembers you by. Visual Identity provides you 
 1. Flyers
 1. More merchandises upon enquiry
 
-Contact us if you're looking for If you’re looking for more branded merchandises, our Premium Branding could be a great choice for you. Check it out.
+Looking for more branded merchandises? Contact us.
 
 ### Digital Identity
 
