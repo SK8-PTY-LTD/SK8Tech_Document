@@ -5,7 +5,7 @@ Building a new brand? We offer a full branding package, including logo, website,
 
 ### Logo Design
 
-Whether it’s on a website, on a promotional object, or for a physical store, a logo is one of the first thing your customers will see. Use the expertise of our graphic team to get a unique and personalised logo that will stand out.
+Logo is the very first thing your customer will see, whether on your website, promotional materials. Contact our graphic team to get a unique and personalised logo that will stand out.
 
 A good design requires time and craftsmanship. Typically, it takes us one week to conceptualise and prepare 3 proposals. Once a proposal is accepted, it takes us another week to refine the logo. After the second review, we will finalise the logo, and design other elements.
 

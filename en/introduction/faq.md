@@ -19,6 +19,10 @@ Have a look at our services page for more detail. Tell us the kind of website or
 While each project needs to be quoted individually, an easy way to get a close estimate would be to take a close look at close similar app.
 Tell us the kind of website or app you like, and we’ll send you a free proposal within 48 hours.
 
+## How long does it take to design a logo?
+
+A good design requires time and craftsmanship. Typically, it takes us one week to conceptualise and prepare 3 proposals. Once a proposal is accepted, it takes us another week to refine the logo. After the second review, we will finalise the logo, and design other elements.
+
 ## How long does it take to make a website or app?
 
 > Again, it depends on the scope of the project.
