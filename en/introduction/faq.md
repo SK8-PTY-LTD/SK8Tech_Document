@@ -8,23 +8,32 @@
 
 > Depending on the requirement of the app, one of many strategies could be chosen.
 
-> Contact us to find out exactly how to develop your website, or have a look at our services for more information on web development. 
+> Contact us to find out exactly how to develop your app, or have a look at our services for more information on App Development. 
 
 ## What about WeChat?
 
 > Wechat is a social app for Chinese demographic, like Facebook. 
 If you’re targeting Chinese customers, this could be a potential success.
-Have a look at our services page for more detail. Tell us the kind of website or app you like, and we’ll send you a free proposal within 48 hours.
+
+
+> Contact us to find out exactly how to develop your WeChat Account, or have a look at our services for more information on WeChat Development. 
 
 ## How much does it cost to make an website or app?
 
 > It depends on the time it takes to complete the project. In other words, it highly depends on what the website or app does.
 While each project needs to be quoted individually, an easy way to get a close estimate would be to take a close look at close similar app.
-Tell us the kind of website or app you like, and we’ll send you a free proposal within 48 hours.
+
+> Contact us to find out exactly how much it costs to make your website or app, or have a look at our services for more information on Web Development or App Development.
+
 
 ## How long does it take to design a logo?
 
-A good design requires time and craftsmanship. Typically, it takes us one week to conceptualise and prepare 3 proposals. Once a proposal is accepted, it takes us another week to refine the logo. After the second review, we will finalise the logo, and design other elements.
+> A good design requires time and craftsmanship, and that's exactly what we offer. 
+
+> Typically, it takes us one week to conceptualise and prepare 3 proposals. Once a proposal is accepted, it takes us another week to refine the logo. After the second review, we will finalise the logo, and design other elements.
+
+> Contact us to find out exactly how to design your app, or have a look at our services for more information on Logo Design.
+
 
 ## How long does it take to make a website or app?
 
@@ -51,8 +60,9 @@ Tell us the kind of website or app you like, and we’ll send you a free proposa
 
 > You bet we do! Check out portfolio page for more
 
+
 ## What happens after we built an website/app?
 
-> Let's put your website/app to work. To increase exposure for your customers, we recommend our [SEO](../services/marketing/seo.md)/[ASO](../services/marketing/aso.md) services. 
+> Let's put your website/app to work. To increase exposure for your customers, check out our [SEO](../services/marketing/seo.md)/[ASO](../services/marketing/aso.md) services. 
 
 > 
