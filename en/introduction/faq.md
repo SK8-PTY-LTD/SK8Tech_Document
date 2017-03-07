@@ -10,7 +10,6 @@
 
 > Contact us to find out exactly how to develop your website, or have a look at our services for more information on web development. 
 
-
 ## What about WeChat?
 
 > Wechat is a social app for Chinese demographic, like Facebook. 
