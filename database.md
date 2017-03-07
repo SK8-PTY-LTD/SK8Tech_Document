@@ -66,13 +66,6 @@ Address为用户保存的“收货地址”，键名解释如下：
 ```
 
 
-```Javascript
-
-var name = "Jack";
-
-```
-
-
 ## Comment 
 
 Comment为用户发布的“评论”，其中包括对[“瞬间”](#moment), [“需求”](#quest), 和[“推荐”](#recommendation)的评论。键名解释如下:
@@ -368,8 +361,8 @@ User为旅淘淘的所有用户列表。请见文档：[iOS](https://leancloud.c
 |username|true|String|用户的登录名，现在为手机号|
 |nickname||String|昵称，非必填|
 |status|true|Number|状态，默认0|
-|bannerImage|true|_File|文件指针|
-|profileImage|true|_File|文件指针|
+|bannerImage||_File|文件指针|
+|profileImage||_File|文件指针|
 |password|true|String|密码|
 |officialName||String|真名，若真名或身份证号码则用户未认证|
 |idNumber||String|身份证号码，若真名或身份证号码则用户未认证|
