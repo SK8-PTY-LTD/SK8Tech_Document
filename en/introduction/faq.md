@@ -48,6 +48,7 @@ While each project needs to be quoted individually, an easy way to get a close e
 > For every UI design, we go though the following process
 
 > 1. Draft
+> 1. Prototyping
 > 1. UI Design
 > 1. Prototyping
 
