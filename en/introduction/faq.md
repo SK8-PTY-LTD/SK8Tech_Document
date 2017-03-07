@@ -2,7 +2,7 @@
 
 > Depending on the purpose and requirements of the website, different strategy should be deployed.
 
-Contact us to find out exactly how to develop your website, or have a look at our services for more information on web development. 
+>Contact us to find out exactly how to develop your website, or have a look at our services for more information on web development. 
 
 ## How to make an mobile app?
 
