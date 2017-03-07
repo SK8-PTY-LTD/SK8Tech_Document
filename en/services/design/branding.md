@@ -33,8 +33,8 @@ Premium Branding equips you with everything you’ll possibly need when facing y
 
 1. Everything in Logo Design & Visual Identity
 1. Email Signature
-1. Digital Name Card
-1. Branded QR Code
+1. **Digital Name Card**
+1. **Branded QR Code**
 1. Company Website
 1. Google Map Listing
 1. Social Media Accounts
