@@ -25,6 +25,15 @@ While each project needs to be quoted individually, an easy way to get a close e
 
 > Contact us to find out exactly how much it costs to make your website or app, or have a look at our services for more information on Web Development or App Development.
 
+## How to design a logo?
+
+> A good design requires time and craftsmanship, and that's exactly what we offer. For every logo we design, we promise:
+
+> * Original design, No template. Every logo crafted for you and you only.
+> * Open source, once a case is closed, source files will be delivered.
+> * User friendly, we'll ensure you know how to use everything.
+
+> Contact us to find out exactly how to design your logo, or have a look at out services for more information on Logo Design.
 
 ## How long does it take to design a logo?
 
@@ -32,7 +41,17 @@ While each project needs to be quoted individually, an easy way to get a close e
 
 > Typically, it takes us one week to conceptualise and prepare 3 proposals. Once a proposal is accepted, it takes us another week to refine the logo. After the second review, we will finalise the logo, and design other elements.
 
-> Contact us to find out exactly how to design your app, or have a look at our services for more information on Logo Design.
+> Contact us to find out exactly how to design your logo, or have a look at our services for more information on Logo Design.
+
+## How do you design UI & UX? 
+
+> For every UI design, we go though the following process
+
+> 1. Draft
+> 1. UI Design
+> 1. Prototyping
+
+> Contact us to find out exactly how to design UI & UX, or have a look at our services for more information on UI & UX Design.
 
 
 ## How long does it take to make a website or app?
