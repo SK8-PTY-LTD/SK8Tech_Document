@@ -10,6 +10,6 @@ Boost your App ranking in Top Charts, via Reward Wall and Manual Downloads.
 
 Boost your App ranking in Top Free Charts or Top Paid Charts, by optimizing your app search keywords for more search exposure.
 
-### App Rating Optimization
+### App Review Optimization
 
 Increase your app downloads by creating positive app reviews in the App Store.
