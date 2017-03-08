@@ -18,4 +18,4 @@ For students, we provide most up-to-date technology education. With practical sk
 
 ## A StartUp Partner
 
-Since 2013, we have partnered with many founders of StartUp companies from all industries. Now have an aggregate, public market value of over $3 million AUD. If you’re looking for A StartUp Partner, contact us.
+Since 2013, we have partnered with many founders of StartUp companies from all industries. Now have an aggregate, public market value of over $7 million AUD. If you’re looking for A StartUp Partner, contact us.
