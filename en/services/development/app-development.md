@@ -10,3 +10,13 @@ Alternatively, for the best user experience and performance, we recommend develo
 If you’re targeting Chinese Customers, we recommend Wechat Offical Account and Wechat App. For more information, please have a look at ‘Wechat Development’
 
 Contact us to find out more.
+
+### Web App
+
+If you’re looking to build a more customised web apps, we recommend using Dynamic Web Frameworks:
+
+1. JQuery
+1. AngularJS
+1. ReactJS
+
+Contact us to find out more.
