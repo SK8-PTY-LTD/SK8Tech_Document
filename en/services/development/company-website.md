@@ -11,6 +11,6 @@ If you’re looking for a website to display information, e.g. a portfolio, or a
 
 ### Event Website
 
-If it’s one-time marketing website, e.g. a page for real estate sales, we recommend using HTML5, as it’s better designed, faster to build, and more customisation.
+If it’s one-time marketing website, e.g. a page for real estate sales, we recommend using HTML5, as it’s better designed, faster to build, and allows more customisation.
 
 Contact us to find out more.

@@ -9,6 +9,8 @@ Alternatively, for the best user experience and performance, we recommend develo
 
 If you’re targeting Chinese Customers, we recommend Wechat Offical Account and Wechat App. For more information, please have a look at ‘Wechat Development’
 
+If you’re targeting Chinese Customers, we recommend Wechat Offical Account and Wechat App. For more information, please have a look at ‘Wechat Development’
+
 Contact us to find out more.
 
 ### Web App
@@ -20,3 +22,7 @@ If you’re looking to build a more customised web apps, we recommend using Dyna
 1. ReactJS
 
 Contact us to find out more.
+
+### WeChat App
+
+Do you know Chinese spend over 80% of spare time browsing Wechat content? There’re two types of development can be done on Wechat, Wechat Official Account and WeChat App.
