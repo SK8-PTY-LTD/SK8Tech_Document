@@ -15,7 +15,7 @@
 1. Menu for videos
     1. Menu
         1. About
-        1. Articles
+        1. Videos
         1. Buy Aus
 
 # 1.2 - 6 weeks
