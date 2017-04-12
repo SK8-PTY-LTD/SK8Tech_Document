@@ -1,4 +1,4 @@
-This document describes the process both thr new recruit and manager needs to go through during orientation.
+This document describes the process both the new recruit and manager needs to go through during orientation.
 
 This is a guideline for new recruit and manager.
 
