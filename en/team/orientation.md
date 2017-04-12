@@ -21,7 +21,7 @@ This is a **quick** checklist.
         1. Join appropriate team
         1. Watch [Quick Start](https://asana.com/guide/get-started/begin/quick-start)
         1. Watch [Add your first few tasks](https://asana.com/guide/get-started/begin/adding-assigning-tasks)
-        1. *Manager* host an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
+        1. Contact *Manager* for an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
     1. **Slack** - first.last@sk8.asia
         1. Sign up a [Slack Account](https://sk8tech.slack.com/)
         1. Join appropriate team
