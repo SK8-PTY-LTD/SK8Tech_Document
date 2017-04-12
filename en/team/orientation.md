@@ -2,6 +2,8 @@ This document describes the process both thr new recruit and manager needs to go
 
 This is a guideline for new recruit and manager.
 
+## Internship
+
 1. General
     1. **CV** - Employee Cover
     1. **NDA** - Employee Non Disclosure Agreement
@@ -46,6 +48,9 @@ This is a guideline for new recruit and manager.
     1. **Invision**
         1. Sign up [Invision](https://projects.invisionapp.com/d/signup) account
         1. Send Github username to CDO via Slack
+        
+## Part-time
+
 1. Administrative
     1. **TFN Declaration Form**
         1. Sign TFN Form
