@@ -25,7 +25,7 @@ This is a **quick** checklist.
     1. **Slack** - first.last@sk8.asia
         1. Sign up a [Slack Account](https://sk8tech.slack.com/)
         1. Join appropriate team
-        1. *Manager* 
+        1. *Manager* introduce Slack
 1. Development
     1. Github
 1. Design
