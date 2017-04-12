@@ -2,6 +2,13 @@
 
 * [Introduction](README.md)
 
+## Team
+
+* [Asana](team/asana.md)
+* [Orientation](team/orientation.md)
+* [Resignation](team/resignation.md)
+* [Website](team/website.md)
+
 ## Inroduction
 
 * [History](introduction/history.md)
