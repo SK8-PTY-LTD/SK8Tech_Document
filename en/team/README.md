@@ -2,8 +2,7 @@ In this section of the document, guidelines for human resource management is pro
 
 1. [Orientation](orientation.md)
 1. [Software](software.md)
-1. [Asana](asana.md)
-1. [Website](website.md)
+1. [Code of Conduct](rules.md)
 1. [Resignation](resignation.md)
 
 # SK8Tech Coding Standard
