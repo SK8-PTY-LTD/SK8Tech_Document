@@ -1,14 +1,25 @@
-Remove Access for
+When an employee leaves SK8Tech, manager must perform the following tasks. 
 
-1. Email, reset password & forward new ones to hi@sk8.tech
-1. SK8Drive
-1. Asana
-1. Slack
-1. Github
-1. Remove FTP
-1. Timesheet GSheet
-1. Wage.xlsx
-1. Reset related passwords
-1. FTP
-1. WordPress users
-1. Treehouse
+
+1. General
+    1. **CV** - Employee Cover
+    1. **Email** - first.last@sk8.tech
+        1. Reset Email password, forward new emails to hi@sk8.tech
+    1. **SK8Drive** - first.last@sk8.tech
+        1. Remove Drive Access, remove user folder
+    1. **Asana** - first.last@sk8.tech
+        1. Remove Asana Access, Deprovision
+    1. **Slack** - first.last@sk8.asia
+        1. Remove Slack Access, inactivate
+1. Learning
+    1. Change Treehouse Password
+1. Development
+    1. **Github**
+        1. Remove from Team
+        1. Remove from Repos
+1. Design
+    1. **Invision**
+        1. Remove Project Access
+1. Administrative
+    1. Remove from Wage.xlsx
+    1. Remove WordPress users
