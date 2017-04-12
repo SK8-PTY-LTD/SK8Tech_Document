@@ -7,7 +7,7 @@ In this document, we list out our code of conduct.
 
 ---
 
-# Coding Standard
+# Elegancy
 
 ## Website
 
