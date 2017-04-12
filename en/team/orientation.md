@@ -31,39 +31,35 @@ This is a **quick** checklist.
         1. Join appropriate team
         1. *Manager* install Slack Integration
 1. Learning
-    |Treehouse||
+    |**Treehouse**||
     |---|---|
     |URL|https://teamtreehouse.com/|
     |Username|sk8tech@163.com|
     |Password|*Ask Admin via Slack*|
 1. Development
-    1. Github
+    1. **Github**
         1. Sign up [Github](https://github.com/join) account
         1. Send Github username to CTO via Slack
-    1. Stack Overflow
+    1. **Stack Overflow**
         1. Sign up [Stack Overflow](https://stackoverflow.com/users/login) account, with Github
 1. Design
-    1. Invision
+    1. **Invision**
         1. Sign up [Invision](https://projects.invisionapp.com/d/signup) account
         1. Send Github username to CDO via Slack
-
-## Documents
-
-The following documents needs to be signed.
-
-1. Employee Non Disclosure Agreement
-
-# Accounts
-
-## Full/Part-time
-
-**Employee**
-1. TFN
-1. Bank Account
-1. Super
-**Admin**
-1. TFN
-1. Small Business Super Clearing Account
-1. Wage.xlsx
-1. sk8.myob
-1. Timesheet GSheet
+1. Administrative
+    1. **TFN Declaration Form**
+        1. Sign TFN Form
+        1. Send to ATO
+    1. **Bank account** 
+        1. Account name
+        1. BSB
+        1. Account number
+        1. Add bank detail to MYOB
+        1. Add bank detail to Westpac
+        1. Add to Wage.xlsx
+    1. **Superanuation**
+        1. USI
+        1. BSB
+        1. Account number
+        1. Membership ID
+        1. Add super to [Small Business Super Clearing](https://www.ato.gov.au/Business/Super-for-employers/Paying-super-contributions/Small-Business-Superannuation-Clearing-House/) 
