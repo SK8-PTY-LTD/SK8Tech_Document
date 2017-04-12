@@ -21,7 +21,8 @@ When saving to database, save the full, formated number, in STRING format
 
 ### The protocol-relative URL
 
-Most often, file loading from external URLs should be avoided as it increases website reponse time. Consider compiling the file using automation gools such as [GulpJS](//gulpjs.com), [GruntJS](//gruntjs.com/) or using module bundling tool such as [Webpack](//webpack.github.io/).
+> Most often, file loading from external URLs should be avoided as it increases website reponse time. Consider compiling the file using automation gools such as [GulpJS](//gulpjs.com), [GruntJS](//gruntjs.com/) or using module bundling tool such as [Webpack](//webpack.github.io/).
+
 If it is absolutely necessary to include external URLs, it is recommended to link the file using [Protocol-relative URL](https://en.wikipedia.org/wiki/Wikipedia:Protocol-relative_URL). 
 
 The following is a good example.
