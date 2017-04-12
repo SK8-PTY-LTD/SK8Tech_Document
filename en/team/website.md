@@ -1,4 +1,6 @@
-# Website Standard
+# Code of Conduct
+
+In this document, we list out our code of conduct.
 
 1. [Elegancy](#elegancy)
 1. [Security](#security)
