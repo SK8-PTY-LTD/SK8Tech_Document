@@ -5,7 +5,7 @@
 
 ---
 
-# Elegancy
+# Coding Standard
 
 ## Form
 
