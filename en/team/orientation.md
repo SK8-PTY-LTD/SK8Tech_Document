@@ -46,7 +46,6 @@ This is a **quick** checklist.
     1. Invision
         1. Sign up [Invision](https://projects.invisionapp.com/d/signup) account
         1. Send Github username to CDO via Slack
-1. Stack Overflow
 
 ## Documents
 
