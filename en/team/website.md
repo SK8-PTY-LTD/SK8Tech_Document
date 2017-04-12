@@ -9,13 +9,11 @@ In this document, we list out our code of conduct.
 
 # Elegancy
 
-1. [H5 Web App](#h5-web-app)
-1. WordPress
-1. [H5 Web App](#h5-web-app)
+1. [Website](#website)
 1. iOS
 1. Android
 
-## H5 Web App
+## Website
 
 ### Form
 
