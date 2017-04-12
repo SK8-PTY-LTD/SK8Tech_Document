@@ -95,16 +95,23 @@ Avoid writing credentials, such as password, key, tokens into scripting files.
 
 # Bottomline
 
-When in violation of the following rules, a **Demerit** is issued. A collection of 3 demerits in a quarter would result in **termination of the employment** contract at SK8Tech.
+When any of the following situation happens, or in violation of the following rules, a **Demerit** will be conditionally issued. A collection of 3 demerits in a quarter would result in **termination of the employment** contract at SK8Tech.
 
-# File Credentials
+## Breach of security
 
-Never commit credential file online or into git
+1. Files or credentials transferred over insure network
+1. Files or credentials published online, or committed and pushed in git
+1. Files or credentials shared with any unauthorized personal
 
-# Main Process Crashing
+## Breach of confidentiality
 
-Whatever commit, it absolutely cannot crash the main site.
+1. Company documents leaked to any unauthorized personal
+1. Project documetns leaked to any unauthorized personal
+1. Client leaked to any unauthorized personal 
 
-# Server Setting
+## Breach of product quality
 
-Changing PHP Version without warning
+1. Actions causing the critical failure of delivered product. 
+1. Actions causing the critical failure of existing product.
+    1. Be careful with 'Drop' action of any Database
+    1. Be careful with changing 'PHP Version' of a server
