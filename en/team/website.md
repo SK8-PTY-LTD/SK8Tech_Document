@@ -72,6 +72,11 @@ We spend a lot of energy on ensuring and enforcing the security of our apps and 
 
 No code, not a single line of code, should be written without a version control tool. At SK8Tech, we use Github as our default version control tool.
 
+## Handling Credentials
+
+Avoid writing credentials, such as password, key, tokens into scripting files. 
+**Never** transfer credential file online or commit into any version control
+
 ## BackUp
 
 1. For WordPress websites, back up the following files with following frequency
