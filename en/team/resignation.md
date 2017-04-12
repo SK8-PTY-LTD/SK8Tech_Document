@@ -1,6 +1,5 @@
 When an employee leaves SK8Tech, manager must perform the following tasks. 
 
-
 1. General
     1. **CV** - Employee Cover
     1. **Email** - first.last@sk8.tech
