@@ -23,7 +23,6 @@ This is a **quick** checklist.
         1. Manager host an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
         1. Recruit Watch [Quick Start](https://asana.com/guide/get-started/begin/quick-start)
         1. Recruit Watch [Add your first few tasks](https://asana.com/guide/get-started/begin/adding-assigning-tasks)
-        1. Manager host an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
     1. **Slack**    
 1. Development
     1. Github
