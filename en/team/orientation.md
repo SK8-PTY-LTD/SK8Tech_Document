@@ -30,12 +30,13 @@ This is a **quick** checklist.
         1. Download Slack Desktop App
         1. Join appropriate team
         1. *Manager* install Slack Integration
+1. Learning
     1. **Treehouse**
-        |Treehouse||
-        |---|---|
-        |URL|https://teamtreehouse.com/|
-        |Username|sk8tech@163.com|
-        |Password|<Ask Admin via Slack>|
+    |Treehouse||
+    |---|---|
+    |URL|https://teamtreehouse.com/|
+    |Username|sk8tech@163.com|
+    |Password|<Ask Admin via Slack>|
 1. Development
     1. Github
         1. Sign up [Github](https://github.com/join) account
