@@ -74,3 +74,5 @@ No code, not a single line of code, should be written without a version control 
     |Database|Daily|365|Remote|
 
 ## Virus Scan
+
+1. For WordPress websites, use [Wordfence](https://www.wordfence.com/) to scan virus
