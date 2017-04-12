@@ -4,7 +4,7 @@
 
 ## Team
 
-* [Introduction](team/introduction.md)
+* [Introduction](team/README.md)
 * [Orientation](team/orientation.md)
 * [Software](team/software.md)
 * [Resignation](team/resignation.md)
