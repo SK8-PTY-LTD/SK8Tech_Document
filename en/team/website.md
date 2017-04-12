@@ -1,31 +1,34 @@
-# Ruls for making website
+# Website Standard
+
+1. [Elegancy](#elegancy)
+1. [Security](#security)
 
 ---
+
+# Elegancy
 
 ## Form
 
 ### Mobile Phone number
 
-Make sure you know the countries which are allowed in the field. If more than one country is allowed, make sure use dropdown to select country code.   
+Make sure you know the countries which are allowed in the field. If more than one country is allowed, make sure use dropdown to select country code.
 When saving to database, save the full, formated number, in STRING format
 
-> +61 444 444 444  
+> +61 444 444 444
 > +86 158 0000 0000
-
----
 
 ## Referencing scripts & files
 
 ### The protocol-relative URL
 
-Most often, file loading from external URLs should be avoided as it increases website reponse time. Consider compiling the file using automation gools such as [GulpJS](//gulpjs.com), [GruntJS](//gruntjs.com/) or using module bundling tool such as [Webpack](//webpack.github.io/).  
-If it is absolutely necessary to include external URLs, it is recommended to link the file using [Protocol-relative URL](https://en.wikipedia.org/wiki/Wikipedia:Protocol-relative_URL), E.g.
+Most often, file loading from external URLs should be avoided as it increases website reponse time. Consider compiling the file using automation gools such as [GulpJS](//gulpjs.com), [GruntJS](//gruntjs.com/) or using module bundling tool such as [Webpack](//webpack.github.io/).
+If it is absolutely necessary to include external URLs, it is recommended to link the file using [Protocol-relative URL](https://en.wikipedia.org/wiki/Wikipedia:Protocol-relative_URL). 
 
-```
-<script type = 'text/javascript' src="//path/to/your/script/script.js">
+The following is a good example.
+
+```HTML
+<script type='text/javascript' src="//path/to/your/script/script.js">
 <link rel="stylesheet" href="//path/to/your/css/script.css">
-
-##Links
 ```
 
 ---
@@ -36,7 +39,7 @@ If it is absolutely necessary to include external URLs, it is recommended to lin
 
 Just reference internal links as following
 
-```
+```HTML
 <a href="/path">
 ```
 
@@ -44,9 +47,25 @@ Just reference internal links as following
 
 When referencing external links, make sure to include **target="\_blank"** in the anchor tag, so that after user clicked open the external link in the new tab, the current link still exists as a seperate tab/window, and user keep track of our current website and can always come back to this tab.
 
-```
+```HTML
 <a href="/path" target="_blank">
 ```
 
+---
 
+# Security
 
+We spend a lot of energy on ensuring and enforcing the security of our apps and websites. 
+
+## Version Control
+
+## BackUp
+
+1. For WordPress websites, back up the following files with following frequency
+    
+    |File|Frequency|Copies|Location|
+    |---|---|---|---|
+    |Files|Weekly|52|Remote|
+    |Database|Daily|365|Remote|
+
+## Virus Scan
