@@ -13,7 +13,6 @@ This is a **quick** checklist.
     1. Slack
 1. Development
     1. Github
-    
 1. Design
     1. Invision
 
