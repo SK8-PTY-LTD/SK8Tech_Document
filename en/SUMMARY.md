@@ -4,6 +4,7 @@
 
 ## Team
 
+* [Introduction](team/introduction.md)
 * [Asana](team/asana.md)
 * [Orientation](team/orientation.md)
 * [Resignation](team/resignation.md)
