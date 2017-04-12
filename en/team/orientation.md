@@ -18,10 +18,6 @@ This is a **quick** checklist.
 1. Design
     1. Invision
 
----
-
-# Full Checklist
-
 ## Documents
 
 The following documents needs to be signed.
