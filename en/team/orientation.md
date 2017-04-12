@@ -35,11 +35,13 @@ This is a **quick** checklist.
     |---|---|
     |URL|https://teamtreehouse.com/|
     |Username|sk8tech@163.com|
-    |Password|<Ask Admin via Slack>|
+    |Password|*Ask Admin via Slack*|
 1. Development
     1. Github
         1. Sign up [Github](https://github.com/join) account
         1. Send Github username to CTO via Slack
+    1. Stack Overflow
+        1. Sign up [Stack Overflow](https://stackoverflow.com/users/login) account, with Github
 1. Design
     1. Invision
         1. Sign up [Invision](https://projects.invisionapp.com/d/signup) account
