@@ -7,9 +7,11 @@
 
 # Coding Standard
 
-## Form
+## Website
 
-### Mobile Phone number
+### Form
+
+#### Mobile Phone number
 
 Make sure you know the countries which are allowed in the field. If more than one country is allowed, make sure use dropdown to select country code.
 When saving to database, save the full, formated number, in STRING format
@@ -17,9 +19,9 @@ When saving to database, save the full, formated number, in STRING format
 > +61 444 444 444
 > +86 158 0000 0000
 
-## Referencing scripts & files
+### Referencing scripts & files
 
-### The protocol-relative URL
+#### The protocol-relative URL
 
 > Most often, file loading from external URLs should be avoided as it increases website reponse time. Consider compiling the file using automation gools such as [GulpJS](//gulpjs.com), [GruntJS](//gruntjs.com/) or using module bundling tool such as [Webpack](//webpack.github.io/).
 
@@ -59,6 +61,8 @@ When referencing external links, make sure to include **target="\_blank"** in th
 We spend a lot of energy on ensuring and enforcing the security of our apps and websites. 
 
 ## Version Control
+
+No code, not a single line of code, should be written without a version control tool. At SK8Tech, we use Github as our default version control tool.
 
 ## BackUp
 
