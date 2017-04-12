@@ -36,8 +36,6 @@ The following is a good example.
 <link rel="stylesheet" href="//path/to/your/css/script.css">
 ```
 
----
-
 ## Linking
 
 ### Internal Links
