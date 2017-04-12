@@ -8,22 +8,24 @@ This is a **quick** checklist.
         1. Print NDA
         1. Explain NDA
         1. Sign NDA
-    1. **Email** - first.last@sk8.asia
-        1. Create [Email Account](https://exmail.qq.com/login)
+    1. **Email** - first.last@sk8.tech
+        1. Create [Email Account](https://qiye.aliyun.com/alimail/)
         1. Initial Login & Password Reset
         1. Link to WeChat
-    1. **SK8Drive** - first.last@sk8.asia
+    1. **SK8Drive** - first.last@sk8.tech
         1. Create Drive Account
         1. Initial Login & Password Reset
         1. Install [desktop client](https://owncloud.org/install/#desktop) & login
-    1. **Asana** - first.last@sk8.asia
-        1. Asana Account Invitation
-        1. Initial Login & Password Reset
+    1. **Asana** - first.last@sk8.tech
+        1. Sign up an [Asana account](https://asana.com/)
         1. Join appropriate team
-        1. Manager host an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
-        1. Recruit Watch [Quick Start](https://asana.com/guide/get-started/begin/quick-start)
-        1. Recruit Watch [Add your first few tasks](https://asana.com/guide/get-started/begin/adding-assigning-tasks)
-    1. **Slack**    
+        1. *Manager* host an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
+        1. *Recruit* Watch [Quick Start](https://asana.com/guide/get-started/begin/quick-start)
+        1. *Recruit* Watch [Add your first few tasks](https://asana.com/guide/get-started/begin/adding-assigning-tasks)
+    1. **Slack** - first.last@sk8.asia
+        1. Sign up a [Slack Account](https://sk8tech.slack.com/)
+        1. Join appropriate team
+        1. *Manager* 
 1. Development
     1. Github
 1. Design
