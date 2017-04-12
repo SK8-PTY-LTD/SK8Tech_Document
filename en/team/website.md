@@ -10,8 +10,8 @@ In this document, we list out our code of conduct.
 # Elegancy
 
 1. [Website](#website)
-1. iOS
-1. Android
+1. [iOS](#ios)
+1. [Android](#android)
 
 ## Website
 
