@@ -11,7 +11,6 @@ This is a **quick** checklist.
     1. SK8Drive
     1. Asana
     1. Slack
-    
 1. Development
     1. Github
     
