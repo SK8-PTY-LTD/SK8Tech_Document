@@ -1,5 +1,35 @@
 In this documentation, all software and tools required are listed out. Please install the software accordingly.
 
+# General
+    1. Email
+    1. Asana
+    1. Chrome
+    
+# Communication
+    1. Slack
+    1. WeChat
+    
+# Design
+    1. Skech
+    1. Invision
+    1. Adobe Afte
+    1. 墨刀
+    
+# Development
+
+    ## Mac
+    1. Go2Shell
+
+
+# Testing
+
+# Marketing
+    1. Adwords
+    1. Analytics
+    1. Maka
+
+#
+
 # Asana
 
 ## Using Github with [Asana](https://asana.com)
