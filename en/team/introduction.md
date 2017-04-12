@@ -1,8 +1,13 @@
-# Summary
+# SK8Tech Coding Standard
 
-* [Introduction](README.md)
-* [Asana](asana.md)
-* [Website](website.md)
-* App
+This repo provides a list of reference of the coding standard expected for SK8Tech.
 
-* * Rules & Guidelines
+# Tools
+
+1. # [Asana](Asana.md)
+
+# Editors & IDE
+
+# Specifics
+
+1. # [Web](Website.md)
