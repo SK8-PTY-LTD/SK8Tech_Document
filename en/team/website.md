@@ -4,6 +4,7 @@ In this document, we list out our code of conduct.
 
 1. [Elegancy](#elegancy)
 1. [Security](#security)
+1. [Bottomline](#Bottomline)
 
 ---
 
@@ -89,3 +90,21 @@ Avoid writing credentials, such as password, key, tokens into scripting files.
 ## Virus Scan
 
 1. For WordPress websites, use [Wordfence](https://www.wordfence.com/) to scan virus
+
+---
+
+# Bottomline
+
+When in violation of the following rules, a **Demerit** is issued. A collection of 3 demerits in a quarter would result in **termination of the employment** contract at SK8Tech.
+
+# File Credentials
+
+Never commit credential file online or into git
+
+# Main Process Crashing
+
+Whatever commit, it absolutely cannot crash the main site.
+
+# Server Setting
+
+Changing PHP Version without warning
