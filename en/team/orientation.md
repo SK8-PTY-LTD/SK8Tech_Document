@@ -9,7 +9,6 @@ This is a **quick** checklist.
         1. Sign NDA
     1. Email
     1. SK8Drive
-    1. Email
     1. Asana
     1. Slack
     
