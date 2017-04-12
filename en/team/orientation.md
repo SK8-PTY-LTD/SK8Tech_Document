@@ -23,13 +23,26 @@ This is a **quick** checklist.
         1. Watch [Add your first few tasks](https://asana.com/guide/get-started/begin/adding-assigning-tasks)
         1. *Manager* hold an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
     1. **Slack** - first.last@sk8.asia
-        1. Sign up a [Slack Account](https://sk8tech.slack.com/)
+        1. Sign up a [Slack account](https://sk8tech.slack.com/)
         1. Join appropriate team
-        1. *Manager* introduce Slack
+        1. Watch [Learning Slack](https://www.lynda.com/Slack-tutorials/Up-Running-Slack/383930-2.html) Chapter 5~10
+        1. Join appropriate team
+        1. Download Slack Desktop App
+        1. Join appropriate team
+        1. *Manager* install Slack Integration
+    1. **Treehouse**
+        |Treehouse||
+        |---|---|
+        |URL|https://teamtreehouse.com/|
+        |Username|sk8tech@163.com|
+        |Password|<Ask Admin via Slack>|
 1. Development
     1. Github
+        1. Sign up [Github](https://github.com/join) account
+        1. Send Github username to CTO via Slack
 1. Design
     1. Invision
+        1. Sign up [Invision](https://projects.invisionapp.com/d/signup) account
 
 ## Documents
 
@@ -38,17 +51,6 @@ The following documents needs to be signed.
 1. Employee Non Disclosure Agreement
 
 # Accounts
-
-## Intern
-
-**Employee**
-1. NDA
-1. Email
-1. SK8Drive
-1. Asana
-1. Slack
-1. Github
-1. Invision
 
 ## Full/Part-time
 
