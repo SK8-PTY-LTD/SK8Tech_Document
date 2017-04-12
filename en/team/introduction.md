@@ -4,10 +4,10 @@ This repo provides a list of reference of the coding standard expected for SK8Te
 
 # Tools
 
-1. # [Asana](Asana.md)
+1. # [Asana](asana.md)
 
 # Editors & IDE
 
 # Specifics
 
-1. # [Web](Website.md)
+1. # [Web](website.md)
