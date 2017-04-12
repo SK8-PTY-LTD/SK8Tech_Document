@@ -1,3 +1,5 @@
+In this documentation, all software and tools required are listed out. Please install the software accordingly.
+
 # Asana
 
 ## Using Github with [Asana](https://asana.com)

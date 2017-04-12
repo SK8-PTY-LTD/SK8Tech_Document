@@ -8,7 +8,6 @@
 * [Orientation](team/orientation.md)
 * [Software](team/software.md)
 * [Resignation](team/resignation.md)
-* [Asana](team/asana.md)
 * [Website](team/website.md)
 * [Rules](team/rules.md)
 
