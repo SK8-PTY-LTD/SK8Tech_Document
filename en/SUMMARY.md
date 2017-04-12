@@ -9,6 +9,7 @@
 * [Orientation](team/orientation.md)
 * [Resignation](team/resignation.md)
 * [Website](team/website.md)
+* [Rules](team/rules.md)
 
 ## Inroduction
 
