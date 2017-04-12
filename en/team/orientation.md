@@ -31,7 +31,6 @@ This is a **quick** checklist.
         1. Join appropriate team
         1. *Manager* install Slack Integration
 1. Learning
-    1. **Treehouse**
     |Treehouse||
     |---|---|
     |URL|https://teamtreehouse.com/|
