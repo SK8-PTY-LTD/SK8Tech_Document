@@ -16,8 +16,15 @@ This is a **quick** checklist.
         1. Create Drive Account
         1. Initial Login & Password Reset
         1. Install [desktop client](https://owncloud.org/install/#desktop) & login
-    1. **Asana**
-    1. **Slack**
+    1. **Asana** - first.last@sk8.asia
+        1. Asana Account Invitation
+        1. Initial Login & Password Reset
+        1. Join appropriate team
+        1. Manager host an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
+        1. Recruit Watch [Quick Start](https://asana.com/guide/get-started/begin/quick-start)
+        1. Recruit Watch [Add your first few tasks](https://asana.com/guide/get-started/begin/adding-assigning-tasks)
+        1. Manager host an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
+    1. **Slack**    
 1. Development
     1. Github
 1. Design
