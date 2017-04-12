@@ -3,18 +3,21 @@ This document describes the process both thr new recruit and manager needs to go
 This is a **quick** checklist.
 
 1. General
-    1. CV - Employee Cover
-    1. NDA - Employee Non Disclosure Agreement
+    1. **CV** - Employee Cover
+    1. **NDA** - Employee Non Disclosure Agreement
         1. Print NDA
         1. Explain NDA
         1. Sign NDA
-    1. Email
-        1. Create Email Account
-        1. Initial Login & Reset Password
+    1. **Email** - first.last@sk8.asia
+        1. Create [Email Account](https://exmail.qq.com/login)
+        1. Initial Login & Password Reset
         1. Link to WeChat
-    1. SK8Drive
-    1. Asana
-    1. Slack
+    1. **SK8Drive** - first.last@sk8.asia
+        1. Create Drive Account
+        1. Initial Login & Password Reset
+        1. Install [desktop client](https://owncloud.org/install/#desktop) & login
+    1. **Asana**
+    1. **Slack**
 1. Development
     1. Github
 1. Design
