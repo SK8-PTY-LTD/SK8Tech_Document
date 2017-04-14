@@ -1,1 +1,1 @@
-For articles, please see Repo: https://github.com/jacktator/StartUp_Book.git
+这里是我们营销文章的集中地。想看文章，可以查看这个repo: https://github.com/jacktator/StartUp_Book.git

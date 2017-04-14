@@ -1,1 +1,1 @@
-Here we record the articles we write for marketing purposes.
+Here we record the articles we write for marketing purposes. For articles, please see Repo: https://github.com/jacktator/StartUp_Book.git
