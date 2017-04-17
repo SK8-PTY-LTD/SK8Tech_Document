@@ -4,6 +4,13 @@ This document describes the process both the new recruit and manager needs to go
 
 1. General
     1. **CV** - Employee Cover
+    1. Office Intro
+        1. Hall
+        1. Kitchen
+        1. Meeting Room
+        1. Rest Room
+        1. Acunity
+        1. Toys
     1. **NDA** - Employee Non Disclosure Agreement
         1. Print NDA
         1. Explain NDA
@@ -32,6 +39,8 @@ This document describes the process both the new recruit and manager needs to go
         1. Join appropriate team
         1. *Manager* install Slack Integration
 1. Learning
+    1. Booms
+    1. Treehouse
     |**Treehouse**||
     |---|---|
     |URL|https://teamtreehouse.com/|
@@ -66,4 +75,4 @@ This document describes the process both the new recruit and manager needs to go
         1. BSB
         1. Account number
         1. Membership ID
-        1. Add super to [Small Business Super Clearing](https://www.ato.gov.au/Business/Super-for-employers/Paying-super-contributions/Small-Business-Superannuation-Clearing-House/) 
+        1. Add super to [Small Business Super Clearing](https://www.ato.gov.au/Business/Super-for-employers/Paying-super-contributions/Small-Business-Superannuation-Clearing-House/)
