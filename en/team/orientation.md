@@ -36,11 +36,11 @@ This document describes the process both the new recruit and manager needs to go
         1. Watch [Learning Slack](https://www.lynda.com/Slack-tutorials/Up-Running-Slack/383930-2.html) Chapter 5~10
         1. Join appropriate team
         1. Download Slack Desktop App
-        1. Join appropriate team
         1. *Manager* install Slack Integration
 1. Learning
     1. Booms
     1. Treehouse
+    
     |**Treehouse**||
     |---|---|
     |URL|https://teamtreehouse.com/|
