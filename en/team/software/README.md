@@ -1,6 +1,7 @@
 In this documentation, all software and tools required are listed out. Please install the software accordingly.
 
 # General
+
     1. Email
     1. [Asana](asana.md)
     1. [SK8Drive](ownCloud.md)
@@ -8,10 +9,12 @@ In this documentation, all software and tools required are listed out. Please in
     1. GitBook Editor
     
 # Communication
+
     1. Slack
     1. WeChat
     
 # Design
+
     1. Skech
     1. Invision
     1. Adobe After Effect
@@ -21,6 +24,7 @@ In this documentation, all software and tools required are listed out. Please in
 # Development
 
 ## Mac + Win
+
 1. Github
 1. Github
 1. SourceTree
@@ -34,15 +38,18 @@ In this documentation, all software and tools required are listed out. Please in
 1. Atom
 
 ## Mac Only
+
 1. Go2Shell
 1. XAMPP
 
 ## Win Only
+
 1. XAMPP
 
 # Testing
 
 # Marketing
+
     1. Adwords
     1. Analytics
     1. MAKA
