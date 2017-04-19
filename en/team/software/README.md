@@ -1,4 +1,4 @@
-We use lots of software nowadays. Every software fullfils a purpose. 
+We use lots of software nowadays. Every software fullfils a unique purpose. 
 
 In this documentation, we'll list out all software and tools we use at [SK8Tech](https://sk8.tech). Please install the software accordingly.
 
