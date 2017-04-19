@@ -2,7 +2,7 @@ In this documentation, all software and tools required are listed out. Please in
 
 # General
 
-    1. Email
+    1. [Email](email.md)
     1. [Asana](asana.md)
     1. [SK8Drive](ownCloud.md)
     1. [Chrome](chrome.md)
