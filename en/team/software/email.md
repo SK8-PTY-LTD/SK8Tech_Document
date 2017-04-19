@@ -2,7 +2,7 @@ In this document, we'll describe how to use our corporate email. Depending on yo
 
 Every employee must have **at least one** email client setup.
 
-Corporate Email is one of the most widely used communication tool in the world. But here at [SK8Tech](https://sk8.tech), only use email for **two purposes**.
+Corporate Email is one of the most widely used communication tool in the world. But here at [SK8Tech](https://sk8.tech), only use email for two purposes.
 
 1. Serve as **official communication method** with client
 1. **Reset passwords** for other tools
