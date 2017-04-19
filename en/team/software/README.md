@@ -8,16 +8,16 @@ In this documentation, we'll list out all software and tools we use at [SK8Tech]
 Email is the most common tool at workplace, it's also the least used tool at SK8Tech. Find out [Why](emaill.md).
 
 1. [Asana](asana.md) - Project Management
-Asana is the project management tool. 
+The one and only official project management tool.
 
 1. [SK8Drive](ownCloud.md) - File Sharing
-For file sharing.
+File sharing with ease of mind.
 
 1. [Chrome](chrome.md) - Browser
 For everything
 
 1. GitBook Editor - Documentation
-For Documentation
+Start writing.
     
 # Communication
 
