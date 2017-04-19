@@ -10,8 +10,7 @@ To register an SK8Drive account, please contact your manager. Upon account creat
 1. Login using your credentials
 
 You need to do this at least once, to **active your account**.
-
-
+![](/assets/sk8drive.jpg)
 
 # Desktop Client
 
