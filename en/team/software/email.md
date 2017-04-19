@@ -5,7 +5,7 @@ Email is one of the most widely used communication tool in the world. But here a
 
 Why not use it for more? Reason is simple, in the world of IM, **Email is simply obsolete**. 
 
-For communication, we use [Slack](https://sk8tech.slack.com)
+For communication, we use [Slack](slack.md)
 
 For project management, we use [Asana](asana.md)
 
