@@ -1,6 +1,10 @@
 This document describes the process both the new recruit and manager needs to go through during orientation process.
 
-## Internship
+# Purpose of Orientation
+
+
+
+# Internship
 
 1. General
     1. **CV** - Employee Cover
@@ -66,7 +70,7 @@ This document describes the process both the new recruit and manager needs to go
         1. Send Github username to CDO via Slack
         1. **Manager** add recruit to Invision project.
         
-## Part-time
+# Part-time
 
 1. Administrative
     1. **TFN Declaration Form**
