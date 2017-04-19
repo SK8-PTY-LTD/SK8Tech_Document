@@ -18,7 +18,7 @@ Depending on your situation, you might be assigned with an corporate email of on
 ## Web Portal
 
 1. Login at https://exmail.qq.com/login
-1. Link with your WeChat, see [this Tutorial](http://service.exmail.qq.com/cgi-bin/help?subtype=1&&no=1000970&&id=23)
+1. Link with your WeChat, see [this tutorial](http://service.exmail.qq.com/cgi-bin/help?subtype=1&&no=1000970&&id=23)
 
 ## Mobile & Desktop apps
 
