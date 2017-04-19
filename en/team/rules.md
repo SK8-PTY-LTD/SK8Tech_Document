@@ -1,4 +1,4 @@
-*Demerit*
+# Demerit
 
 When any of the following situation happens, or in violation of the following rules, a **Demerit** will be conditionally issued. A collection of 3 demerits in a quarter would result in **termination of the employment** contract at SK8Tech.
 
