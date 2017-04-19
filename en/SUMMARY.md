@@ -6,11 +6,11 @@
 
 * [Introduction](team/README.md)
 * [Orientation](team/orientation.md)
+* [Code Of Conduct](team/code.md)
+* [Rules](team/rules.md)
 * [Software](team/software/README.md)
 * [Resignation](team/resignation.md)
-* [Code Of Conduct](team/code.md)
 * [A quick guide to PM](team/a-quick-guide-to-pm.md)
-* [Rules](team/rules.md)
 
 ## Inroduction
 
