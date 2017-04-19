@@ -14,7 +14,7 @@ The one and only official project management tool.
 File sharing with ease of mind.
 
 1. [Chrome](chrome.md) - Browser
-For everything
+For everything.
 
 1. GitBook Editor - Documentation
 Start writing.
