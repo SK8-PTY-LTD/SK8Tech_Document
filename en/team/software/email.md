@@ -9,9 +9,9 @@ Corporate Email is one of the most widely used communication tool in the world. 
 
 Why not use it for more? Reason is simple, in the world of IM, **Email is simply obsolete**. 
 
-1. For communication, we use [Slack](slack.md), open [here](https://sk8tech.slack.com)
-1. For project management, we use [Asana](asana.md), open [here](https://asana.com)
-1. For file sharing, we use [SK8Drive](owncloud.md), open [here](https://drive.sk8.tech)
+1. For communication, we use [Slack](https://sk8tech.slack.com), see [tutorial](slack.md).
+1. For project management, we use [Asana](https://asana.com), see [tutorial](asana.md).
+1. For file sharing, we use [SK8Drive](https://drive.sk8.tech), see [tutorial](owncloud.md).
 
 # sk8.asia - Tecent Corprate Email
 
