@@ -5,15 +5,16 @@ To extend its capability, as well as maximize your productivity. We recommend in
 # Must have
 
 1. [Asana](https://chrome.google.com/webstore/detail/asana-extension-for-chrom/khnpeclbnipcdacdkhejifenadikeghk)
-This plugin allows you to quickly add task to your Asana, without even opening up Asana website. Productivity booster. This is a must-have extension for every Sk8Tech employee.
+Asana is the product management tool we use at SK8Tech. This plugin allows you to quickly add task to your Asana, without even firing up Asana website. **Productivity booster**. This is a must-have extension for every Sk8Tech employee.
 
 1. [Clicky](https://chrome.google.com/webstore/detail/clicky-for-slack/bllgmdlgbbmijcoecbnmgeoekhebgmac)
-This plugin quickly sends the current website URL as well as your comment to your Slack chats. Productivity booster. This is a must-have extension for every Sk8Tech employee.
+Slack is the default communication tool we use at SK8Tech. This plugin quickly sends the current website URL as well as your comment to your Slack chats. **Productivity booster**. This is a must-have extension for every Sk8Tech employee.
 
 1. [Buffer](https://chrome.google.com/webstore/detail/buffer/noojglkidnpfjbincgijbaiedldjfbhh)
 here at SK8Tech, we encourage continuous learning and sharing. This plugin adds the current page to our buffer so you can share your learning to the whole world. This is a must-have extension for every Sk8Tech employee.
 
 1. [Viewedit](https://chrome.google.com/webstore/detail/viewedit-%E2%80%93-screen-voice-a/jiihcciniecimeajcniapbngjjbonjan)
+View edit
 
 # Recommanded
 
