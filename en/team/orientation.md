@@ -57,12 +57,14 @@ This document describes the process both the new recruit and manager needs to go
     1. **Github**
         1. Sign up [Github](https://github.com/join) account
         1. Send Github username to CTO via Slack
+        1. **Manager** add recruit to [Github team](https://github.com/sk8-pty-ltd/).
     1. **Stack Overflow**
         1. Sign up [Stack Overflow](https://stackoverflow.com/users/login) account, with Github
 1. Design
     1. **Invision**
         1. Sign up [Invision](https://projects.invisionapp.com/d/signup) account
         1. Send Github username to CDO via Slack
+        1. **Manager** add recruit to Invision project.
         
 ## Part-time
 
