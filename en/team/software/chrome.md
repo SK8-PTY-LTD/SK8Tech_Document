@@ -7,13 +7,13 @@ To extend its capability, as well as maximize your productivity. We recommend in
 1. [Asana]
 1. [Clicky]
 1. [Buffer]
-1. [Mozbar]
 1. [Viewedit]
+
+# Recommanded
+
 1. [Mozbar]
 1. [壹伴]
 1. [Lighthouse]
-# Recommanded
-
 1. [Peblo]
 1. [Responsive Web Design Tester]
 1. [Anything to QR Code]
