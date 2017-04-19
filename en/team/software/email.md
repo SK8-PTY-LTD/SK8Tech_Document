@@ -40,11 +40,11 @@ For more information on how to setup your corporate email on mobile and desktop,
 
 ## Mobile & Desktop apps
 
-1. [App](https://help.aliyun.com/knowledge_detail/36662.html?spm=5176.7836659.2.6.zn0OJz)
-1. [iPhone](https://help.aliyun.com/knowledge_detail/36662.html?spm=5176.7836659.2.6.hzT6gK)
-1. [Android](https://help.aliyun.com/knowledge_detail/36664.html?spm=5176.7836659.2.10.zn0OJz)
-1. [Outlook](https://help.aliyun.com/knowledge_detail/36661.html?spm=5176.7836659.2.4.zn0OJz)
-1. [Mac Mail](https://help.aliyun.com/knowledge_detail/36663.html?spm=5176.7836659.2.8.zn0OJz)
+1. [App](https://help.aliyun.com/knowledge_detail/36662.html)
+1. [iPhone](https://help.aliyun.com/knowledge_detail/36662.html)
+1. [Android](https://help.aliyun.com/knowledge_detail/36664.html)
+1. [Outlook](https://help.aliyun.com/knowledge_detail/36661.html)
+1. [Mac Mail](https://help.aliyun.com/knowledge_detail/36663.html)
 1. [IMAP Settings](https://help.aliyun.com/knowledge_detail/36576.html)
 1. [Exchange Sync](http://service.exmail.qq.com/cgi-bin/help?subtype=1&&id=20019&&no=1000705)
 
