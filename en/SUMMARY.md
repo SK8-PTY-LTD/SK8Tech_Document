@@ -8,7 +8,7 @@
 * [Orientation](team/orientation.md)
 * [Software](team/software/README.md)
 * [Resignation](team/resignation.md)
-* [Rules](team/code.md)
+* [Code Of Conduct](team/code.md)
 * [A quick guide to PM](team/a-quick-guide-to-pm.md)
 
 ## Inroduction
