@@ -1,6 +1,6 @@
 We use lots of software nowadays. Every software fullfils a purpose. 
 
-In this documentation, all software and tools required are listed out. Please install the software accordingly.
+In this documentation, we'll list out all software and tools we use at [SK8Tech](https://sk8.tech). Please install the software accordingly.
 
 # General
 
