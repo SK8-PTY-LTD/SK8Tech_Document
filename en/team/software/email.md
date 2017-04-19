@@ -1,6 +1,6 @@
 In this document, we'll describe how to use our corporate email. Depending on your situation, you might be assigned with an corporate email of one of two domains. 
 
-Every employee must have **at least one** client setup.
+Every employee must have **at least one** email client setup.
 
 Corporate Email is one of the most widely used communication tool in the world. But here at [SK8Tech](https://sk8.tech), only use email for **two purposes**.
 
