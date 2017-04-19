@@ -29,7 +29,7 @@ This document describes the process both the new recruit and manager needs to go
         1. Watch [Quick Start](https://asana.com/guide/get-started/begin/quick-start)
         1. Watch [Add your first few tasks](https://asana.com/guide/get-started/begin/adding-assigning-tasks)
         1. *Manager* hold an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
-        1. Learn Asana [tricks](software.md#Asana)
+        1. Learn Asana [tricks](/software/README.md#Asana)
     1. **Slack** - first.last@sk8.asia
         1. Sign up a [Slack account](https://sk8tech.slack.com/)
         1. Join appropriate team
