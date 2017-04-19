@@ -1,3 +1,5 @@
+We use lots of software nowadays. Every software fullfils a purpose. 
+
 In this documentation, all software and tools required are listed out. Please install the software accordingly.
 
 # General
