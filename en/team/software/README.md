@@ -2,24 +2,24 @@ In this documentation, all software and tools required are listed out. Please in
 
 # General
 
-    1. [Email](email.md)
-    1. [Asana](asana.md)
-    1. [SK8Drive](ownCloud.md)
-    1. [Chrome](chrome.md)
-    1. GitBook Editor
+1. [Email](email.md)
+1. [Asana](asana.md)
+1. [SK8Drive](ownCloud.md)
+1. [Chrome](chrome.md)
+1. GitBook Editor
     
 # Communication
 
-    1. Slack
-    1. WeChat
+1. Slack
+1. WeChat
     
 # Design
 
-    1. Skech
-    1. Invision
-    1. Adobe After Effect
-    1. Chuangkit
-    1. 墨刀
+1. Skech
+1. Invision
+1. Adobe After Effect
+1. Chuangkit
+1. 墨刀
     
 # Development
 
@@ -50,11 +50,11 @@ In this documentation, all software and tools required are listed out. Please in
 
 # Marketing
 
-    1. Adwords
-    1. Analytics
-    1. MAKA
-    1. 微小宝
-    1. GitBook Editor
-    1. 微小宝
-    1. Buffer
+1. Adwords
+1. Analytics
+1. MAKA
+1. 微小宝
+1. GitBook Editor
+1. 微小宝
+1. Buffer
 
