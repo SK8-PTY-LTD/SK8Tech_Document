@@ -6,9 +6,9 @@
 
 * [Introduction](team/README.md)
 * [Orientation](team/orientation.md)
-* [Software](team/software.md)
+* [Software](team/software/README.md)
 * [Resignation](team/resignation.md)
-* [Rules](team/rules.md)
+* [Rules](team/code.md)
 * [A quick guide to PM](team/a-quick-guide-to-pm.md)
 
 ## Inroduction
