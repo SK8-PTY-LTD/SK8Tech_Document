@@ -1,5 +1,7 @@
 For better collaboration of files, we use **SK8Drive** to share documents, files and more. 
 
+![](/assets/sk8drive.jpg)
+
 Due to the sheer amount of documents in a project, it is crucial that **Every employee** have the **Desktop Client** installed on their work computer, whether it's a company computer or a personal one.
 
 # Registration
@@ -10,7 +12,7 @@ To register an SK8Drive account, please contact your manager. Upon account creat
 1. Login using your credentials
 
 You need to do this at least once, to **active your account**.
-![](/assets/sk8drive.jpg)
+![](/assets/sk8drive-intro.jpg)
 
 # Desktop Client
 
