@@ -11,10 +11,30 @@ Why not use it for more? Reason is simple, in the world of IM, **Email is simply
 1. For project management, we use [Asana](asana.md), open [here](https://asana.com)
 1. For file sharing, we use [SK8Drive](owncloud.md), open [here](https://drive.sk8.tech)
 
-Depending on your situation, you might be assigned with an corporate email of one of two following domain:
+Depending on your situation, you might be assigned with an corporate email of one of two following domain. 
 
-1. sk8.asia
-1. sk8.tech
+# sk8.asia - Tecent Corprate Email
+
+## Web Portal
+
+1. Login at https://exmail.qq.com/login
+1. Link with your WeChat
+
+## Mobile & Desktop apps
+
+For more information on how to setup your corporate email on mobile and desktop, please visit the following links
+
+1. [IMAP Settings](http://service.exmail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1000584)
+1. [Exchange Sync](http://service.exmail.qq.com/cgi-bin/help?subtype=1&&id=20019&&no=1000705)
+1. [iPhone](http://service.exmail.qq.com/cgi-bin/help?subtype=1&&id=20019&&no=1000707)
+
+1. Login at https://qiye.aliyun.com/alimail/
+1. [Android](http://service.exmail.qq.com/cgi-bin/help?subtype=1&&id=20019&&no=1000708)
+
+
+# sk8.tech - Aliyun Corporate Email
+
+1. Login at https://qiye.aliyun.com/alimail/
 
 
 
