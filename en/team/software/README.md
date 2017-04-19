@@ -17,6 +17,7 @@ For file sharing.
 For everything
 
 1. GitBook Editor
+For Documentation
     
 # Communication
 
