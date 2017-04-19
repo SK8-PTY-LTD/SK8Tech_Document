@@ -14,7 +14,7 @@ Asana is the project management tool.
 For file sharing.
 
 1. [Chrome](chrome.md)
-For browsering
+For everything
 
 1. GitBook Editor
     
