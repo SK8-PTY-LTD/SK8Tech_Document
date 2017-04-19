@@ -5,11 +5,10 @@ Email is one of the most widely used communication tool in the world. But here a
 
 Why not use it for more? Reason is simple, in the world of IM, **Email is simply obsolete**. 
 
-For communication, we use [Slack](slack.md)
+1. For communication, we use [Slack](slack.md), open [here](https://sk8tech.slack.com)
+1. For project management, we use [Asana](asana.md), open [here](https://asana.com)
+1. For file sharing, we use [SK8Drive](owncloud.md), open [here](https://drive.sk8.tech)
 
-For project management, we use [Asana](asana.md)
-
-For file sharing, we use [SK8Drive](owncloud.md)
 
 In
 we the default communication
