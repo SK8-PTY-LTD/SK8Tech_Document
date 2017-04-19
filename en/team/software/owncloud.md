@@ -11,6 +11,8 @@ To register an SK8Drive account, please contact your manager. Upon account creat
 
 You need to do this at least once, to **active your account**.
 
+
+
 # Desktop Client
 
 To download the latest desktop client, please follow the following steps
@@ -19,6 +21,7 @@ To download the latest desktop client, please follow the following steps
 1. Click on [Download](https://owncloud.org/install/)
 1. Click on [Desktop Clients](https://owncloud.org/install/#install-clients)
 1. Download the appropriate version of ownCloud
+![](/assets/sk8drive0.png)
 
 # Installation
 
