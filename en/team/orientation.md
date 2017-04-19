@@ -34,13 +34,16 @@ This document describes the process both the new recruit and manager needs to go
         1. Watch [Add your first few tasks](https://asana.com/guide/get-started/begin/adding-assigning-tasks)
         1. *Manager* hold an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
         1. Learn Asana [tricks](/software/README.md#Asana)
+        1. **Manager** hold an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
+        1. **Manager** verify chrome extension is installed
     1. **Slack** - first.last@sk8.asia
         1. Sign up a [Slack account](https://sk8tech.slack.com/)
         1. Join appropriate team
         1. Watch [Learning Slack](https://www.lynda.com/Slack-tutorials/Up-Running-Slack/383930-2.html) Chapter 5~10
         1. Join appropriate team
         1. Download Slack Desktop App
-        1. *Manager* install Slack Integration
+        1. **Manager** install Slack Integration
+        1. **Manager** verify chrome extension is installed
 1. Learning
     1. Booms
     1. Treehouse
