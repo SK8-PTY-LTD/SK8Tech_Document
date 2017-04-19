@@ -9,6 +9,7 @@
 * [Software](team/software.md)
 * [Resignation](team/resignation.md)
 * [Rules](team/rules.md)
+* [A quick guide to PM](team/a-quick-guide-to-pm.md)
 
 ## Inroduction
 
