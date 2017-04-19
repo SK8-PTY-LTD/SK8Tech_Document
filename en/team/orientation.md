@@ -16,10 +16,12 @@ This document describes the process both the new recruit and manager needs to go
         1. Print NDA
         1. Explain NDA
         1. Sign NDA
+        1. **Manager** collect NDA
     1. **Email** - first.last@sk8.tech
         1. Create [Email Account](https://qiye.aliyun.com/alimail/)
         1. Initial Login & Password Reset
         1. Link to WeChat
+        1. **Manager** make sure at least one mobile client is setup
     1. **SK8Drive** - first.last@sk8.tech
         1. Create Drive Account
         1. Initial Login & Password Reset
