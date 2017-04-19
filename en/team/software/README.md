@@ -5,6 +5,8 @@ In this documentation, we'll list out all software and tools we use at [SK8Tech]
 # General
 
 1. [Email](email.md)
+Email is the most common tool at workplace, it's also the least used tool at SK8Tech. Find out [why](emaillmd).
+
 1. [Asana](asana.md)
 1. [SK8Drive](ownCloud.md)
 1. [Chrome](chrome.md)
