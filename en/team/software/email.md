@@ -34,7 +34,18 @@ For more information on how to setup your corporate email on mobile and desktop,
 
 # sk8.tech - Aliyun Corporate Email
 
+## Web Portal
+
 1. Login at https://qiye.aliyun.com/alimail/
+
+## Mobile & Desktop apps
+
+1. [iPhone](http://service.exmail.qq.com/cgi-bin/help?subtype=1&&id=20019&&no=1000707)
+1. [Android](http://service.exmail.qq.com/cgi-bin/help?subtype=1&&id=20019&&no=1000708)
+1. [Outlook](http://service.exmail.qq.com/cgi-bin/help?id=20040)
+1. [IMAP Settings](http://service.exmail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1000584)
+1. [Exchange Sync](http://service.exmail.qq.com/cgi-bin/help?subtype=1&&id=20019&&no=1000705)
+
 
 
 
