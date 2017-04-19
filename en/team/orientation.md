@@ -6,6 +6,7 @@ This document describes the process both the new recruit and manager needs to go
     1. **CV** - Employee Cover
     1. **Office Intro**
         1. Hall
+        1. Clock-in
         1. Kitchen
         1. Meeting Room
         1. Rest Room
