@@ -1,10 +1,12 @@
 Due to its rich developer tools, and wide range of plugins, here at [SK8Tech](https://sk8.tech), we use Chrome as our **default browser**.
 
-To extend its capability, as well as maximize your productivity. We recommend installing the following plugins.
+To extend its capability, as well as maximize your productivity. We recommend installing the following [Chrome Extensions](https://chrome.google.com/webstore/category/extensions).
 
 # Must have
 
 1. [Asana](https://chrome.google.com/webstore/detail/asana-extension-for-chrom/khnpeclbnipcdacdkhejifenadikeghk)
+This is a must-have extension for every Sk8Tech employee.
+
 1. [Clicky](https://chrome.google.com/webstore/detail/clicky-for-slack/bllgmdlgbbmijcoecbnmgeoekhebgmac)
 1. [Buffer](https://chrome.google.com/webstore/detail/buffer/noojglkidnpfjbincgijbaiedldjfbhh)
 1. [Viewedit](https://chrome.google.com/webstore/detail/viewedit-%E2%80%93-screen-voice-a/jiihcciniecimeajcniapbngjjbonjan)
