@@ -11,10 +11,12 @@ Asana is the product management tool we use at SK8Tech. This plugin allows you t
 Slack is the default communication tool we use at SK8Tech. This plugin quickly sends the current website URL as well as your comment to your Slack chats. **Productivity booster**. This is a must-have extension for every Sk8Tech employee.
 
 1. [Buffer](https://chrome.google.com/webstore/detail/buffer/noojglkidnpfjbincgijbaiedldjfbhh)
-here at SK8Tech, we encourage continuous learning and sharing. This plugin adds the current page to our buffer so you can share your learning to the whole world. This is a must-have extension for every Sk8Tech employee.
+We encourage continuous learning and **sharing**. This plugin adds the current page to our buffer so you can share your learning to the whole world. This is a must-have extension for every Sk8Tech employee.
 
 1. [Viewedit](https://chrome.google.com/webstore/detail/viewedit-%E2%80%93-screen-voice-a/jiihcciniecimeajcniapbngjjbonjan)
-View edit
+Viewedit provides a one click solution to capture your screen, camera as well as your voice. This is used to **record tutorials**, as well as provide **bug feedback**. This is a must-have extension for every Sk8Tech employee.
+
+
 
 # Recommanded
 
