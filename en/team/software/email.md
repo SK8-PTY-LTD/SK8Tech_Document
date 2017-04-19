@@ -7,7 +7,7 @@ Why not use it for more? Reason is simple, in the world of IM, **Email is simply
 
 For communication, we use [Slack](https://sk8tech.slack.com)
 
-For project management, we use [Asana](https://asana.com)
+For project management, we use [Asana](asana.md)
 
 For file sharing, we use [SK8Drive](owncloud.md)
 
