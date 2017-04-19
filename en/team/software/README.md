@@ -2,8 +2,8 @@ In this documentation, all software and tools required are listed out. Please in
 
 # General
     1. Email
-    1. [Asana](#asana)
-    1. ownCloud
+    1. [Asana](asana.md)
+    1. [SK8Drive](ownCloud.md)
     1. Chrome
     1. GitBook Editor
     
