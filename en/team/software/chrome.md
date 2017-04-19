@@ -26,7 +26,7 @@ To extend its capability, as well as maximize your productivity. We recommend in
 1. [Show Reader View](https://chrome.google.com/webstore/detail/reader-view/iibolhpkjjmoepndefdmdlmbpfhlgjpl)
 1. [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
 1. [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)
-1. [Convert text to speech]
+1. [Convert text to speech](https://chrome.google.com/webstore/detail/pgeolalilifpodheeocdmbhehgnkkbak)
 1. [Keywords everywhere](https://chrome.google.com/webstore/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp)
 1. [Giphy for chrome](https://chrome.google.com/webstore/detail/giphy-for-chrome/jlleokkdhkflpmghiioglgmnminbekdi)
 1. [Chrome Capture](https://chrome.google.com/webstore/detail/chrome-capture/ggaabchcecdbomdcnbahdfddfikjmphe)
