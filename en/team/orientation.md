@@ -6,8 +6,6 @@ First impression is everything, it is the first and the best opportunity to show
 
 Orientation gives the new recruit a sense of purpose, and it shows him why what he do matters. 
 
-
-
 # Internship
 
 1. General
