@@ -16,4 +16,4 @@ For more information, read [this link](https://asana.com/apps/github)
 
 ## Installation - Manager Only
 
-See [this tutorial](https://web.archive.org/web/20150217044331/https://asana.com/apps/github)
+See this tutorial，[Asana-Github](https://web.archive.org/web/20150217044331/https://asana.com/apps/github)
