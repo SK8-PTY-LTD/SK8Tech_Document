@@ -1,4 +1,4 @@
-|Name|Description|
+|Name|Description|Sample|
 |---|---|
 |Site Title|The name which shows up on your website|
 |Tagline|Your brand slogan|
