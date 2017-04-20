@@ -14,3 +14,6 @@ Task number refers to the last number in the task URL. E.g. In the following tas
 
 For more information, read [this link](https://asana.com/apps/github)
 
+## Installation - Manager Only
+
+See [this tutorial](https://web.archive.org/web/20150217044331/https://asana.com/apps/github)
