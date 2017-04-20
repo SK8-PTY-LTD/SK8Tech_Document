@@ -1,4 +1,4 @@
-|Name|Description|Sample|Usage|More|
+|Name|Description|Sample|Usage|Help|
 |---|---|---|---|---|
 |Admin Username|This is the admin username||||
 |Admin Password|This is the admin password||||
