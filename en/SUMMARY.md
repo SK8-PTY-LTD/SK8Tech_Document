@@ -12,6 +12,10 @@
 * [Resignation](team/resignation.md)
 * [A quick guide to PM](team/a-quick-guide-to-pm.md)
 
+## Forms
+
+* [WordPress Required Elements](forms/wordpress-required-elements.md)
+
 ## Inroduction
 
 * [History](introduction/history.md)
