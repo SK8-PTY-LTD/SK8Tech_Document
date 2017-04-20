@@ -6,7 +6,9 @@ Due to the sheer amount of documents in a project, it is crucial that **Every em
 
 # Registration
 
-To register an SK8Drive account, please contact your manager. Upon account creation, make sure you
+To register an SK8Drive account, please visit this [registration link](https://drive.sk8.tech/index.php/apps/registration/). 
+
+Upon account registration, make sure you
 
 1. Visit [SK8Drive](https://drive.sk8.tech)
 1. Login using your credentials
