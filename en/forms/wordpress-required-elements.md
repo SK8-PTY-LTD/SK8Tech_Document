@@ -7,6 +7,6 @@
 |Site Icon|The Site Icon is used as a browser and app icon for your site. Icons must be square, and at least 512 pixels wide and tall.|![](/assets/favicon.ico)|![](/assets/2.pic.jpg)|[Generator](http://www.favicon-generator.org/) [Validator](http://realfavicongenerator.net/)|
 |Site Title|The name which shows up on your website|Luminosoie|![](/assets/6.pic.jpg)|[Tutorial](http://www.wpexplorer.com/titles-taglines-wordpress/)|
 |Tagline|Your brand slogan|BELIEVE IN BEAUTY|![](/assets/1.pic.jpg)|[Tutorial](http://www.wpexplorer.com/titles-taglines-wordpress/)|
-|Title|||||
-|Description|||||
-|Keywords|||||
+|Title|The SEO **Optimized** title for your website.|SK8Tech|||
+|Description|The SEO **Optimized** description for your website.|A StartUp Partner|||
+|Keywords|The SEO **Optimized** keywords for your website.|App, Web Development, Design, SEO|||
