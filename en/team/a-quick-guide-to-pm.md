@@ -1,11 +1,32 @@
-PM
+# Initialization
 
-Add Slack Asana integration
+# Software
 
-Show Appretiation growbot
+Create Asana Project
+Add Slack-Asana Integration
+Add Git repo
+Zoom
+ViewEdit
+SK8Drive
 
-Communication
+# Updates
 
-File Sharing
+Show appreciation using growbot
 
-Bug report teaching (Viewedit)
+# Communication
+
+Slack
+WeChat
+Zoom
+
+# File Sharing
+
+SK8Drive
+
+# Demo
+
+Viewedit
+
+# Closure
+
+Appreciation to clients
