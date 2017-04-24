@@ -33,15 +33,15 @@
 ## Portfolio
 
 * [TaraTours](portfolio/taratours.md)
-* [ALYC](portfolio/alyc.md)
-* [AuraLiving](portfolio/auraliving.md)
-* [Unichi](portfolio/unichi.md)
+* [FreshJourney](portfolio/freshjourney.md)
 * [SpecEvent](portfolio/specevent.md)
+* [ALYC](portfolio/alyc.md)
+* [YundaLogistics](portfolio/yundalogistics.md)
 * [Sundale](portfolio/sundale.md)
 * [Ericon](portfolio/ericon.md)
-* [YundaLogistics](portfolio/yundalogistics.md)
-* [RoyalBazal](portfolio/royalbazal.md)
 * [NoodleZero](portfolio/noodlezero.md)
+* [Unichi](portfolio/unichi.md)
+* [AuraLiving](portfolio/auraliving.md)
 * [FreshJourney](portfolio/freshjourney.md)
 
 ## Services
