@@ -13,13 +13,10 @@ Road trips and Travelling are favourite pastimes that go hand-in-hand, but coord
 
 ## Insights
 ### Some Insightful Highlights from the Requirments.
-Amenities and Supplies 
-Amenities and supplies were equally ranked as top concerns when planning or preparing for a  camping trip. 
-Reservations
-
-Activities
-
-Safety
+98% of users travel with their smartphone always. 
+59% of users follow a budget while they are traveling.
+81% of users go by word of mouth for activitys and planning traveling
+98% of users pre-book accommodations before leaving for a road trip. 
 
 ## The Plan
 ### Main Concerns
