@@ -9,10 +9,17 @@ Taratour is an online agency that enables users to plan a road trip and book hot
 
 ## The Challenge
 ### Problems Statement
-Road trips and Travelling are favourite pastimes that go hand-in-hand, but coordinating self-orgnized travel routes and searching and reseving orders can be a frustrating process. Today's travel search and reservation websites are so dazzling that the price and service are confusing and inefficient. Many times users have to visit multiple websites to compare and find out the most syutable travel routs. They are then left to coordinate routes and itineraries on their own or through another website or platforms. 
+Road trips and Travelling are favourite pastimes that go hand-in-hand, but coordinating self-orgnized travel routes and searching and reseving orders can be a frustrating process. Today's travel search and reservation websites are so dazzling that the price and services are confusing and inefficient. Many times users have to visit multiple websites to compare and find out the most suitable travel routes. They are then left to coordinate routes and itineraries on their own or through another website or platforms. 
 
 ## Insights
 ### Some Insightful Highlights from the Requirments.
+Amenities and Supplies 
+Amenities and supplies were equally ranked as top concerns when planning or preparing for a  camping trip. 
+Reservations
+
+Activities
+
+Safety
 
 ## The Plan
 ### Main Concerns
