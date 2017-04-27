@@ -1,10 +1,15 @@
 # Responsivility
 
 1. Client meeting
-    1. Prepare agenda
+    1. Prepare agenda and materials
+        1. Meeting topic
+        1. Demos
     1. Send meeting invitation
     1. Confirm meeting
     1. Lead client meeting
+        1. Lead discussion
+        1. Control time, never more than an hour
+    1. 
 1. Update Customer
     1. 
 1. Collect question
@@ -40,6 +45,8 @@ SK8Drive
 # Demo
 
 Viewedit
+
+# Testing
 
 # Closure
 
