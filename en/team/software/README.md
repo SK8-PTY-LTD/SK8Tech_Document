@@ -21,7 +21,7 @@ Start writing.
     
 # Communication
 
-1. Slack
+1. [Slack](slack.md)
 1. WeChat
     
 # Design
