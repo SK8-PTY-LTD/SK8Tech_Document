@@ -17,4 +17,4 @@
 
 ## Read Documentation
 
-Do first
+Always read documentation first.
