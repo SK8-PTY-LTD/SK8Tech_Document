@@ -9,3 +9,8 @@
 1. Branding
     
     Appearance -> Customize
+    
+# Migration
+    
+1. Update resource urls, using [Velvet Blue Update URL](https://wordpress.org/plugins/velvet-blues-update-urls/)
+1. Update MySQL urls, using [WP Migration DB](https://wordpress.org/plugins/wp-migrate-db/)
