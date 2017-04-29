@@ -20,7 +20,7 @@ Road trips and Travelling are favourite pastimes that go hand-in-hand, but coord
 
 ## The Plan
 ### Main Role
-Our first role was to discover the requirements for all  the skateholders and the main goals were to flesh out the concept, brainstorm and capture ideas. Before the design process we did a quick survey to find the mos t interesting process when traveller doing online booking and planning. 
+Our first role was to discover the requirements for all  the skateholders and the main goals were to flesh out the concept, brainstorm and capture ideas. Before the design process we did a quick survey to find the most interesting process when traveller doing online booking and planning. 
  
 ## Results
 ### Two Ways to Achieve the Outcomes
