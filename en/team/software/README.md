@@ -10,7 +10,7 @@ Email is the most common tool at workplace, it's also the least used tool at SK8
 1. [Asana](asana.md) - Project Management
 The one and only official project management tool.
 
-1. [SK8Drive](owncloud.md) - File Sharing
+1. [SK8Cloud](owncloud.md) - File Sharing
 File sharing with ease of mind.
 
 1. [Chrome](chrome.md) - Browser

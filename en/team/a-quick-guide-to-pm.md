@@ -16,6 +16,10 @@
     1. Communicate with team members
     1. Collect questions
     1. Compile and ask client
+    
+# Meeting 
+    
+1. Voice Recording
 
 # Initialization
 
