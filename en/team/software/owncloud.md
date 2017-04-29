@@ -23,7 +23,7 @@ To download the latest desktop client, please follow the following steps
 1. Visit [NextCloud official website](https://nextcloud.com/install/)
 1. Click on [Download](https://nextcloud.com/install/)
 1. Click on [Desktop Clients](https://nextcloud.com/install/#install-clients)
-1. Download the appropriate version of ownCloud
+1. Download the appropriate version of NextCloud
 ![](/assets/sk8drive0.png)
 
 # Installation
