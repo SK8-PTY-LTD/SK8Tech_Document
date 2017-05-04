@@ -55,6 +55,7 @@
 ## Acadamy
 
 * [Introduction](acadamy/README.md)
+* [Front End 101](acadamy/front-end-101.md)
 
 ## StartUp Partner
 
