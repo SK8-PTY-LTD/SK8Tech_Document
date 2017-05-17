@@ -1,4 +1,4 @@
-Case study - 信息展示类
+#Case study - 房产展示类
 
 ### Client：
 Sundale Development Pty Ltd

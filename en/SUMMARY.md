@@ -44,6 +44,7 @@
 * [Unichi](portfolio/unichi.md)
 * [AuraLiving](portfolio/auraliving.md)
 * [FreshJourney](portfolio/freshjourney.md)
+* [OZII](portfolio/ozii.md)
 
 ## Services
 
