@@ -13,6 +13,10 @@
 * [A quick guide to PM](team/a-quick-guide-to-pm.md)
 * [A quick guide to WordPress](team/a-quick-guide-to-wordpress.md)
 
+## KnowledgeBase
+
+* [How to login to your WordPress Website](knowledgebase/wp-how-to-login.md)
+
 ## Forms
 
 * [WordPress Required Elements](forms/wordpress-required-elements.md)
