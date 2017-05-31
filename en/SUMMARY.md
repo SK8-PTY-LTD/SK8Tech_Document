@@ -48,6 +48,8 @@
 * [Unichi](portfolio/unichi.md)
 * [AuraLiving](portfolio/auraliving.md)
 * [FreshJourney](portfolio/freshjourney.md)
+* [OZII](portfolio/ozii.md)
+* [OZII WECHAT ARTICLE](portfolio/ozii-wechat-article.md)
 
 ## Services
 
