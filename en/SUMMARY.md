@@ -48,8 +48,6 @@
 * [Unichi](portfolio/unichi.md)
 * [AuraLiving](portfolio/auraliving.md)
 * [FreshJourney](portfolio/freshjourney.md)
-* [OZII](portfolio/ozii.md)
-  * [OZII 微信文章版](portfolio/ozii/ozii-wei-xin-wen-zhang-ban.md)
 
 ## Services
 

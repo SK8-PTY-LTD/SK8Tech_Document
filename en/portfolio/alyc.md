@@ -1,4 +1,4 @@
-#Case study - 企业门户类
+Case study - 企业门户类
 
 ### Client：
 ALYC Pty Ltd

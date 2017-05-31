@@ -1,4 +1,4 @@
-#Case study - 电商类
+Case study - 电商类
 
 ### Client：
 AuraLiving Pty Ltd
