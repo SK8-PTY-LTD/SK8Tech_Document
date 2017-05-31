@@ -13,6 +13,10 @@
 * [A quick guide to PM](team/a-quick-guide-to-pm.md)
 * [A quick guide to WordPress](team/a-quick-guide-to-wordpress.md)
 
+## KnowledgeBase
+
+* [How to login to your WordPress Website](knowledge/wp-how-to-login.md)
+
 ## Forms
 
 * [WordPress Required Elements](forms/wordpress-required-elements.md)
@@ -57,6 +61,7 @@
 ## Acadamy
 
 * [Introduction](acadamy/README.md)
+* [Front End 101](acadamy/front-end-101.md)
 
 ## StartUp Partner
 
