@@ -28,8 +28,8 @@ Orientation gives the new recruit a sense of purpose, and it shows him why what 
         1. Initial Login & Password Reset
         1. Link to WeChat
         1. **Manager** verify at least one mobile client is setup
-    1. **SK8Drive** - first.last@sk8.tech
-        1. Create Drive Account
+    1. **SK8Cloud** - first.last@sk8.tech
+        1. Create SK8Cloud Account
         1. Initial Login & Password Reset
         1. Install [desktop client](https://owncloud.org/install/#desktop) & login
         1. **Manager** verify desktop client is setup
