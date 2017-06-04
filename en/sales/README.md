@@ -1,3 +1,11 @@
+# Introduction
+
+In this section, we'll describe the sales procedure.
+
+# Phone
+
+# Meeting
+
 # Available Tools
 
 1. Branding folder
