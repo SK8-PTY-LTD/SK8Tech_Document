@@ -1,0 +1,1 @@
+In this section, we'll record the manual for our clients
