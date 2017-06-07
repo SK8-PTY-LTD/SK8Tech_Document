@@ -12,6 +12,18 @@ In this document, we list out our code of conduct.
 1. [Website](#website)
 1. [iOS](#ios)
 1. [Android](#android)
+1. 
+
+## App
+
+### List
+
+1. Pull to refresh
+1. Load more/auto load
+
+### Async
+
+1. Loading animation
 
 ## Website
 
