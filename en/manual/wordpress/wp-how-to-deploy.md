@@ -8,3 +8,6 @@ Replace all urls in DB
 Replace all urls in files
 
 # Update DNS settings
+
+# W3TC
+Set up cache
