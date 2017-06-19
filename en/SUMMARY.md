@@ -50,6 +50,7 @@
 * [FreshJourney](portfolio/freshjourney.md)
 * [OZII](portfolio/ozii.md)
 * [OZII WECHAT ARTICLE](portfolio/ozii-wechat-article.md)
+* [LeanWeb logo ](portfolio/leanweb-logo.md)
 
 ## Services
 
