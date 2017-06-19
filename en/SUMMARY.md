@@ -71,4 +71,3 @@
 * [LeaseRent](startup-partner/leaserent.md)
 * [AlphaBaby](startup-partner/alphababy.md)
 * [LvTaoTao](startup-partner/lvtaotao.md)
-
