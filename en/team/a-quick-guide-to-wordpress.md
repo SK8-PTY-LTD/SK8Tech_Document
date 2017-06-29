@@ -1,3 +1,5 @@
+# Installation
+
 1. Installation & Administrator Login
     1. FTP
     1. MySQL
