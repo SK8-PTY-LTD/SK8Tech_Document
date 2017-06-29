@@ -71,6 +71,11 @@ Orientation gives the new recruit a sense of purpose, and it shows him why what 
         1. Sign up [Invision](https://projects.invisionapp.com/d/signup) account
         1. Send Github username to CDO via Slack
         1. **Manager** add recruit to Invision project.
+1. Regarding contact Jack
+    1. Slack
+    1. WeChat
+    1. Call
+    1. Call twice
         
 # Part-time
 
