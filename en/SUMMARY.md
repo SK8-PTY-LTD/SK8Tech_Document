@@ -51,6 +51,7 @@
 * [OZII](portfolio/ozii.md)
 * [OZII WECHAT ARTICLE](portfolio/ozii-wechat-article.md)
 * [LeanWeb logo ](portfolio/leanweb-logo.md)
+* [LeaseRent](portfolio/taratours/leaserent.md)
 
 ## Services
 
@@ -71,3 +72,4 @@
 * [LeaseRent](startup-partner/leaserent.md)
 * [AlphaBaby](startup-partner/alphababy.md)
 * [LvTaoTao](startup-partner/lvtaotao.md)
+
