@@ -41,7 +41,7 @@ LOGO源于logotype的简略说法，在古希腊文化，字标志的字面意�
 色：渐变亮红色是现在网站UI的主趋势，也是让我们的leanweb有主流，快速红火的意思。
 ![](/assets/logo process-07.jpg)
 
-##定稿方案
+##细节定稿
 工具： ADOBE AI 
 
 ![](/assets/定案方案.jpg)
@@ -53,7 +53,7 @@ LOGO源于logotype的简略说法，在古希腊文化，字标志的字面意�
 ![](/assets/定稿.jpg)
 ##网站品牌化
 ![](/assets/网站品牌化.jpg)
-![](/assets/网站品牌化字体.jpg)
+![](/assets/网站品牌化字体-05.jpg)
 
 ##延展品
 logo的延展视屏，是一定要做的，是可以的，告诉使需求更周全。
