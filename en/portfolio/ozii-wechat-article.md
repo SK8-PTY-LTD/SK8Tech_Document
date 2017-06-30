@@ -1,4 +1,5 @@
 #设计师下班别走系列之从房产展示类APP界面设计案例分析
+![](/assets/ozii title page.png)
 
 最近SK8Tech制作的又一新鲜热辣的APP出炉， 今天由我们的设计师Beatrix 带来UI实战实例分享， 讲述为现在在悉尼火爆的房产中介所设计的APP案例分析与设计全过程，相信大家看完这个实战分享经验，会对大家的ui设计的实战经验有所帮助！此次设计的APP名为：**澳际置业APP**（OZII INTERNATIONAL）
 ![](/assets/分布.png)

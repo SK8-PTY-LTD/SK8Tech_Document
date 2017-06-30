@@ -52,6 +52,8 @@
 * [OZII WECHAT ARTICLE](portfolio/ozii-wechat-article.md)
 * [LeanWeb logo ](portfolio/leanweb-logo.md)
 * [LeaseRent](portfolio/taratours/leaserent.md)
+* [Royal Bazale](portfolio/taratours/leaserent/royal-bazale.md)
+* [Alpha Baby](portfolio/alpha-baby.md)
 
 ## Services
 
