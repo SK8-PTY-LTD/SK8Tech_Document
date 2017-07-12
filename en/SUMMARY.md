@@ -10,8 +10,6 @@
 * [Rules](team/rules.md)
 * [Software](team/software/README.md)
 * [Resignation](team/resignation.md)
-* [A quick guide to PM](team/a-quick-guide-to-pm.md)
-* [A quick guide to WordPress](team/a-quick-guide-to-wordpress.md)
 
 ## KnowledgeBase
 
