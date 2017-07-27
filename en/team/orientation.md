@@ -38,7 +38,6 @@ Orientation gives the new recruit a sense of purpose, and it shows him why what 
         1. Join appropriate team
         1. Watch [Quick Start](https://asana.com/guide/get-started/begin/quick-start)
         1. Watch [Add your first few tasks](https://asana.com/guide/get-started/begin/adding-assigning-tasks)
-        1. *Manager* hold an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
         1. Learn Asana [tricks](/software/README.md#Asana)
         1. **Manager** hold an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
         1. **Manager** verify chrome extension is installed
