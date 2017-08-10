@@ -11,3 +11,7 @@
 |Description|The SEO **Optimized** description for your website.|A StartUp Partner||[Tutorial](https://searchenginewatch.com/2016/05/16/how-to-write-meta-title-tags-for-seo-with-good-and-bad-examples/)|
 |Keywords|The SEO **Optimized** keywords for your website.|App, Web Development, Design, SEO||[Tutorial](https://searchenginewatch.com/2016/05/16/how-to-write-meta-title-tags-for-seo-with-good-and-bad-examples/)|
 |Social Links| All available social media links|facebook.com/sk8tech twitter.com/sk8techs plus.google.com/+Sk8Asia||
+|Contact Email| Email for contacting purpose. |||
+|Contact Number| Landline and/or Mobile. |||
+|Terms & Conditions| Terms and Conditions. |||
+|Privacy Policy| Privacy Policy. |||
