@@ -14,10 +14,9 @@ Orientation gives the new recruit a sense of purpose, and it shows him why what 
         1. Hall
         1. Clock-in Machine
         1. Kitchen
-        1. Meeting Room
-        1. Rest Room
-        1. Acunity
-        1. Toys
+        1. Conference Room
+        1. Acunity        
+        1. Entertainment
     1. **NDA** - Employee Non Disclosure Agreement
         1. Print NDA
         1. Explain NDA
@@ -40,7 +39,7 @@ Orientation gives the new recruit a sense of purpose, and it shows him why what 
         1. Watch [Quick Start](https://asana.com/guide/get-started/begin/quick-start)
         1. Watch [Add your first few tasks](https://asana.com/guide/get-started/begin/adding-assigning-tasks)
         1. Learn Asana [tricks](/software/asana.md)
-        1. **Manager** hold an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
+        1. **Manager** hold an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)  
         1. **Manager** verify [Asana chrome extension](https://chrome.google.com/webstore/detail/asana-extension-for-chrom/khnpeclbnipcdacdkhejifenadikeghk) is installed
     1. **Slack** - first.last@sk8.asia
         1. Sign up a [Slack account](https://sk8tech.slack.com/)
