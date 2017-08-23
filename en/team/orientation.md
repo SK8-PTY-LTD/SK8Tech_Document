@@ -40,15 +40,14 @@ Orientation gives the new recruit a sense of purpose, and it shows him why what 
         1. Watch [Add your first few tasks](https://asana.com/guide/get-started/begin/adding-assigning-tasks)
         1. Learn Asana [tricks](/software/asana.md)
         1. **Manager** hold an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
-        1. **Manager** verify chrome extension is installed
+        1. **Manager** verify [Asana chrome extension](https://chrome.google.com/webstore/detail/asana-extension-for-chrom/khnpeclbnipcdacdkhejifenadikeghk) is installed
     1. **Slack** - first.last@sk8.asia
         1. Sign up a [Slack account](https://sk8tech.slack.com/)
         1. Join appropriate team
         1. Watch [Learning Slack](https://www.lynda.com/Slack-tutorials/Up-Running-Slack/383930-2.html) Chapter 3~10
         1. Join appropriate team
         1. Download Slack Desktop App
-        1. **Manager** install Slack Integration
-        1. **Manager** verify chrome extension is installed
+        1. **Manager** verify [Clicky chrome extension](https://chrome.google.com/webstore/detail/clicky-for-slack/bllgmdlgbbmijcoecbnmgeoekhebgmac)  is installed
 1. Learning
     1. Booms
     1. Treehouse
