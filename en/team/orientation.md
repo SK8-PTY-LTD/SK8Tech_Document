@@ -29,9 +29,10 @@ Orientation gives the new recruit a sense of purpose, and it shows him why what 
         1. Link to WeChat
         1. **Manager** verify at least one mobile client is setup
     1. **SK8Cloud** - first.last@sk8.tech
-        1. Create SK8Cloud Account
-        1. Initial Login & Password Reset
-        1. Install [desktop client](https://owncloud.org/install/#desktop) & login
+        1. Visit [SK8Cloud](https://cloud.sk8.tech/index.php/apps/registration/)
+        1. Use your **company email** to register an account
+        1. Install [desktop client](https://nextcloud.com/install/#install-clients)
+        1. Login to your desktop client
         1. **Manager** verify desktop client is setup
     1. **Asana** - first.last@sk8.tech
         1. Sign up an [Asana account](https://asana.com/)
