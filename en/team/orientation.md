@@ -44,7 +44,7 @@ Orientation gives the new recruit a sense of purpose, and it shows him why what 
     1. **Slack** - first.last@sk8.asia
         1. Sign up a [Slack account](https://sk8tech.slack.com/)
         1. Join appropriate team
-        1. Watch [Learning Slack](https://www.lynda.com/Slack-tutorials/Up-Running-Slack/383930-2.html) Chapter 5~10
+        1. Watch [Learning Slack](https://www.lynda.com/Slack-tutorials/Up-Running-Slack/383930-2.html) Chapter 3~10
         1. Join appropriate team
         1. Download Slack Desktop App
         1. **Manager** install Slack Integration
