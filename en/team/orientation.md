@@ -14,10 +14,9 @@ Orientation gives the new recruit a sense of purpose, and it shows him why what 
         1. Hall
         1. Clock-in Machine
         1. Kitchen
-        1. Meeting Room
-        1. Rest Room
-        1. Acunity
-        1. Toys
+        1. Conference Room
+        1. Acunity        
+        1. Entertainment
     1. **NDA** - Employee Non Disclosure Agreement
         1. Print NDA
         1. Explain NDA
@@ -29,9 +28,10 @@ Orientation gives the new recruit a sense of purpose, and it shows him why what 
         1. Link to WeChat
         1. **Manager** verify at least one mobile client is setup
     1. **SK8Cloud** - first.last@sk8.tech
-        1. Create SK8Cloud Account
-        1. Initial Login & Password Reset
-        1. Install [desktop client](https://owncloud.org/install/#desktop) & login
+        1. Visit [SK8Cloud](https://cloud.sk8.tech/index.php/apps/registration/)
+        1. Use your **company email** to register an account
+        1. Install [desktop client](https://nextcloud.com/install/#install-clients)
+        1. Login to your desktop client
         1. **Manager** verify desktop client is setup
     1. **Asana** - first.last@sk8.tech
         1. Sign up an [Asana account](https://asana.com/)
@@ -39,16 +39,15 @@ Orientation gives the new recruit a sense of purpose, and it shows him why what 
         1. Watch [Quick Start](https://asana.com/guide/get-started/begin/quick-start)
         1. Watch [Add your first few tasks](https://asana.com/guide/get-started/begin/adding-assigning-tasks)
         1. Learn Asana [tricks](/software/asana.md)
-        1. **Manager** hold an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)
-        1. **Manager** verify chrome extension is installed
+        1. **Manager** hold an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)  
+        1. **Manager** verify [Asana chrome extension](https://chrome.google.com/webstore/detail/asana-extension-for-chrom/khnpeclbnipcdacdkhejifenadikeghk) is installed
     1. **Slack** - first.last@sk8.asia
         1. Sign up a [Slack account](https://sk8tech.slack.com/)
         1. Join appropriate team
-        1. Watch [Learning Slack](https://www.lynda.com/Slack-tutorials/Up-Running-Slack/383930-2.html) Chapter 5~10
+        1. Watch [Learning Slack](https://www.lynda.com/Slack-tutorials/Up-Running-Slack/383930-2.html) Chapter 3~10
         1. Join appropriate team
         1. Download Slack Desktop App
-        1. **Manager** install Slack Integration
-        1. **Manager** verify chrome extension is installed
+        1. **Manager** verify [Clicky chrome extension](https://chrome.google.com/webstore/detail/clicky-for-slack/bllgmdlgbbmijcoecbnmgeoekhebgmac)  is installed
 1. Learning
     1. Booms
     1. Treehouse
