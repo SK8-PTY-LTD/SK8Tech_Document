@@ -16,9 +16,10 @@ When an employee leaves SK8Tech, manager must perform the following tasks.
     1. **Github**
         1. Remove from Team
         1. Remove from Repos
+    1. **ManageWP**
+        1. Remove user from all websites
 1. Design
     1. **Invision**
         1. Remove Project Access
 1. Administrative
     1. Remove from Wage.xlsx
-    1. Remove WordPress users
