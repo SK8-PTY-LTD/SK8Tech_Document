@@ -24,3 +24,4 @@ When an employee leaves SK8Tech, manager must perform the following tasks.
 1. Administrative
     1. Remove from Wage.xlsx
     1. Send reference letter
+    1. Remove from WeChat
