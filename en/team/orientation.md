@@ -4,7 +4,10 @@ This document describes the process both the new recruit and manager needs to go
 
 First impression is everything, it is the first and the best opportunity to show the new recruit who we are, and what we do. 
 
-Orientation gives the new recruit a sense of purpose, and it shows him why what he do matters. 
+Orientation gives the new recruit a sense of purpose, and it shows him why what he do matters.
+
+**DONT BE Afraid to try, to make mistakes, to ask.**
+**Ask smart questions** 
 
 # Internship
 
