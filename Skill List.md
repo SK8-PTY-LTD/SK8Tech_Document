@@ -57,6 +57,7 @@
     1. FileZilla
     1. Terminal
 1. Management
+  1. 
 1. Communication
 1. Marketing
 1. Sales
