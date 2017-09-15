@@ -88,9 +88,9 @@
       1. Joomla
       1. Magento
     1. Language
-      1. HTML/EJS/JADE
+      1. HTML/EJS/JADE/WXML
       1. CSS/LESS/SASS/WXSS
-      1. JavaScript/TypeScript/ES6
+      1. JavaScript/TypeScript/ES6/WXS
       1. php
       1. C++
       1. C#
