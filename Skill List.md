@@ -26,6 +26,7 @@
     1. After Effects
     1. Sketch
     1. InVision
+    1. MockingBot
     1. Peblo
     1. ChuangKit
     1. Primer
@@ -89,7 +90,6 @@
       1. Kotlin
       1. Objective-C
       1. Swift
-      1. phpMyAdmin
     1. Provider
   1. Networking
     1. Domain
@@ -107,7 +107,8 @@
     1. XCode
     1. FileZilla
     1. Terminal
-    1. Git
+    1. SourceTre
+    1. 微信开发工具
 1. Management
   1. 
 1. Communication
