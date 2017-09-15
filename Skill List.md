@@ -88,8 +88,8 @@
       1. Joomla
       1. Magento
     1. Language
-      1. HTML
-      1. CSS
+      1. HTML/EJS
+      1. CSS/LESS/SASS/WXSS
       1. JavaScript
       1. php
       1. C++
