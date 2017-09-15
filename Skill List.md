@@ -148,8 +148,21 @@
     1. LeanCloud
     1. WP REST API
 1. Management
-  1. 
-1. Communication
+  1. Self
+    1. Learning
+    1. Time
+    1. Attitude
+  1. Team
+    1. Training
+  1. Project
+    1. Leadership
+    1. Schedule
+    1. Scope
+    1. Stackholders
+  1. Communication
+  1. Tools
+    1. Asana
+    1. Slack
 1. Marketing
   1. Sales
     1. Lead Generation
