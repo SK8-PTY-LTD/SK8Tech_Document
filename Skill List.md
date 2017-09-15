@@ -107,6 +107,7 @@
     1. XCode
     1. FileZilla
     1. Terminal
+    1. Git
 1. Management
   1. 
 1. Communication
