@@ -110,7 +110,6 @@
       1. Kotlin
       1. Objective-C
       1. Swift
-    1. Provider
   1. Networking
     1. Domain
     1. Server
