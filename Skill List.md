@@ -103,6 +103,10 @@
     1. Server
     1. Provider
   1. Documentation
+    1. Syntax
+    1. Format
+    1. Comment
+    1. Documentation
   1. Tools
     1. WebStorm
     1. PhpStorm
