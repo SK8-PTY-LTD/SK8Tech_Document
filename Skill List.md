@@ -39,9 +39,6 @@
       1. ParseServer
       1. LeanCloud
       1. WPREST
-    1. iOS
-    1. Android
-    1. WeChat
     1. Version Control
       1. Git
         1. add
