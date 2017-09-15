@@ -39,6 +39,16 @@
     1. Android
     1. WeChat
     1. Version Control
+      1. Git
+        1. add
+        1. commit
+        1. push
+        1. merge
+        1. branch
+        1. issue
+        1. wiki
+        1. 
+      1. SVN
     1. Dependency Management
       1. bower
       1. npm
