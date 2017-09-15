@@ -147,7 +147,6 @@
     1. Prospecting
     1. Proposal
     1. Closing
-1. Sales
 1. HR
 1. Accounting
 1. Finance
