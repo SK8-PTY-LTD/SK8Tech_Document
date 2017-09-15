@@ -145,7 +145,8 @@
     1. FileZilla
     1. Terminal
     1. SourceTre
-    1. 微信开发工具
+    1. WeChat Developer Tools
+    1. Chrome Inspector
     1. Postman
   1. BaaS
     1. ParseServer
