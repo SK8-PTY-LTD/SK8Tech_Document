@@ -52,7 +52,6 @@
       1. ReactJS
       1. ReactNative
       1. NodeJS
-      1. ReactNative
       1. Laveral
       1. ZendFramework
       1. SpringMVC
