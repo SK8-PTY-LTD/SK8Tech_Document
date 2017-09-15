@@ -120,11 +120,12 @@
     1. Hosting
       1. Website
       1. Email
-    1. Tools
+    1. Provider
       1. Vultr
       1. DigitalOcean
       1. ServerPilot
       1. CloudFlare
+      1. AWS
   1. Documentation
     1. Syntax
     1. Format
