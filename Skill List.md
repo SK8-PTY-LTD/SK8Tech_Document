@@ -24,7 +24,38 @@
     1. Photoshop
     1. Illustrator
     1. After Effects
+    1. Sketch
+    1. InVision
+    1. Peblo
+    1. ChuangKit
+    1. Primer
 1. IT
+  1. Software Development
+    1. Frontend
+    1. Backend
+    1. iOS
+    1. Android
+    1. Version Control
+    1. Library
+    1. Framework
+    1. Language
+    1. Provider
+  1. Networking
+    1. Domain
+    1. Server
+    1. Provider
+  1. Documentation
+  1. Tools
+    1. WebStorm
+    1. PhpStorm
+    1. Visual Studio
+    1. Unity 5
+    1. Atom
+    1. Sublime Text
+    1. Android Studio
+    1. XCode
+    1. FileZilla
+    1. Terminal
 1. Management
 1. Communication
 1. Marketing
