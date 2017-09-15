@@ -43,8 +43,9 @@
       1. bower
       1. npm
       1. composor
+      1. gradle
+      1. maven
       1. cocoapods
-      1. 
     1. Library
       1. jQuery
       1. Bootstrap
