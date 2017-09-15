@@ -142,9 +142,11 @@
 1. Communication
 1. Marketing
   1. Sales
-    1. Prospecting
+    1. Lead Generation
       1. Door knocking
-    1. 
+    1. Prospecting
+    1. Proposal
+    1. Closing
 1. Sales
 1. HR
 1. Accounting
