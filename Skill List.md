@@ -141,6 +141,10 @@
   1. 
 1. Communication
 1. Marketing
+  1. Sales
+    1. Prospecting
+      1. Door knocking
+    1. 
 1. Sales
 1. HR
 1. Accounting
