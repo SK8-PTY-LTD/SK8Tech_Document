@@ -90,7 +90,7 @@
     1. Language
       1. HTML/EJS/JADE
       1. CSS/LESS/SASS/WXSS
-      1. JavaScript
+      1. JavaScript/TypeScript/ES6
       1. php
       1. C++
       1. C#
