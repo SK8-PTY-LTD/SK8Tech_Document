@@ -15,7 +15,7 @@
     1. App
     1. Website
   1. UX
-    1. 
+    1. Prototyping
   1. Animation
     1. 
   1. Architecture
