@@ -130,6 +130,7 @@
     1. Terminal
     1. SourceTre
     1. 微信开发工具
+    1. Postman
   1. BaaS
     1. ParseServer
     1. LeanCloud
