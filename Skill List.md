@@ -77,6 +77,13 @@
       1. MongoDB
     1. CMS
       1. WordPress
+        1. Posts
+        1. Pages
+        1. Themes
+          1. Child Theme
+        1. Plugins
+        1. Widgets
+        1. Menus
       1. Joomla
       1. Magento
     1. Language
