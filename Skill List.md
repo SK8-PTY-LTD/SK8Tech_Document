@@ -31,14 +31,53 @@
     1. Primer
 1. IT
   1. Software Development
-    1. Frontend
     1. Backend
+      1. SOAP
+      1. REST
+      1. Ajax
     1. iOS
     1. Android
+    1. WeChat
     1. Version Control
+    1. Dependency Management
+      1. npm
     1. Library
+      1. jQuery
+      1. Bootstrap
+      1. Framework7
+      1. WeUI
     1. Framework
+      1. ExpressJS
+      1. Angular
+      1. ReactJS
+      1. NodeJS
+      1. ExpressJS
+      1. ReactNative
+      1. Laveral
+      1. ZendFramework
+      1. SpringMVC
+      1. Laveral
+    1. Database
+      1. SQL
+      1. MySQL
+      1. PostSQL
+      1. MongoDB
+    1. CMS
+      1. WordPress
+      1. Joomla
+      1. Magento
     1. Language
+      1. HTML
+      1. CSS
+      1. JavaScript
+      1. php
+      1. C++
+      1. C#
+      1. Java
+      1. Kotlin
+      1. Objective-C
+      1. Swift
+      1. phpMyAdmin
     1. Provider
   1. Networking
     1. Domain
