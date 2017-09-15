@@ -51,7 +51,6 @@
       1. Angular
       1. ReactJS
       1. NodeJS
-      1. ExpressJS
       1. ReactNative
       1. Laveral
       1. ZendFramework
