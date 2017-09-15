@@ -40,7 +40,11 @@
     1. WeChat
     1. Version Control
     1. Dependency Management
+      1. bower
       1. npm
+      1. composor
+      1. cocoapods
+      1. 
     1. Library
       1. jQuery
       1. Bootstrap
