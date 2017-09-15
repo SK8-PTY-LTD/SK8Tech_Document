@@ -55,7 +55,6 @@
       1. Laveral
       1. ZendFramework
       1. SpringMVC
-      1. Laveral
     1. Database
       1. SQL
       1. MySQL
