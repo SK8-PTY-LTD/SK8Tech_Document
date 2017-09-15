@@ -18,8 +18,6 @@
     1. Prototyping
   1. Animation
     1. 
-  1. Architecture
-    1. 
   1. Tools
     1. Photoshop
     1. Illustrator
