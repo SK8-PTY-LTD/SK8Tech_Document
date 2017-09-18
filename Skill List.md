@@ -108,6 +108,8 @@
       1. MarkDown
   1. Networking
     1. Linux
+      1. SSH
+      1. cron jobs
     1. Domain
     1. DNS
     1. Server
