@@ -6,6 +6,8 @@ First impression is everything, it is the first and the best opportunity to show
 
 Orientation gives the new recruit a sense of purpose, and it shows him why what he do matters.
 
+The following is a list of key talking points.
+
 1. Learning style
     1. Self Learning
     1. Make mistakes, fast
@@ -64,9 +66,8 @@ Orientation gives the new recruit a sense of purpose, and it shows him why what 
         1. **Manager** verify [Asana chrome extension](https://chrome.google.com/webstore/detail/asana-extension-for-chrom/khnpeclbnipcdacdkhejifenadikeghk) is installed
     1. **Slack** - first.last@sk8.asia
         1. Sign up a [Slack account](https://sk8tech.slack.com/)
-        1. Join appropriate team
+        1. Join appropriate team [Intern]
         1. Watch [Learning Slack](https://www.lynda.com/Slack-tutorials/Up-Running-Slack/383930-2.html) Chapter 3~10
-        1. Join appropriate team
         1. Download Slack Desktop App
         1. **Manager** verify [Clicky chrome extension](https://chrome.google.com/webstore/detail/clicky-for-slack/bllgmdlgbbmijcoecbnmgeoekhebgmac)  is installed
 1. Learning
