@@ -6,6 +6,8 @@ First impression is everything, it is the first and the best opportunity to show
 
 Orientation gives the new recruit a sense of purpose, and it shows him why what he do matters.
 
+## Talking points
+
 The following is a list of key talking points.
 
 1. Learning style
@@ -27,7 +29,10 @@ The following is a list of key talking points.
     1. A client project
     1. A WordPress plugin
 
-# Internship
+## Tools
+
+In order to get the job done, we need to right tools.
+杀猪焉用宰牛刀。
 
 1. General
     1. **CV** - Employee Cover
