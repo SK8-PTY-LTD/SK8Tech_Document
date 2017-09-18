@@ -64,7 +64,7 @@ In order to get the job done, we need to right tools.
         1. Join appropriate team
         1. Watch [Quick Start](https://asana.com/guide/get-started/begin/quick-start)
         1. Watch [Add your first few tasks](https://asana.com/guide/get-started/begin/adding-assigning-tasks)
-        1. Watch [https://www.lynda.com/Asana-tutorials/Exploring-Asanas-power-tools/162134/179360-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aasana%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2](https://www.lynda.com/Asana-tutorials/Exploring-Asanas-power-tools/162134/179360-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aasana%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2).
+        1. Watch [Asana tutorial on Lynda](https://www.lynda.com/Asana-tutorials/Exploring-Asanas-power-tools/162134/179360-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aasana%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2](https://www.lynda.com/Asana-tutorials/Exploring-Asanas-power-tools/162134/179360-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aasana%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2).
         1. Watch [Plan your day](https://asana.com/guide/resources/videos/plan-your-day).
         1. Learn Asana [tricks](/software/asana.md)
         1. **Manager** hold an Asana [kickoff meeting](https://asana.com/guide/team/onboard/asana-kickoff)  
