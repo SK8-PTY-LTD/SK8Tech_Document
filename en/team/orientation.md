@@ -6,8 +6,25 @@ First impression is everything, it is the first and the best opportunity to show
 
 Orientation gives the new recruit a sense of purpose, and it shows him why what he do matters.
 
-**DONT BE Afraid to try, to make mistakes, to ask.**
-**Ask smart questions** 
+1. Learning style
+    1. Self Learning
+    1. Make mistakes, fast
+    1. Learn from mistakes
+1. Learning outcomes
+    1. Ability to identify problem
+    1. Ability to research problem
+    1. Ability to solve problem
+1. Rule of thumb
+    1. Google First
+    1. Stuck for 20
+    1. Ask smart questions
+        1. 
+1. Duration: 12 weeks
+1. Projects: 
+    1. Resume website
+    1. A client project
+    1. A WordPress plugin
+    1. 
 
 # Internship
 
