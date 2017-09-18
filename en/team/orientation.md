@@ -24,7 +24,6 @@ Orientation gives the new recruit a sense of purpose, and it shows him why what 
     1. Resume website
     1. A client project
     1. A WordPress plugin
-    1. 
 
 # Internship
 
