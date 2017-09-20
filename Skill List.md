@@ -154,6 +154,7 @@
     1. Learning
     1. Time
     1. Attitude
+    1. TypingSpeed
   1. Team
     1. Training
   1. Project
