@@ -7,6 +7,10 @@
     1. Banner
     1. Letterhead
     1. Email
+      1. Signature
+      1. HTML
+      1. MJML
+      1. MailChimp
     1. Envalope
     1. WeChat
     1. Cup
@@ -125,7 +129,9 @@
       1. CloudFlare
       1. AWS
       1. Aliyun
-  1. Documentation
+  1. Styling
+    1. MVC
+    1. Functional Programming
     1. Syntax
     1. Format
     1. Comment
@@ -155,6 +161,13 @@
     1. Time
     1. Attitude
     1. TypingSpeed
+    1. Office
+    	1. MS Office
+    	1. G Suite
+    1. Email
+    	1. Outlook
+    	1. Gmail
+    	1. Webmail
   1. Team
     1. Training
   1. Project
@@ -178,5 +191,20 @@
   1. Recruitment
   1. Engagement
 1. Accounting
+  1. Accounts
+    1. Account Receivable
+    1. Account Payable
+    1. Bank
+  1. Banking
+  1. Sales
+  1. Purchase
+  1. Payroll
+    1. 
+  1. Cards
+  1. Tools
+    1. MYOB
+    1. XERO
+    1. QuickBooks
+    1. FreshBooks
 1. Finance
 1. Business Development
