@@ -1,4 +1,4 @@
-# Case study - 旅游活动类
+# Case study - TaraTours
 
 ### Client：
 TaraTours Pty Ltd
